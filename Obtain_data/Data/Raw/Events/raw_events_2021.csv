@@ -1,0 +1,101 @@
+PageLink,EventName,EventType,EventTypeId,Country,City,ContinentCode,Subcontinent,StartDateTime,EndDateTime,Tags,EventCode,Comments,EventDateChangeId,EventId,FromStartDate,FromEndDate,ToStartDate,ToEndDate,ShowInCalendar,Type,Event_Tier_Name
+,Caribbean Senior Championships,Continental,36,Cuba,Havana,americas,caribbean,2021-04-21T00:00:00,2021-04-25T00:00:00,,21001,Dates TBC,148.0,2207,2021-04-21T00:00:00,2021-04-25T00:00:00,,,True,Postponed,
+,"Caribbean Teams Qualification to Cali 2021 Pan American Junior Games, Havana",Pan American Junior Games,51,Cuba,Havana,americas,caribbean,2021-04-27T00:00:00,2021-04-29T00:00:00,,21002,,174.0,2209,2021-04-27T00:00:00,2021-04-29T00:00:00,,,True,Cancelled,
+,World Singles Qualification Tournament,Olympic Qualification,47,Qatar,Doha ,asia,west asia,2021-03-14T00:00:00,2021-03-17T00:00:00,,5279,,,2210,,,,,,,
+,Central American Championships,Continental,36,Costa Rica,San Jose ,americas,central america,2021-05-14T00:00:00,2021-05-19T00:00:00,,5268,,,2214,,,,,,,
+,Central American Teams Qualification to Cali 2021 Pan American Junior Games,Pan American Junior Games,51,Costa Rica,San Jose ,americas,central america,2021-05-10T00:00:00,2021-05-11T00:00:00,,21009,,,2215,,,,,,,
+,Pan American Singles Qualification to Cali 2021 Pan American Junior Games,Pan American Junior Games,51,Costa Rica,San Jose ,americas,central america,2021-05-12T00:00:00,2021-05-13T00:00:00,,21010,,,2216,,,,,,,
+,Europe Top 16 Cup,Continental,36,Switzerland,Montreux ,europe,western europe,2021-05-22T00:00:00,2021-05-23T00:00:00,,21011,Dates TBC,151.0,2217,2021-05-22T00:00:00,2021-05-23T00:00:00,,,True,Postponed,
+,South American Youth Championships,Youth Championships,33,Peru,Lima ,americas,south america,2021-07-21T00:00:00,2021-07-21T00:00:00,,21012,,171.0,2218,2021-07-21T00:00:00,2021-07-21T00:00:00,,,True,Cancelled,
+,LIEBHERR 2020 ITTF European Individual Championships,Continental,36,Poland,Warsaw ,europe,eastern europe,2021-06-22T00:00:00,2021-06-27T00:00:00,,5299,,,2219,,,,,,,
+,2021 63rd European Youth Championships,Continental,36,Croatia,Varaždin,europe,southern europe,2021-07-18T00:00:00,2021-08-01T00:00:00,,5271,,,2220,,,,,,,
+,Central American U11 & U13 Championships,Continental,36,Mexico,Acapulco,americas,central america,2021-08-31T00:00:00,2021-09-04T00:00:00,,21016,,,2223,,,,,,,
+,Tokyo 2020 Paralympic Games,Paralympic Games,52,Japan,Tokyo,asia,east asia,2021-08-24T00:00:00,2021-09-05T00:00:00,,2910,,30.0,2226,2020-08-25T00:00:00,2020-09-06T00:00:00,2021-08-24T00:00:00,2021-09-05T00:00:00,True,Postponed,
+,Tokyo 2020 Paralympic Games  - Table Tennis Dates,Paralympic Games,52,Japan,Tokyo,asia,east asia,2021-08-25T00:00:00,2021-09-03T00:00:00,,21019,,31.0,2227,2020-08-26T00:00:00,2020-09-04T00:00:00,2021-08-25T00:00:00,2021-09-03T00:00:00,True,Postponed,
+,EuroMiniChamps,European Championships,58,France,Schiltigheim,europe,western europe,2021-08-27T00:00:00,2021-08-29T00:00:00,,20120,,,2228,,,,,,,
+,ITTF Pan American Youth Championships (U19 & U15),Continental,36,Argentina,Buenos Aires,americas,south america,2021-09-12T00:00:00,2021-09-18T00:00:00,,20121,,,2229,,,,,,,
+,Cali 2021 Pan American Junior Games - Table Tennis,Pan American Junior Games,51,Colombia,Cali ,americas,south america,2021-11-30T00:00:00,2021-12-05T00:00:00,,5288,,,2230,,,,,,,
+,2021 European Championships,Continental,36,Romania,Cluj-Napoca ,europe,eastern europe,2021-09-28T00:00:00,2021-10-03T00:00:00,,20124,,,2232,,,,,,,
+,ITTF Pan American U11 & U13 Championships,Continental,36,Ecuador,Cuenca ,americas,south america,2021-10-18T00:00:00,2021-10-24T00:00:00,,20125,,,2233,,,,,,,
+,2021 ITTF Pan American Championships,Continental,36,Peru,Lima,americas,south america,2021-11-13T00:00:00,2021-11-19T00:00:00,,0,,,2234,,,,,,,
+,2021 ITTF Pan American Championships,Continental Championships,79,Peru,Lima,americas,south america,2021-11-13T00:00:00,2021-11-19T00:00:00,,0,,,2234,,,,,,,
+,Pan American Veteran Championships,Continental,36,TBD,,oceania,australasia,2021-11-30T00:00:00,2021-11-30T00:00:00,,21027,,172.0,2235,2021-11-30T00:00:00,2021-11-30T00:00:00,,,True,Dates TBD,
+,Asian Olympic Qualification Tournament,Olympic Qualification,47,Qatar,Doha ,asia,west asia,2021-03-18T00:00:00,2021-03-20T00:00:00,,0,,,2275,,,,,,,
+,2021 European Olympic Singles Qualification Tournament,Olympic Qualification,47,Portugal,Guimaraes ,europe,southern europe,2021-04-21T00:00:00,2021-04-25T00:00:00,,0,,87.0,2276,2021-02-10T00:00:00,2021-02-14T00:00:00,2021-04-21T00:00:00,2021-04-25T00:00:00,True,Postponed,
+,Central American Youth Championships (U15 & U19),Junior & Cadet Championships,13,Guatemala,Guatemala City ,americas,central america,2021-04-20T00:00:00,2021-04-24T00:00:00,,0,,,2344,,,,,,,
+,Tokyo 2020 Olympic Games,Olympic Games,38,Japan,Tokyo ,asia,east asia,2021-07-23T00:00:00,2021-08-08T00:00:00,,0,,,2345,,,,,,,
+,Tokyo 2020 Olympic Games,Olympic Games,38,Japan,Tokyo ,asia,east asia,2021-07-23T00:00:00,2021-08-08T00:00:00,,0,,,2345,,,,,,,
+,Tokyo 2020 Olympic Games,Olympic Games,38,Japan,Tokyo ,asia,east asia,2021-07-23T00:00:00,2021-08-08T00:00:00,,0,,,2345,,,,,,,
+,2021 World Table Tennis Championships Finals,WTTC,37,USA,Houston,americas,northern america,2021-11-23T00:00:00,2021-11-29T00:00:00,,0,,,2346,,,,,,,
+,WTT Contender Doha 2021,WTT Contender,34,Qatar,Doha,asia,west asia,2021-02-28T11:30:00,2021-03-06T23:59:59,"wtt2021,doha",0,,,2410,,,,,,,WTT Series
+,WTT Star Contender Doha 2021,WTT Star Contender,35,Qatar,Doha,asia,west asia,2021-03-05T19:30:00,2021-03-13T23:59:00,"wtt2021,doha",0,,,2411,,,,,,,WTT Series
+,ITTF Para XVIII Copa Tango,Para Open,54,Argentina,Buenos Aires ,americas,south america,2021-11-19T00:00:00,2021-11-21T00:00:00,,0,,,2412,,,,,,,
+,WTT Youth Contender Darwin 2021,WTT Youth Contender,69,Australia,Darwin ,oceania,australasia,2021-09-27T00:00:00,2021-10-03T00:00:00,,0,,164.0,2413,2021-09-27T00:00:00,2021-10-03T00:00:00,,,True,Cancelled,WTT Youth Series
+,2021 European Under 21 Championships,Youth Championships,33,Belgium,SPA ,europe,western europe,2021-11-11T00:00:00,2021-11-14T00:00:00,,5334,,,2414,,,,,,,
+,WTT Youth Contender Abidjan 2021,WTT Youth Contender,69,Cote d'Ivoire,Abidjan,africa,west africa,2021-08-23T00:00:00,2021-08-29T00:00:00,,0,,159.0,2418,2021-08-23T00:00:00,2021-08-29T00:00:00,,,True,Cancelled,WTT Youth Series
+,WTT Youth Contender San Jose 2021,WTT Youth Contender,69,Costa Rica,San Jose,americas,central america,2021-08-16T00:00:00,2021-08-22T00:00:00,,0,,158.0,2419,2021-08-16T00:00:00,2021-08-22T00:00:00,,,True,Cancelled,WTT Youth Series
+,ITTF Copa Costa Rica 2021,Special Games,25,Costa Rica,San José de Costa Rica ,americas,central america,2021-12-10T00:00:00,2021-12-12T00:00:00,,0,,,2420,,,,,,,
+,WTT Youth Contender Varaždin 2021,WTT Youth Contender,69,Croatia,Varaždin,europe,southern europe,2021-09-04T00:00:00,2021-09-10T00:00:00,,0,,,2421,,,,,,,WTT Youth Series
+,ITTF Fa20 Czech Para Open 2021,Para Open,54,Czechia,Ostrava ,europe,eastern europe,2021-07-01T00:00:00,2021-07-03T00:00:00,,0,,,2423,,,,,,,
+,WTT Youth Contender Cairo 2021,WTT Youth Contender,69,Egypt,Cairo ,africa,north africa,2021-09-13T00:00:00,2021-09-19T00:00:00,,0,,157.0,2425,2021-09-13T00:00:00,2021-09-19T00:00:00,,,True,Cancelled,WTT Youth Series
+,ITTF Fa20 Costa Brava Spanish Para Open 2021,Para Open,54,Spain,Platja d’Aro ,europe,southern europe,2021-10-14T00:00:00,2021-10-16T00:00:00,,0,,170.0,2427,2021-06-24T00:00:00,2021-06-26T00:00:00,2021-10-14T00:00:00,2021-10-16T00:00:00,True,Postponed,
+,ITTF SQY French Para Open 2021,Para Open,54,France,Saint Quentin en Yvelines ,europe,western europe,2021-11-09T00:00:00,2021-11-11T00:00:00,,0,,,2429,,,,,,,
+,WTT Youth Contender Accra 2021,WTT Youth Contender,69,Ghana,Accra,africa,west africa,2021-08-23T00:00:00,2021-08-29T00:00:00,,0,,160.0,2430,2021-08-23T00:00:00,2021-08-29T00:00:00,,,True,Cancelled,WTT Youth Series
+,WTT Youth Contender Hong Kong 2021,WTT Youth Contender,69,"Hong Kong, China",Hong Kong,asia,east asia,2021-11-01T00:00:00,2021-11-07T00:00:00,,,,173.0,2432,2021-11-01T00:00:00,2021-11-07T00:00:00,,,True,Cancelled,WTT Youth Series
+,WTT Youth Contender Assunción 2021,WTT Youth Contender,69,Paraguay,Assunción ,americas,south america,2021-09-27T00:00:00,2021-10-03T00:00:00,,0,,166.0,2441,2021-09-27T00:00:00,2021-10-03T00:00:00,,,True,Cancelled,WTT Youth Series
+,WTT Youth Star Contender,WTT Youth Star Contender,68,Portugal,,europe,southern europe,2021-08-10T00:00:00,2021-08-14T00:00:00,,5309,,162.0,2446,2021-08-10T00:00:00,2021-08-14T00:00:00,,,True,Cancelled,WTT Youth Series
+,ITTF Fa40 Slovenia Para Open 2021,Para Open,54,Slovenia,Laško,europe,southern europe,2021-05-29T00:00:00,2021-06-01T00:00:00,,0,Dates TBC,152.0,2448,2021-05-29T00:00:00,2021-06-01T00:00:00,,,True,Postponed,
+,Paralympic World Qualification Tournament,Paralympic Games,52,Slovenia,Laško,europe,southern europe,2021-06-03T00:00:00,2021-06-05T00:00:00,,0,,,2449,,,,,,,
+,ITTF Fa40 Slovakia Para Open 2021,Para Open,54,Slovak Republic,Bratislava ,europe,eastern europe,2021-06-09T00:00:00,2021-06-12T00:00:00,,0,,167.0,2453,2021-06-09T00:00:00,2021-06-12T00:00:00,,,True,Cancelled,
+,WTT Youth Contender Bangkok 2021,WTT Youth Contender,69,Thailand,Bangkok ,asia,south east asia,2021-09-13T00:00:00,2021-09-19T00:00:00,,0,,156.0,2456,2021-09-13T00:00:00,2021-09-19T00:00:00,,,True,Cancelled,WTT Youth Series
+,WTT Youth Contender Taipei 2021,WTT Youth Contender,69,Chinese Taipei,Taipei,asia,east asia,2021-08-23T00:00:00,2021-08-29T00:00:00,,0,,161.0,2458,2021-08-23T00:00:00,2021-08-29T00:00:00,,,True,Cancelled,WTT Youth Series
+,WTT Youth Contender Vila Real 2021,WTT Youth Contender,69,Portugal,Vila Real ,europe,southern europe,2021-05-11T00:00:00,2021-05-17T00:00:00,,0,,,2462,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Tunis 2021,WTT Youth Star Contender,68,Tunisia,Radès,africa,north africa,2021-05-26T00:00:00,2021-05-30T00:00:00,,0,,,2465,,,,,,,WTT Youth Series
+,WTT Youth Contender Havirov 2021,WTT Youth Contender,69,Czechia,Havirov,europe,eastern europe,2021-06-07T00:00:00,2021-06-13T00:00:00,,0,,,2466,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Otocec 2021 - Presented by I Feel Slovenia,WTT Youth Star Contender,68,Slovenia,Otocec,europe,southern europe,2021-06-15T00:00:00,2021-06-19T00:00:00,,0,,,2467,,,,,,,WTT Youth Series
+,2021 ITTF African Championships,Continental Championships,79,Cameroon,Yaoundé,africa,central africa,2021-09-01T00:00:00,2021-09-07T00:00:00,,,,,2473,,,,,,,
+,ITTF-ATTU Asian Table Tennis Championships,Continental Championships,79,Qatar,Doha ,asia,west asia,2021-09-28T00:00:00,2021-10-05T00:00:00,,5324,,,2474,,,,,,,
+,First Commonwealth of Independent State Games,Other Events and Multi Sport Games,39,Russia,Kazan ,europe,eastern europe,2021-09-04T00:00:00,2021-09-11T00:00:00,,,,,2475,,,,,,,
+,Cali 2021 Pan American Junior Games,Pan American Junior Games,51,Colombia,Cali ,americas,south america,2021-11-25T00:00:00,2021-12-05T00:00:00,,,,,2478,,,,,,,
+,2021 ITTF Finlandia International Open,Other Events and Multi Sport Games,39,Finland,Lohja,europe,northern europe,2021-12-02T00:00:00,2021-12-05T00:00:00,,,,,2479,,,,,,,
+,2021 ITTF Finlandia International Open,ITTF International Open,80,Finland,Lohja,europe,northern europe,2021-12-02T00:00:00,2021-12-05T00:00:00,,,,,2479,,,,,,,
+,2021 ITTF Czech International Open,ITTF International Open,80,Czechia,Olomouc,europe,eastern europe,2021-08-21T00:00:00,2021-08-25T00:00:00,,,,,2480,,,,,,,
+,2021 ITTF-Oceania Youth Championships,Youth Championships,33,New Zealand,Hamilton,oceania,australasia,2021-09-07T00:00:00,2021-09-09T00:00:00,,,Dates TBC,178.0,2481,2021-09-07T00:00:00,2021-09-09T00:00:00,,,True,Postponement,
+,2021 ITTF-Oceania Youth Championships,Other Events and Multi Sport Games,39,New Zealand,Hamilton,oceania,australasia,2021-09-07T00:00:00,2021-09-09T00:00:00,,,Dates TBC,178.0,2481,2021-09-07T00:00:00,2021-09-09T00:00:00,,,True,Postponement,
+,2021 ITTF-Oceania Cup and Pacific Cup,Youth Championships,33,New Zealand,Hamilton,oceania,australasia,2021-09-09T00:00:00,2021-09-10T00:00:00,,,Dates TBC,179.0,2482,2021-09-09T00:00:00,2021-09-10T00:00:00,,,True,Postponement,
+,2021 ITTF-Oceania Cup and Pacific Cup,Continental Championships,79,New Zealand,Hamilton,oceania,australasia,2021-09-09T00:00:00,2021-09-10T00:00:00,,,Dates TBC,179.0,2482,2021-09-09T00:00:00,2021-09-10T00:00:00,,,True,Postponement,
+,2021 ITTF Kazakhstan International Open,Other Events and Multi Sport Games,39,Kazakhstan,Karaganda,asia,middle asia,2021-09-15T00:00:00,2021-09-19T00:00:00,,,,,2484,,,,,,,
+,2021 ITTF Kazakhstan International Open,Continental Championships,79,Kazakhstan,Karaganda,asia,middle asia,2021-09-15T00:00:00,2021-09-19T00:00:00,,,,,2484,,,,,,,
+,2021 ITTF Kazakhstan International Open,Continental Championships,79,Kazakhstan,Karaganda,asia,middle asia,2021-09-15T00:00:00,2021-09-19T00:00:00,,,,,2484,,,,,,,
+,2021 ITTF Kazakhstan International Open,ITTF International Open,80,Kazakhstan,Karaganda,asia,middle asia,2021-09-15T00:00:00,2021-09-19T00:00:00,,,,,2484,,,,,,,
+,2021 Europe Youth Top-10,Continental,36,France,Tours,europe,western europe,2021-10-15T00:00:00,2021-10-17T00:00:00,,5333,,,2485,,,,,,,
+,WTT Contender Budapest 2021,WTT Contender,34,Hungary,Budapest,europe,eastern europe,2021-08-15T00:00:00,2021-08-20T00:00:00,,,,,2487,,,,,,,WTT Series
+,2021 Europe Top 16 Cup ,Other Events and Multi Sport Games,39,Greece,Thessaloniki,europe,southern europe,2021-09-18T00:00:00,2021-09-19T00:00:00,,,,,2488,,,,,,,
+,WTT Star Contender Doha 2021,WTT Star Contender,35,Qatar,Doha,asia,west asia,2021-09-20T00:00:00,2021-09-25T00:00:00,,,,,2489,,,,,,,WTT Series
+,WTT Youth Contender Otocec 2021 - Presented by I Feel Slovenia,WTT Youth Contender,69,Slovenia,Otocec,europe,southern europe,2021-09-04T00:00:00,2021-09-10T00:00:00,,0,,,2494,,,,,,,WTT Youth Series
+,WTT Youth Contender Tunis 2021,WTT Youth Contender,69,Tunisia,Rades,africa,north africa,2021-09-13T00:00:00,2021-09-19T00:00:00,,0,,,2495,,,,,,,WTT Youth Series
+,WTT Youth Contender Belgrade 2021,WTT Youth Contender,69,Serbia,Belgrade,europe,southern europe,2021-09-27T00:00:00,2021-10-03T00:00:00,,0,,,2496,,,,,,,WTT Youth Series
+,WTT Youth Contender Muscat 2021,WTT Youth Contender,69,Oman,Muscat,asia,west asia,2021-10-10T00:00:00,2021-10-15T00:00:00,,0,,,2498,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Lisbon 2021,WTT Youth Star Contender,68,Portugal,Lisbon,europe,southern europe,2021-09-18T00:00:00,2021-09-22T00:00:00,,0,,,2499,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Wladyslawowo 2021,WTT Youth Star Contender,68,Poland,Wladyslawowo,europe,eastern europe,2021-10-19T00:00:00,2021-10-23T00:00:00,,0,,,2500,,,,,,,WTT Youth Series
+,WTT Contender Tunis 2021,WTT Contender,34,Tunisia,Tunis,africa,north africa,2021-10-24T00:00:00,2021-10-30T00:00:00,,,,,2502,,,,,,,WTT Series
+,WTT Contender Laško 2021 presented by I Feel Slovenia,WTT Contender,34,Slovenia,Laško,europe,southern europe,2021-11-01T00:00:00,2021-11-07T00:00:00,,,,,2503,,,,,,,WTT Series
+,WTT Contender Novo Mesto 2021 presented by I Feel Slovenia,WTT Contender,34,Slovenia,Laško,europe,southern europe,2021-11-08T00:00:00,2021-11-14T00:00:00,,,,,2504,,,,,,,WTT Series
+,WTT Youth Contender Cuenca 2021,WTT Youth Contender,69,Ecuador,Cuenca,americas,south america,2021-10-25T00:00:00,2021-10-31T00:00:00,,0,,,2505,,,,,,,WTT Youth Series
+,WTT Youth Contender Lignano 2021,WTT Youth Contender,69,Italy,Lignano Sabbiadoro,europe,southern europe,2021-10-24T00:00:00,2021-10-30T00:00:00,,0,,,2506,,,,,,,WTT Youth Series
+,WTT Youth Contender Senec 2021,WTT Youth Contender,69,Slovak Republic,Senec,europe,eastern europe,2021-11-01T00:00:00,2021-11-07T00:00:00,,0,,,2507,,,,,,,WTT Youth Series
+,WTT Youth Contender Szombathely 2021,WTT Youth Contender,69,Hungary,Szombathely,europe,eastern europe,2021-11-01T00:00:00,2021-11-07T00:00:00,,0,,,2508,,,,,,,WTT Youth Series
+,2021 ITTF Ecuador International Open,ITTF International Open,80,Ecuador,Cuenca,americas,south america,2021-11-02T00:00:00,2021-11-06T00:00:00,,,,,2510,,,,,,,
+,ITTF World Youth Championships,World Youth Championships,30,Portugal,Vila Nova De Gaia,europe,southern europe,2021-12-02T00:00:00,2021-12-08T00:00:00,,,,,2511,,,,,,,
+,ITTF World Youth Championships,ITTF International Open,80,Portugal,Vila Nova De Gaia,europe,southern europe,2021-12-02T00:00:00,2021-12-08T00:00:00,,,,,2511,,,,,,,
+,Asian Para Youth Games,Para Specials,22,Brunei,Manama,asia,south east asia,2021-12-02T00:00:00,2021-12-06T00:00:00,,,,,2512,,,,,,,
+,Asian Para Youth Games,World Youth Championships,30,Brunei,Manama,asia,south east asia,2021-12-02T00:00:00,2021-12-06T00:00:00,,,,,2512,,,,,,,
+,2021  ITTF Argentina International Open,ITTF International Open,80,Argentina,Buenos Aires,americas,south america,2021-12-15T00:00:00,2021-12-18T00:00:00,,,,,2513,,,,,,,
+,World Parkinson Table Tennis Championships,World Championships,2,Germany,Berlin,europe,western europe,2021-09-09T00:00:00,2021-09-11T00:00:00,,,,,2514,,,,,,,
+,World Parkinson Table Tennis Championships,Para Specials,22,Germany,Berlin,europe,western europe,2021-09-09T00:00:00,2021-09-11T00:00:00,,,,,2514,,,,,,,
+,Central American Veteran Championships,World Championships,2,El Salvador,El Salvador,americas,central america,2021-09-14T00:00:00,2021-09-18T00:00:00,,,,,2515,,,,,,,
+,Central American Veteran Championships,Veteran Championships,55,El Salvador,El Salvador,americas,central america,2021-09-14T00:00:00,2021-09-18T00:00:00,,,,,2515,,,,,,,
+,WTT Cup Finals Singapore,WTT Cup Finals,91,Singapore,Singapore,asia,south east asia,2021-12-04T00:00:00,2021-12-07T00:00:00,,,,,2516,,,,,,,WTT Series
+,WTT Feeder Düsseldorf,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2021-12-07T00:00:00,2021-12-10T00:00:00,,,,,2519,,,,,,,WTT Feeder Series
+,2021 Europe Top 16 Cup,European Cups,59,Greece,Thessaloniki,europe,southern europe,2021-09-18T00:00:00,2021-09-19T00:00:00,,5269,,,2781,,,,,,,
+,2021 - ITTF Pan American Youth Championships,Youth Continental Championships,87,Dominican Republic,Santo Domingo,americas,caribbean,2021-09-12T00:00:00,2021-09-18T00:00:00,,5272,,,2782,,,,,,,

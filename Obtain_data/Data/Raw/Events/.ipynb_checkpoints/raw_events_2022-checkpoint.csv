@@ -1,0 +1,95 @@
+PageLink,EventName,EventType,EventTypeId,Country,City,ContinentCode,Subcontinent,StartDateTime,EndDateTime,Tags,EventCode,Comments,EventDateChangeId,EventId,FromStartDate,FromEndDate,ToStartDate,ToEndDate,ShowInCalendar,Type,Event_Tier_Name
+,WTT Feeder Düsseldorf I,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2022-01-12T00:00:00,2022-01-15T00:00:00,,,,,2521,,,,,,,WTT Feeder Series
+,WTT Feeder Düsseldorf II,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2022-01-17T00:00:00,2022-01-20T00:00:00,,,,,2522,,,,,,,WTT Feeder Series
+,WTT Youth Star Contender Tunis 2022,WTT Youth Star Contender,68,Tunisia,Rades,africa,north africa,2022-02-02T00:00:00,2022-02-06T00:00:00,,0,,,2523,,,,,,,WTT Youth Series
+,WTT Youth Contender Spa 2022,WTT Youth Contender,69,Belgium,Spa,europe,western europe,2022-02-14T00:00:00,2022-02-20T00:00:00,,0,,,2525,,,,,,,WTT Youth Series
+,WTT Youth Contender Metz 2022,WTT Youth Contender,69,France,Metz,europe,western europe,2022-02-14T00:00:00,2022-02-20T00:00:00,,0,,,2526,,,,,,,WTT Youth Series
+,WTT Youth Contender Vila Real 2022,WTT Youth Contender,69,Portugal,Vila Real,europe,southern europe,2022-02-26T00:00:00,2022-03-04T00:00:00,,0,,,2527,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Doha 2022,WTT Youth Star Contender,68,Qatar,Doha,asia,west asia,2022-03-07T00:00:00,2022-03-11T00:00:00,,0,,,2528,,,,,,,WTT Youth Series
+,WTT Youth Contender Sulaymaniyah 2022,WTT Youth Contender,69,Iraq,Sulaymaniyah,asia,west asia,2022-03-14T00:00:00,2022-03-20T00:00:00,,0,,,2529,,,,,,,WTT Youth Series
+,WTT Contender Muscat 2022,WTT Contender,34,Oman,Muscat,asia,west asia,2022-02-27T00:00:00,2022-03-05T00:00:00,,,,,2531,,,,,,,WTT Series
+,WTT Contender Doha 2022,WTT Contender,34,Qatar,Doha,asia,west asia,2022-03-18T00:00:00,2022-03-24T00:00:00,,,,,2532,,,,,,,WTT Series
+,WTT Star Contender Doha 2022,WTT Star Contender,35,Qatar,Doha,asia,west asia,2022-03-25T00:00:00,2022-03-31T00:00:00,,,,,2533,,,,,,,WTT Series
+,WTT Feeder Doha 2022,WTT Feeder,81,Qatar,Doha,asia,west asia,2022-03-13T00:00:00,2022-03-17T00:00:00,,,,,2534,,,,,,,WTT Feeder Series
+,2022 ITTF World Team Championships Finals Presented by China Telecom,WTTC,37,China,Chengdu,asia,east asia,2022-09-30T00:00:00,2022-10-09T00:00:00,,,,,2535,,,,,,,
+,Singapore Smash 2022,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2022-03-07T00:00:00,2022-03-20T00:00:00,,,,,2536,,,,,,,WTT Series
+,WTT Macao,WTT Exhibition,60,"Macao, China",,asia,east asia,2022-01-19T00:00:00,2022-01-23T00:00:00,,20136,,,2537,,,,,,,WTT Series
+,WTT Youth Contender Tunis 2022,WTT Youth Contender,69,Tunisia,Rades,africa,north africa,2022-03-21T00:00:00,2022-03-27T00:00:00,,0,,,2538,,,,,,,WTT Youth Series
+,WTT Contender Zagreb 2022,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2022-06-13T00:00:00,2022-06-19T00:00:00,,,,,2539,,,,,,,WTT Series
+,WTT Feeder Otocec 2022 Presented by I Feel Slovenia,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2022-06-20T00:00:00,2022-06-26T00:00:00,,,,,2540,,,,,,,WTT Feeder Series
+,WTT Feeder Olomouc 2022,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2022-08-23T00:00:00,2022-08-28T00:00:00,,,,,2541,,,,,,,WTT Feeder Series
+,WTT Feeder Panagyurishte Presented by Asarel,WTT Feeder,81,Bulgaria,Panagyurishte,europe,eastern europe,2022-08-30T00:00:00,2022-09-04T00:00:00,,,,,2542,,,,,,,WTT Feeder Series
+,WTT Youth Star Contender Otocec 2022 Presented by I Feel Slovenia,WTT Youth Star Contender,68,Slovenia,Otocec,europe,southern europe,2022-03-29T00:00:00,2022-04-02T00:00:00,,0,,,2543,,,,,,,WTT Youth Series
+,WTT Youth Contender Tbilisi 2022,WTT Youth Contender,69,Georgia,Tbilisi,europe,southern europe,2022-09-19T00:00:00,2022-09-25T00:00:00,,0,,,2544,,,,,,,WTT Youth Series
+,WTT Youth Contender Linz 2022,WTT Youth Contender,69,Austria,Linz,europe,western europe,2022-04-27T00:00:00,2022-05-03T00:00:00,,0,,,2545,,,,,,,WTT Youth Series
+,WTT Youth Contender Wladyslawowo 2022,WTT Youth Contender,69,Poland,Wladyslawowo,europe,eastern europe,2022-05-16T00:00:00,2022-05-22T00:00:00,,0,,,2546,,,,,,,WTT Youth Series
+,WTT Youth Contender Berlin 2022,WTT Youth Contender,69,Germany,Berlin,europe,western europe,2022-05-16T00:00:00,2022-05-22T00:00:00,,0,,,2547,,,,,,,WTT Youth Series
+,WTT Youth Contender Platja D'Aro 2022,WTT Youth Contender,69,Spain,"Platja d'Aro, Girona",europe,southern europe,2022-05-24T00:00:00,2022-05-30T00:00:00,,0,,,2548,,,,,,,WTT Youth Series
+,WTT Youth Contender Havirov 2022,WTT Youth Contender,69,Czechia,Havirov,europe,eastern europe,2022-06-06T00:00:00,2022-06-12T00:00:00,,0,,,2549,,,,,,,WTT Youth Series
+,WTT Youth Contender Agadir 2022,WTT Youth Contender,69,Morocco,Agadir,africa,north africa,2022-08-01T00:00:00,2022-08-07T00:00:00,,0,,,2550,,,,,,,WTT Youth Series
+,WTT Youth Contender Helsingborg 2022,WTT Youth Contender,69,Sweden,Helsingborg,europe,northern europe,2022-08-08T00:00:00,2022-08-14T00:00:00,,0,,,2551,,,,,,,WTT Youth Series
+,WTT Youth Contender Amman 2022,WTT Youth Contender,69,Jordan,Amman,asia,west asia,2022-08-22T00:00:00,2022-08-28T00:00:00,,0,,,2552,,,,,,,WTT Youth Series
+,WTT Youth Contender Otocec 2022 presented by I feel Slovenia,WTT Youth Contender,69,Slovenia,Otocec,europe,southern europe,2022-08-30T00:00:00,2022-09-05T00:00:00,,0,,,2553,,,,,,,WTT Youth Series
+,WTT Youth Contender Varazdin 2022,WTT Youth Contender,69,Croatia,Varaždin,europe,southern europe,2022-08-30T00:00:00,2022-09-05T00:00:00,,0,,,2554,,,,,,,WTT Youth Series
+,WTT Youth Contender Bangkok 2022,WTT Youth Contender,69,Thailand,Bangkok,asia,south east asia,2022-09-12T00:00:00,2022-09-18T00:00:00,,0,,,2555,,,,,,,WTT Youth Series
+,WTT Youth Contender Darwin 2022,WTT Youth Contender,69,Australia,Darwin,oceania,australasia,2022-09-27T00:00:00,2022-09-29T00:00:00,,0,,,2556,,,,,,,WTT Youth Series
+,WTT Youth Contender Podgorica 2022,WTT Youth Contender,69,Montenegro,Podgorica,europe,southern europe,2022-10-02T00:00:00,2022-10-04T00:00:00,,0,,,2557,,,,,,,WTT Youth Series
+,WTT Youth Contender Szombathely 2022,WTT Youth Contender,69,Hungary,Szombathely,europe,eastern europe,2022-11-03T00:00:00,2022-11-09T00:00:00,,0,,,2559,,,,,,,WTT Youth Series
+,WTT Youth Contender Senec 2022,WTT Youth Contender,69,Slovak Republic,Senec,europe,eastern europe,2022-11-07T00:00:00,2022-11-13T00:00:00,,0,,,2560,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Skopje 2022,WTT Youth Star Contender,68,North Macedonia,Skopje,europe,southern europe,2022-09-07T00:00:00,2022-09-11T00:00:00,,0,,,2561,,,,,,,WTT Youth Series
+,WTT Youth Contender Jezzine 2022 Presented by White Land Foundation,WTT Youth Contender,69,Lebanon,Jezzine,asia,west asia,2022-11-14T00:00:00,2022-11-20T00:00:00,,0,,,2562,,,,,,,WTT Youth Series
+,2022 Europe Top-16 Cup,WTT Youth Contender,69,Switzerland,Montreux,europe,western europe,2022-02-26T00:00:00,2022-02-27T00:00:00,,5389,,,2563,,,,,,,WTT Youth Series
+,2022 Europe Top-16 Cup,Continental Championships,79,Switzerland,Montreux,europe,western europe,2022-02-26T00:00:00,2022-02-27T00:00:00,,5389,,,2563,,,,,,,
+,2022 Europe Top-16 Cup,Continental Cups,82,Switzerland,Montreux,europe,western europe,2022-02-26T00:00:00,2022-02-27T00:00:00,,5389,,,2563,,,,,,,
+,WTT Youth Contender Lignano 2022,WTT Youth Contender,69,Italy,Lignano Sabbiadoro,europe,southern europe,2022-10-30T00:00:00,2022-11-05T00:00:00,,0,,,2564,,,,,,,WTT Youth Series
+,2022 Caribbean Senior Championships,Multi-Sport Games,77,Cuba,Havana,americas,caribbean,2022-03-03T00:00:00,2022-03-08T00:00:00,,5344,,,2565,,,,,,,
+,2022 Caribbean Senior Championships,Continental Championships,79,Cuba,Havana,americas,caribbean,2022-03-03T00:00:00,2022-03-08T00:00:00,,5344,,,2565,,,,,,,
+,WTT Youth Contender Lima 2022,WTT Youth Contender,69,Peru,Lima,americas,south america,2022-05-07T00:00:00,2022-05-19T00:00:00,,0,,,2566,,,,,,,WTT Youth Series
+,WTT Youth Contender Salta 2022,WTT Youth Contender,69,Argentina,Salta,americas,south america,2022-06-03T00:00:00,2022-06-15T00:00:00,,0,,,2567,,,,,,,WTT Youth Series
+,WTT Contender Tunis 2022,WTT Contender,34,Tunisia,Tunis,africa,north africa,2022-08-01T00:00:00,2022-08-06T00:00:00,,,,,2568,,,,,,,WTT Series
+,WTT Feeder Fremont 2022,WTT Feeder,81,USA,Fremont,americas,northern america,2022-05-05T00:00:00,2022-05-08T00:00:00,,,,,2569,,,,,,,WTT Feeder Series
+,WTT Feeder Westchester 2022,WTT Feeder,81,USA,Pleasantville,americas,northern america,2022-05-11T00:00:00,2022-05-15T00:00:00,,,,,2570,,,,,,,WTT Feeder Series
+,WTT Youth Contender Cairo 2022,WTT Youth Contender,69,Egypt,Cairo,africa,north africa,2022-10-24T00:00:00,2022-10-30T00:00:00,,0,,,2571,,,,,,,WTT Youth Series
+,WTT Contender Lima 2022,WTT Contender,34,Peru,Lima,americas,south america,2022-06-14T00:00:00,2022-06-19T00:00:00,,,,,2574,,,,,,,WTT Series
+,ITTF Africa Cup,Continental Cups,82,Nigeria,Lagos,africa,west africa,2022-05-26T00:00:00,2022-05-28T00:00:00,,5066,,,2576,,,,,,,
+,Northern Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,Algeria,,africa,north africa,2022-05-06T00:00:00,2022-05-08T00:00:00,,5408,,,2577,,,,,,,
+,Eastern Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,Ethiopia,,africa,east africa,2022-05-05T00:00:00,2022-05-08T00:00:00,,5407,,,2578,,,,,,,
+,Western Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,Nigeria,Lagos,africa,west africa,2022-05-19T00:00:00,2022-05-21T00:00:00,,5410,,,2579,,,,,,,
+,Southern Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,South Africa,Lagos,africa,southern africa,2022-06-30T00:00:00,2022-07-03T00:00:00,,5429,,,2580,,,,,,,
+,WTT Youth Contender Cuenca 2022,WTT Youth Contender,69,Ecuador,Cuenca,americas,south america,2022-08-19T00:00:00,2022-08-31T00:00:00,,0,,,2582,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Vila Nova de Gaia 2022,WTT Youth Star Contender,68,Portugal,Vila Nova de Gaia,europe,southern europe,2022-11-23T00:00:00,2022-11-27T00:00:00,,0,,,2583,,,,,,,WTT Youth Series
+,WTT Contender Nova Gorica 2022 Presented by I Feel Slovenia,WTT Contender,34,Slovenia,Nova Gorica,europe,southern europe,2022-10-31T00:00:00,2022-11-06T00:00:00,,,,,2589,,,,,,,WTT Series
+,2022 ITTF World Youth Championships,World Youth Championships,30,Tunisia,Rades,africa,north africa,2022-12-04T00:00:00,2022-12-11T00:00:00,,,,,2590,,,,,,,
+,WTT Star Contender European Summer Series 2022,WTT Star Contender,35,Hungary,Budapest,europe,eastern europe,2022-07-11T00:00:00,2022-07-17T00:00:00,,,,,2591,,,,,,,WTT Series
+,WTT Feeder European Summer Series 2022,WTT Feeder,81,Hungary,Budapest,europe,eastern europe,2022-07-18T00:00:00,2022-07-22T00:00:00,,,,,2592,,,,,,,WTT Feeder Series
+,WTT Champions European Summer Series 2022,WTT Champions,65,Hungary,Budapest,europe,eastern europe,2022-07-18T00:00:00,2022-07-23T00:00:00,,,,,2593,,,,,,,WTT Series
+,Mediterranean Games Oran 2022,Multi-Sport Games,77,Algeria,Oran,africa,north africa,2022-06-25T00:00:00,2022-07-05T00:00:00,,5413,,,2594,,,,,,,
+,2022 South East Asian U15&U19 Training Camp,Continental Championships,79,Thailand,Bangkok,asia,south east asia,2022-06-15T00:00:00,2022-06-16T00:00:00,,,,,2596,,,,,,,
+,26th Southeast Asian Junior & Cadet Table Tennis Championships,Continental Championships,79,Thailand,Bangkok,asia,south east asia,2022-06-17T00:00:00,2022-06-22T00:00:00,,,,,2597,,,,,,,
+,12th South East Asian Table Tennis Championships,Continental Championships,79,Thailand,Bangkok,asia,south east asia,2022-06-23T00:00:00,2022-06-28T00:00:00,,,,,2598,,,,,,,
+,26th Asian Junior and Cadet Table Tennis Championships Qualifying Tournament (West Asia),Continental Championships,79,Bahrain,Manama,asia,west asia,2022-06-23T00:00:00,2022-06-26T00:00:00,,,,,2599,,,,,,,
+,National Team West Asia Championships,Continental Championships,79,Jordan,Amman,asia,west asia,2022-07-26T00:00:00,2022-07-31T00:00:00,,,,,2600,,,,,,,
+,West Asia Club Championships,Continental Championships,79,Jordan,Amman,asia,west asia,2022-07-01T00:00:00,2022-07-05T00:00:00,,,,,2601,,,,,,,
+https://asia.ittf.com/pages/28/2022%20asian%20junior%20&%20cadet%20championships_2055,26th Asian Junior & Cadet Championships,Youth Continental Championships,87,Laos,Vientiane,asia,south east asia,2022-08-31T18:00:00,2022-09-05T18:00:00,,5450,,,2602,,,,,,,
+,WTT Contender Muscat 2022,WTT Contender,34,Oman,Muscat,asia,west asia,2022-09-05T00:00:00,2022-09-10T00:00:00,,,,,2605,,,,,,,WTT Series
+,WTT Contender Almaty 2022,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2022-09-13T00:00:00,2022-09-18T00:00:00,,,,,2606,,,,,,,WTT Series
+,2022 African Youth Championships,Youth Continental Championships,87,Tunisia,Rades,africa,north africa,2022-07-21T00:00:00,2022-07-27T00:00:00,,5418,,,2607,,,,,,,
+,2022 South American Championships,ITTF International Open,80,Colombia,Pereira,americas,south america,2022-07-21T00:00:00,2022-07-27T00:00:00,,5404,,,2608,,,,,,,
+,2022 ITTF-Africa Senior Championships,Continental Championships,79,Algeria,,africa,north africa,2022-09-03T00:00:00,2022-09-09T00:00:00,,,,,2609,,,,,,,
+,WTT Youth Star Contender Podgorica 2022,WTT Youth Star Contender,68,Montenegro,Podgorica,europe,southern europe,2022-10-05T00:00:00,2022-10-09T00:00:00,,0,,,2610,,,,,,,WTT Youth Series
+,2022 ITTF Pan American Championships,Continental Championships,79,Chile,Santiago,americas,south america,2022-10-31T00:00:00,2022-11-06T00:00:00,,,,,2611,,,,,,,
+,2022 European Youth Championships,Youth Continental Championships,87,Serbia,Belgrade,europe,southern europe,2022-07-06T00:00:00,2022-07-15T00:00:00,,5437,,,2612,,,,,,,
+,2022 Pan American Youth Championships (U19),Youth Continental Championships,87,Argentina,Rosario,americas,south america,2022-08-02T00:00:00,2022-08-07T00:00:00,,5414,,,2613,,,,,,,
+,2022 Commonwealth Games,Multi-Sport Games,77,England,Birmingham,europe,northern europe,2022-07-28T00:00:00,2022-08-07T00:00:00,,5364,,,2614,,,,,,,
+,ITTF-Oceania Senior Championships,Continental Championships,79,Australia,Melbourne,oceania,australasia,2022-09-05T00:00:00,2022-09-10T00:00:00,,,,,2615,,,,,,,
+,ITTF-Oceania Youth Championships,Youth Continental Championships,87,Australia,Melbourne,oceania,australasia,2022-09-05T00:00:00,2022-09-10T00:00:00,,,,,2616,,,,,,,
+,2022 European Championships,Continental Championships,79,Germany,Munich,europe,western europe,2022-08-13T00:00:00,2022-08-21T00:00:00,,5440,,,2617,,,,,,,
+,WTT Champions Macao 2022 Presented by Galaxy Entertainment Group,WTT Champions,65,"Macao, China",Macao,asia,east asia,2022-10-19T00:00:00,2022-10-23T00:00:00,,,,,2619,,,,,,,WTT Series
+,2022 Pan American Championships U15,Youth Continental Championships,87,Ecuador,Cuenca,americas,south america,2022-08-23T00:00:00,2022-08-28T00:00:00,,5415,,,2625,,,,,,,
+,WTT Cup Finals Xinxiang 2022 Presented by China Construction Bank,WTT Cup Finals,91,China,Xinxiang,asia,east asia,2022-10-27T00:00:00,2022-10-30T00:00:00,,,,,2627,,,,,,,WTT Series
+,WTT Feeder Fort Lauderdale 2022,WTT Feeder,81,USA,Fort Lauderdale,americas,northern america,2022-12-11T00:00:00,2022-12-14T00:00:00,,,,,2630,,,,,,,WTT Feeder Series
+,WTT Feeder Düsseldorf III 2022,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2022-11-22T00:00:00,2022-11-25T00:00:00,,,,,2658,,,,,,,WTT Feeder Series
+,2022 ITTF-Oceania Cup,Continental Cups,82,Papua New Guinea,Port Moresby,oceania,melanesia,2022-12-17T00:00:00,2022-12-18T23:00:00,,,,,2670,,,,,,,
+,2022 Pacific Cup,Continental Cups,82,Papua New Guinea,Port Moresby,oceania,melanesia,2022-12-17T00:00:00,2022-12-18T23:00:00,,,,,2707,,,,,,,
+,2022 - Central American Championships,Continental Championships,79,Guatemala,Guatemala City,americas,central america,2022-05-03T00:00:00,2022-05-08T00:00:00,,5399,,,2783,,,,,,,
+https://asia.ittf.com/pages/29/2022%20asian%20cup_3880,33rd ITTF-ATTU Asian Cup 2022,Continental Cups,82,Thailand,,asia,south east asia,2022-11-17T00:00:00,2022-11-19T00:00:00,,,,,2974,,,,,,,
