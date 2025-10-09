@@ -1,0 +1,156 @@
+EventName,EventType,Country,City,ContinentCode,Subcontinent,Tags,EventCode,EventId,Mens Match Count,Womens Match Count,Total Match Count,BallSponsor,TableSponsor,StartDate
+Tokyo 2020 Olympic Games,Olympic Games,Japan,Tokyo ,asia,east asia,,0.0,2345,65,70,135,,,2021-07-23
+Paris 2024 Olympic Games,Olympic Games,France,Paris,europe,western europe,,,2603,67,67,134,,,2024-07-26
+WTT Champions European Summer Series 2022,WTT Champions,Hungary,Budapest,europe,eastern europe,,,2593,31,31,62,Double Fish,DHS,2022-07-18
+WTT Champions Macao 2022 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,asia,east asia,,,2619,31,31,62,Double Fish,,2022-10-19
+WTT Champions Xinxiang 2023 Presented by Industrial and Commercial Bank of China,WTT Champions,China,Xinxiang,asia,east asia,,,2737,31,31,62,,Double Fish,2023-04-09
+WTT Champions Macao 2023 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,asia,east asia,,,2728,31,31,62,Double Fish,,2023-04-17
+WTT Champions Frankfurt 2023,WTT Champions,Germany,Frankfurt,europe,western europe,,,2705,31,31,62,DHS,Double Fish,2023-10-29
+WTT Champions Incheon 2024 Presented by Shinhan Bank,WTT Champions,Korea Republic,Incheon,asia,east asia,,,2899,31,31,62,,Double Fish,2024-03-27
+WTT Champions Chongqing 2024 Presented by Changan,WTT Champions,China,Chongqing,asia,east asia,,,2941,30,31,61,Double Fish,,2024-05-30
+WTT Champions Macao 2024 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,asia,east asia,,,2983,31,31,62,Double Fish,,2024-09-09
+WTT Champions Montpellier 2024,WTT Champions,France,Montpellier,europe,western europe,,,2940,31,31,62,,,2024-10-22
+WTT Champions Frankfurt 2024,WTT Champions,Germany,Frankfurt,europe,western europe,,,2877,31,31,62,DHS,Double Fish,2024-11-03
+WTT Champions Chongqing 2025 Presented by AITO,WTT Champions,China,Chongqing,asia,east asia,,,3086,31,31,62,Double Fish,,2025-03-11
+WTT Champions Incheon 2025,WTT Champions,Korea Republic,Incheon,asia,east asia,,,3087,31,31,62,Yinhe,,2025-04-01
+WTT Champions Yokohama 2025,WTT Champions,Japan,,asia,east asia,,,3094,31,31,62,,,2025-08-07
+WTT Champions Macao 2025 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,asia,east asia,,,3097,31,31,62,Double Fish,DHS,2025-09-09
+WTT Contender Doha 2021,WTT Contender,Qatar,Doha,asia,west asia,"wtt2021,doha",0.0,2410,115,99,214,DHS,Double Fish,2021-02-28
+WTT Contender Budapest 2021,WTT Contender,Hungary,Budapest,europe,eastern europe,,,2487,60,50,110,DHS,Joola,2021-08-15
+WTT Contender Tunis 2021,WTT Contender,Tunisia,Tunis,africa,north africa,,,2502,83,63,146,,,2021-10-24
+WTT Contender Laško 2021 presented by I Feel Slovenia,WTT Contender,Slovenia,Laško,europe,southern europe,,,2503,101,57,158,,,2021-11-01
+WTT Contender Novo Mesto 2021 presented by I Feel Slovenia,WTT Contender,Slovenia,Laško,europe,southern europe,,,2504,87,71,158,,,2021-11-08
+WTT Contender Muscat 2022,WTT Contender,Oman,Muscat,asia,west asia,,,2531,97,81,178,DHS,Stag,2022-02-27
+WTT Contender Doha 2022,WTT Contender,Qatar,Doha,asia,west asia,,,2532,119,101,220,,,2022-03-18
+WTT Contender Zagreb 2022,WTT Contender,Croatia,Zagreb,europe,southern europe,,,2539,119,116,235,,,2022-06-13
+WTT Contender Lima 2022,WTT Contender,Peru,Lima,americas,south america,,,2574,78,44,122,,,2022-06-14
+WTT Contender Tunis 2022,WTT Contender,Tunisia,Tunis,africa,north africa,,,2568,80,67,147,,,2022-08-01
+WTT Contender Muscat 2022,WTT Contender,Oman,Muscat,asia,west asia,,,2605,61,36,97,DHS,Stag,2022-09-05
+WTT Contender Almaty 2022,WTT Contender,Kazakhstan,Almaty,asia,middle asia,,,2606,68,50,118,,,2022-09-13
+WTT Contender Nova Gorica 2022 Presented by I Feel Slovenia,WTT Contender,Slovenia,Nova Gorica,europe,southern europe,,,2589,119,101,220,,,2022-10-31
+WTT Contender Durban 2023,WTT Contender,South Africa,Durban,africa,southern africa,,,2699,52,48,100,,,2023-01-10
+WTT Contender Doha 2023,WTT Contender,Qatar,Doha,asia,west asia,,,2698,107,71,178,DHS,Stag,2023-01-15
+WTT Contender Amman 2023,WTT Contender,Jordan,Amman,asia,west asia,,,2697,85,70,155,DHS,Stag,2023-02-06
+WTT Contender Lagos 2023,WTT Contender,Nigeria,Lagos,africa,west africa,,,2693,77,58,135,,,2023-06-12
+WTT Contender Tunis 2023 Presented by KIA,WTT Contender,Tunisia,Tunis,africa,north africa,,,2691,85,67,152,,,2023-06-20
+WTT Contender Zagreb 2023,WTT Contender,Croatia,Zagreb,europe,southern europe,,,2692,113,82,195,DHS,Tibhar,2023-06-26
+WTT Contender Lima 2023,WTT Contender,Peru,Lima,americas,south america,,,2721,64,56,120,DHS,Donic,2023-07-31
+WTT Contender Rio de Janeiro 2023,WTT Contender,Brazil,Rio De Janeiro,americas,south america,,,2722,86,68,154,DHS,Tibhar,2023-08-07
+WTT Contender Almaty 2023,WTT Contender,Kazakhstan,Almaty,asia,middle asia,,,2739,74,57,131,,,2023-08-29
+WTT Contender Muscat 2023,WTT Contender,Oman,Muscat,asia,west asia,,,2775,68,55,123,DHS,,2023-10-08
+WTT Contender Antalya 2023,WTT Contender,Türkiye,Antalya,europe,southern europe,,,2742,58,51,109,,,2023-10-16
+WTT Contender Taiyuan 2023,WTT Contender,China,Taiyuan,asia,east asia,,,2794,40,26,66,DHS,Stiga,2023-11-07
+WTT Contender Doha 2024,WTT Contender,Qatar,Doha,asia,west asia,,,2861,88,61,149,,,2024-01-14
+WTT Contender Rio de Janeiro 2024,WTT Contender,Brazil,Rio De Janeiro,americas,south america,,,2867,65,62,127,DHS,,2024-05-20
+WTT Contender Taiyuan 2024,WTT Contender,China,Taiyuan,asia,east asia,,,2865,42,35,77,,,2024-05-21
+WTT Contender Mendoza 2024,WTT Contender,Argentina,Mendoza,americas,south america,,,2934,56,52,108,,,2024-05-27
+WTT Contender Zagreb 2024,WTT Contender,Croatia,Zagreb,europe,southern europe,,,2869,88,83,171,DHS,,2024-06-03
+WTT Contender Lagos 2024,WTT Contender,Nigeria,Lagos,africa,west africa,,,2868,54,34,88,,,2024-06-19
+WTT Contender Tunis 2024 Presented by KIA,WTT Contender,Tunisia,Tunis,africa,north africa,,,2871,61,51,112,DHS,,2024-06-25
+WTT Contender Lima 2024,WTT Contender,Peru,Lima,americas,south america,,,2872,41,31,72,,,2024-08-21
+WTT Contender Almaty 2024,WTT Contender,Kazakhstan,Almaty,asia,middle asia,,,2873,54,59,113,,,2024-09-03
+WTT Contender Muscat 2024,WTT Contender,Oman,Muscat,asia,west asia,,,2997,51,40,91,,,2024-10-28
+WTT Contender Muscat 2025,WTT Contender,Oman,Muscat,asia,west asia,,,3084,92,80,172,,,2025-01-11
+WTT Contender Taiyuan 2025,WTT Contender,China,Taiyuan,asia,east asia,,,3088,55,52,107,DHS,Stiga,2025-04-08
+WTT Contender Tunis 2025 Presented By Tunisie Telecom,WTT Contender,Tunisia,Tunis,africa,north africa,,,3089,87,81,168,,,2025-04-22
+WTT Contender Skopje 2025,WTT Contender,North Macedonia,Skopje,europe,southern europe,,,3090,90,84,174,,,2025-06-09
+WTT Contender Zagreb 2025,WTT Contender,Croatia,Zagreb,europe,southern europe,,,3092,89,75,164,DHS,,2025-06-24
+WTT Contender Lagos 2025,WTT Contender,Nigeria,Lagos,africa,west africa,,,3121,87,72,159,,,2025-07-22
+WTT Contender Buenos Aires 2025,WTT Contender,Argentina,Buenos Aires,americas,south america,,,3175,61,47,108,,,2025-07-22
+WTT Contender Almaty 2025,WTT Contender,Kazakhstan,Almaty,asia,middle asia,,,3096,68,69,137,,,2025-09-02
+WTT Feeder Düsseldorf,WTT Feeder,Germany,Düsseldorf,europe,western europe,,,2519,35,26,61,,,2021-12-07
+WTT Feeder Düsseldorf I,WTT Feeder,Germany,Düsseldorf,europe,western europe,,,2521,54,27,81,,,2022-01-12
+WTT Feeder Düsseldorf II,WTT Feeder,Germany,Düsseldorf,europe,western europe,,,2522,79,45,124,,,2022-01-17
+WTT Feeder Doha 2022,WTT Feeder,Qatar,Doha,asia,west asia,,,2534,98,82,180,,,2022-03-13
+WTT Feeder Fremont 2022,WTT Feeder,USA,Fremont,americas,northern america,,,2569,67,36,103,,,2022-05-05
+WTT Feeder Westchester 2022,WTT Feeder,USA,Pleasantville,americas,northern america,,,2570,87,48,135,,,2022-05-11
+WTT Feeder Otocec 2022 Presented by I Feel Slovenia,WTT Feeder,Slovenia,Otocec,europe,southern europe,,,2540,107,97,204,,,2022-06-20
+WTT Feeder European Summer Series 2022,WTT Feeder,Hungary,Budapest,europe,eastern europe,,,2592,106,87,193,,,2022-07-18
+WTT Feeder Olomouc 2022,WTT Feeder,Czechia,Olomouc,europe,eastern europe,,,2541,130,97,227,,,2022-08-23
+WTT Feeder Panagyurishte Presented by Asarel,WTT Feeder,Bulgaria,Panagyurishte,europe,eastern europe,,,2542,104,79,183,,,2022-08-30
+WTT Feeder Düsseldorf III 2022,WTT Feeder,Germany,Düsseldorf,europe,western europe,,,2658,86,87,173,,,2022-11-22
+WTT Feeder Fort Lauderdale 2022,WTT Feeder,USA,Fort Lauderdale,americas,northern america,,,2630,40,28,68,,,2022-12-11
+WTT Feeder Doha 2023,WTT Feeder,Qatar,Doha,asia,west asia,,,2701,80,38,118,,,2023-01-22
+WTT Feeder Amman 2023,WTT Feeder,Jordan,Amman,asia,west asia,,,2700,61,39,100,,,2023-02-01
+WTT Feeder Düsseldorf 2023,WTT Feeder,Germany,Düsseldorf,europe,western europe,,,2702,85,87,172,Double Fish,Donic,2023-02-14
+WTT Feeder Düsseldorf II 2023,WTT Feeder,Germany,Düsseldorf,europe,western europe,,,2703,84,84,168,Double Fish,Donic,2023-02-21
+WTT Feeder Antalya 2023,WTT Feeder,Türkiye,Antalya,europe,southern europe,,,2704,99,87,186,,,2023-03-27
+WTT Feeder Havirov 2023,WTT Feeder,Czechia,Havirov,europe,eastern europe,,,2750,66,42,108,,,2023-07-27
+WTT Feeder Olomouc 2023,WTT Feeder,Czechia,Olomouc,europe,eastern europe,,,2724,109,110,219,,,2023-08-22
+WTT Feeder Panagyurishte 2023 presented by ASAREL ,WTT Feeder,Bulgaria,Panagyurishte,europe,eastern europe,,,2723,70,64,134,,,2023-08-29
+WTT Feeder Bangkok 2023,WTT Feeder,Thailand,Bangkok,asia,south east asia,,,2740,74,46,120,,,2023-09-04
+WTT Feeder Stockholm 2023,WTT Feeder,Sweden,Stockhom,europe,northern europe,,,2738,90,77,167,,,2023-10-02
+WTT Feeder Doha II 2023,WTT Feeder,Qatar,Doha,asia,west asia,,5507.0,2734,52,41,93,,,2023-10-17
+WTT Feeder Otocec 2023 presented by I Feel Slovenia,WTT Feeder,Slovenia,Otocec,europe,southern europe,,,2733,91,83,174,,,2023-10-30
+WTT Feeder Vila Nova de Gaia 2023,WTT Feeder,Portugal,Vila Nova de Gaia,europe,southern europe,,,2735,107,93,200,,,2023-11-22
+WTT Feeder Düsseldorf III 2023,WTT Feeder,Germany,Düsseldorf,europe,western europe,,5513.0,2755,109,85,194,Double Fish,Donic,2023-11-27
+WTT Feeder Biella 2023,WTT Feeder,Italy,Biella,europe,southern europe,,,2732,108,61,169,,,2023-12-12
+WTT Feeder Corpus Christi 2024,WTT Feeder,USA,Corpus Christi,americas,northern america,,,2878,55,39,94,,,2024-01-15
+WTT Feeder Manchester 2024,WTT Feeder,England,Manchester,europe,northern europe,,,2879,55,53,108,,,2024-02-01
+WTT Feeder Beirut 2024,WTT Feeder,Lebanon,Beirut,asia,west asia,,,2893,57,48,105,,,2024-03-19
+WTT Feeder Beirut II 2024,WTT Feeder,Lebanon,Beirut,asia,west asia,,,2894,58,45,103,,,2024-03-22
+WTT Feeder Otocec 2024 Presented by I Feel Slovenia,WTT Feeder,Slovenia,Otocec,europe,southern europe,,,2880,113,92,205,Double Fish,Tibhar,2024-03-26
+WTT Feeder Varazdin 2024,WTT Feeder,Croatia,Varaždin,europe,southern europe,,,2882,129,103,232,,,2024-04-02
+WTT Feeder Düsseldorf 2024,WTT Feeder,Germany,Düsseldorf,europe,western europe,,,2881,121,94,215,Double Fish,Andro,2024-04-08
+WTT Feeder Havirov 2024,WTT Feeder,Czechia,Havirov,europe,eastern europe,,,2883,85,86,171,,,2024-04-14
+WTT Feeder Cappadocia 2024,WTT Feeder,Türkiye,Cappadocia - Nevsehir,europe,southern europe,,,2911,63,41,104,,,2024-05-13
+WTT Feeder Olomouc 2024,WTT Feeder,Czechia,Olomouc,europe,eastern europe,,,2884,58,47,105,,,2024-08-21
+WTT Feeder Muscat 2024,WTT Feeder,Oman,Muscat,asia,west asia,,,2965,38,30,68,,,2024-08-29
+WTT Feeder Panagyurishte 2024 Presented by Asarel,WTT Feeder,Bulgaria,Panagyurishte,europe,eastern europe,,,2885,64,42,106,,,2024-09-11
+WTT Feeder Halmstad 2024,WTT Feeder,Sweden,Halmstad,europe,northern europe,,,2886,73,52,125,,,2024-09-16
+WTT Feeder Doha 2024,WTT Feeder,Qatar,Doha,asia,west asia,,,2887,65,28,93,,,2024-10-03
+WTT Feeder Cagliari 2024,WTT Feeder,Italy,Cagliari,europe,southern europe,,,2889,74,47,121,,,2024-10-22
+WTT Feeder Prishtina 2024,WTT Feeder,Kosovo,Pristina,europe,southern europe,,,2964,40,41,81,,,2024-10-30
+WTT Feeder Caracas 2024,WTT Feeder,Venezuela,Caracas,americas,south america,,,2912,52,42,94,,,2024-10-31
+WTT Feeder Düsseldorf II 2024,WTT Feeder,Germany,Düsseldorf,europe,western europe,,,2890,91,60,151,,,2024-11-18
+WTT Feeder Vila Nova de Gaia 2024,WTT Feeder,Portugal,Vila Nova de Gaia,europe,southern europe,,,2891,86,71,157,,,2024-11-23
+WTT Feeder Doha 2025,WTT Feeder,Qatar,Doha,asia,west asia,,,3026,95,34,129,,,2025-02-04
+WTT Feeder Düsseldorf 2025,WTT Feeder,Germany,Düsseldorf,europe,western europe,,,3020,71,72,143,,,2025-02-11
+WTT Feeder Cappadocia 2025,WTT Feeder,Türkiye,Cappadocia - Nevsehir,europe,southern europe,,,3030,95,68,163,,,2025-02-17
+WTT Feeder Otocec 2025 Presented by I Feel Slovenia ,WTT Feeder,Slovenia,Otocec,europe,southern europe,,,3024,87,86,173,Yinhe,Tibhar,2025-03-25
+WTT Feeder Otocec II 2025 Presented by I Feel Slovenia ,WTT Feeder,Slovenia,Otocec,europe,southern europe,,,3025,108,96,204,Yinhe,Tibhar,2025-03-30
+WTT Feeder Havirov 2025,WTT Feeder,Czechia,Havirov,europe,eastern europe,,,3069,93,74,167,,,2025-04-05
+WTT Feeder Manchester 2025,WTT Feeder,England,Manchester,europe,northern europe,,,3023,55,50,105,,,2025-04-24
+WTT Feeder Prishtina 2025,WTT Feeder,Kosovo,Prishtina,europe,southern europe,,,3058,95,74,169,,,2025-06-03
+WTT Feeder Spokane 2025,WTT Feeder,USA,Spokane ,americas,northern america,,,3177,62,34,96,,,2025-08-05
+WTT Feeder Spokane II 2025,WTT Feeder,USA,Spokane ,americas,northern america,,,3178,46,33,79,,,2025-08-09
+WTT Feeder Vientiane 2025 Presented by ICBC Bank,WTT Feeder,Laos,,asia,south east asia,,,3131,74,45,119,,,2025-08-11
+WTT Feeder Panagyurishte 2025 Presented by Asarel,WTT Feeder,Bulgaria,Panagyurishte,europe,eastern europe,,,3027,62,30,92,,,2025-08-21
+WTT Feeder Olomouc 2025,WTT Feeder,Czechia,Olomouc,europe,eastern europe,,,3028,81,52,133,,,2025-08-28
+WTT Feeder Istanbul 2025,WTT Feeder,Türkiye,Istanbul,europe,southern europe,,,3199,89,65,154,,,2025-09-11
+WTT Feeder Cappadocia II 2025,WTT Feeder,Türkiye,Cappadocia - Nevsehir,europe,southern europe,,,3031,71,62,133,,,2025-09-16
+WTT Cup Finals Singapore,WTT Finals,Singapore,Singapore,asia,south east asia,,,2516,15,15,30,Double Fish,DHS,2021-12-04
+WTT Cup Finals Xinxiang 2022 Presented by China Construction Bank,WTT Finals,China,Xinxiang,asia,east asia,,,2627,14,15,29,DHS,,2022-10-27
+WTT Finals Women Nagoya 2023,WTT Finals,Japan,Nagoya,asia,east asia,,,2776,0,15,15,,Double Fish,2023-12-15
+WTT Finals Men Doha 2023,WTT Finals,Qatar,Doha,asia,west asia,,,2866,15,0,15,,,2024-01-03
+WTT Finals Fukuoka 2024,WTT Finals,Japan,Kitakyushu,asia,east asia,,,2947,15,15,30,DHS,Double Fish,2024-11-20
+Singapore Smash 2022,WTT Grand Smash,Singapore,Singapore,asia,south east asia,,,2536,108,102,210,Double Fish,DHS,2022-03-07
+Singapore Smash 2023,WTT Grand Smash,Singapore,Singapore,asia,south east asia,,,2629,119,118,237,Double Fish,DHS,2023-03-07
+Singapore Smash 2024,WTT Grand Smash,Singapore,Singapore,asia,south east asia,,,2904,119,118,237,Yinhe,DHS,2024-03-07
+Saudi Smash 2024,WTT Grand Smash,Saudi Arabia,Jeddah,asia,west asia,,,2932,119,119,238,Double Fish,DHS,2024-05-01
+China Smash 2024 Presented by Zhonghui Life,WTT Grand Smash,China,Beijing,asia,east asia,,,2942,119,117,236,Double Fish,DHS,2024-09-26
+Singapore Smash 2025,WTT Grand Smash,Singapore,Singapore,asia,south east asia,,,3085,119,119,238,Yinhe,DHS,2025-01-30
+United States Smash 2025,WTT Grand Smash,USA,Las Vegas,americas,northern america,,,3082,134,130,264,DHS,Joola,2025-07-03
+Europe Smash - Sweden 2025,WTT Grand Smash,Sweden,Malmö,europe,northern europe,,,3128,119,119,238,DHS,Double Fish,2025-08-14
+China Smash 2025 Presented by Beijing Shijingshan Culture & Tourism Group,WTT Grand Smash,China,Beijing,asia,east asia,,,3098,119,118,237,Double Fish,DHS,2025-09-25
+WTT Star Contender Doha 2021,WTT Star Contender,Qatar,Doha,asia,west asia,"wtt2021,doha",0.0,2411,103,98,201,DHS,Double Fish,2021-03-05
+WTT Star Contender Doha 2021,WTT Star Contender,Qatar,Doha,asia,west asia,,,2489,83,63,146,,,2021-09-20
+WTT Star Contender Doha 2022,WTT Star Contender,Qatar,Doha,asia,west asia,,,2533,103,97,200,,,2022-03-25
+WTT Star Contender European Summer Series 2022,WTT Star Contender,Hungary,Budapest,europe,eastern europe,,,2591,84,83,167,,,2022-07-11
+WTT Star Contender Goa 2023,WTT Star Contender,India,Goa,asia,south asia,,,2696,83,74,157,,,2023-02-27
+WTT Star Contender Bangkok 2023,WTT Star Contender,Thailand,Bangkok,asia,south east asia,,,2695,102,93,195,,,2023-04-23
+WTT Star Contender Ljubljana 2023 Presented by I Feel Slovenia,WTT Star Contender,Slovenia,Ljubljana,europe,southern europe,,,2694,103,103,206,DHS,Tibhar,2023-07-03
+WTT Star Contender Lanzhou 2023 Presented by Huanchen Sports,WTT Star Contender,China,Lanzhou,asia,east asia,,,2777,58,46,104,DHS,Stiga,2023-10-02
+WTT Star Contender Doha 2024,WTT Star Contender,Qatar,Doha,asia,west asia,,,2862,103,83,186,,,2024-01-08
+WTT Star Contender Goa 2024,WTT Star Contender,India,Goa,asia,south asia,,,2863,76,74,150,,,2024-01-23
+WTT Star Contender Ljubljana 2024 Presented by I Feel Slovenia,WTT Star Contender,Slovenia,Ljubljana,europe,southern europe,,,2870,98,89,187,DHS,,2024-06-11
+WTT Star Contender Bangkok 2024,WTT Star Contender,Thailand,Bangkok,asia,south east asia,,,2900,64,61,125,DHS,,2024-07-02
+WTT Star Contender Doha 2025,WTT Star Contender,Qatar,Doha,asia,west asia,,,3083,92,77,169,,,2025-01-06
+WTT Star Contender Chennai 2025 Presented by IndianOil,WTT Star Contender,India,Chennai,asia,south asia,,,3133,77,74,151,,,2025-03-25
+WTT Star Contender Ljubljana 2025 Presented by I Feel Slovenia,WTT Star Contender,Slovenia,Ljubljana,europe,southern europe,,,3091,97,100,197,,,2025-06-17
+WTT Star Contender Foz do Iguaçu 2025,WTT Star Contender,Brazil,Foz do Iguaçu,americas,south america,,,3093,59,42,101,,,2025-07-30
+2021 World Table Tennis Championships Finals,World Championship,USA,Houston,americas,northern america,,0.0,2346,119,117,236,Butterfly,DHS,2021-11-23
+2023 ITTF World Table Tennis Championships Finals,World Championship,South Africa,Durban,africa,southern africa,,,2660,126,125,251,Double Fish,DHS,2023-05-20
+ITTF World Table Tennis Championships Finals Doha 2025,World Championship,Qatar,Doha,asia,west asia,,,3108,127,127,254,Butterfly,DHS,2025-05-17
+ITTF MEN'S AND WOMEN'S WORLD CUP MACAO 2024 PRESENTED BY GALAXY ENTERTAINMENT GROUP,World Cup,"Macao, China",Macao,asia,east asia,,,2937,63,63,126,,,2024-04-15
+ITTF MEN'S AND WOMEN'S WORLD CUP MACAO 2025 PRESENTED BY GALAXY ENTERTAINMENT GROUP,World Cup,"Macao, China",,asia,east asia,,,3109,63,63,126,,,2025-04-14
