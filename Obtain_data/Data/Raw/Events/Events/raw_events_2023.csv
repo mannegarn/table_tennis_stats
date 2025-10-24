@@ -1,0 +1,108 @@
+PageLink,EventName,EventType,EventTypeId,Country,City,ContinentCode,Subcontinent,StartDateTime,EndDateTime,Tags,EventCode,Comments,EventDateChangeId,EventId,FromStartDate,FromEndDate,ToStartDate,ToEndDate,ShowInCalendar,Type,Event_Tier_Name
+,Singapore Smash 2023,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2023-03-07T00:00:00,2023-03-19T00:00:00,,,,,2629,,,,,,,WTT Series
+,WTT Youth Contender Szombathely 2023,WTT Youth Contender,69,Hungary,Szombathely,europe,eastern europe,2023-11-02T00:00:00,2023-11-08T00:00:00,,0,,,2632,,,,,,,WTT Youth Series
+,WTT Youth Contender Senec 2023,WTT Youth Contender,69,Slovak Republic,Senec,europe,eastern europe,2023-11-06T00:00:00,2023-11-12T00:00:00,,0,,,2633,,,,,,,WTT Youth Series
+,WTT Youth Contender Lignano 2023,WTT Youth Contender,69,Italy,Lignano Sabbiadoro,europe,southern europe,2023-10-29T00:00:00,2023-11-04T00:00:00,,0,,,2634,,,,,,,WTT Youth Series
+,WTT Youth Contender Spa 2023,WTT Youth Contender,69,Belgium,Spa,europe,western europe,2023-04-17T00:00:00,2023-04-23T00:00:00,,0,,,2635,,,,,,,WTT Youth Series
+,WTT Youth Contender Metz 2023,WTT Youth Contender,69,France,Metz,europe,western europe,2023-04-17T00:00:00,2023-04-23T00:00:00,,0,,,2636,,,,,,,WTT Youth Series
+,WTT Youth Contender Varazdin 2023,WTT Youth Contender,69,Croatia,Varaždin,europe,southern europe,2023-08-28T00:00:00,2023-09-03T00:00:00,,0,,,2637,,,,,,,WTT Youth Series
+,WTT Youth Contender Otocec 2023,WTT Youth Contender,69,Slovenia,Otocec,europe,southern europe,2023-08-28T00:00:00,2023-09-03T00:00:00,,0,,,2638,,,,,,,WTT Youth Series
+,WTT Youth Contender Linz 2023,WTT Youth Contender,69,Austria,Linz,europe,western europe,2023-01-11T00:00:00,2023-01-14T00:00:00,,0,,,2639,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Vila Nova de Gaia 2023,WTT Youth Star Contender,68,Portugal,Vila Nova de Gaia,europe,southern europe,2023-11-15T00:00:00,2023-11-19T00:00:00,,0,,,2640,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Doha 2023,WTT Youth Star Contender,68,Qatar,Doha,asia,west asia,2023-10-10T00:00:00,2023-10-14T00:00:00,,0,,,2641,,,,,,,WTT Youth Series
+,WTT Youth Contender Doha 2023,WTT Youth Contender,69,Qatar,Doha,asia,west asia,2023-01-27T00:00:00,2023-01-30T00:00:00,,0,,,2642,,,,,,,WTT Youth Series
+,WTT Youth Contender Vila Real 2023,WTT Youth Contender,69,Portugal,Vila Real,europe,southern europe,2023-02-25T00:00:00,2023-03-03T00:00:00,,0,,,2643,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Tunis 2023,WTT Youth Star Contender,68,Tunisia,Rades,africa,north africa,2023-02-01T00:00:00,2023-02-05T00:00:00,,0,,,2644,,,,,,,WTT Youth Series
+,WTT Youth Contender Tunis 2023,WTT Youth Contender,69,Tunisia,Rades,africa,north africa,2023-08-09T00:00:00,2023-08-12T00:00:00,,0,,,2645,,,,,,,WTT Youth Series
+,WTT Youth Contender Bangkok 2023,WTT Youth Contender,69,Thailand,Bangkok,asia,south east asia,2023-09-11T00:00:00,2023-09-17T00:00:00,,0,,,2646,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Skopje 2023,WTT Youth Star Contender,68,North Macedonia,Skopje,europe,southern europe,2023-09-05T00:00:00,2023-09-09T00:00:00,,0,,,2647,,,,,,,WTT Youth Series
+,WTT Youth Contender Sulaymaniyah 2023,WTT Youth Contender,69,Iraq,Sulaymaniyah,asia,west asia,2023-03-13T00:00:00,2023-03-19T00:00:00,,0,,,2648,,,,,,,WTT Youth Series
+,WTT Youth Contender Platja D'Aro 2023,WTT Youth Contender,69,Spain,"Platja d'Aro, Girona",europe,southern europe,2023-05-10T00:00:00,2023-05-16T00:00:00,,0,,,2649,,,,,,,WTT Youth Series
+,WTT Youth Contender Havirov 2023,WTT Youth Contender,69,Czechia,Havirov,europe,eastern europe,2023-05-29T00:00:00,2023-06-04T00:00:00,,0,,,2650,,,,,,,WTT Youth Series
+,WTT Youth Contender Darwin 2023,WTT Youth Contender,69,Australia,Darwin,oceania,australasia,2023-09-28T00:00:00,2023-10-01T00:00:00,,0,,,2652,,,,,,,WTT Youth Series
+,WTT Youth Contender Batumi 2023,WTT Youth Contender,69,Georgia,Batumi,europe,southern europe,2023-09-18T00:00:00,2023-09-24T00:00:00,,0,,,2653,,,,,,,WTT Youth Series
+,WTT Youth Contender Panagyurishte 2023 presented by ASAREL,WTT Youth Contender,69,Bulgaria,Panagyurishte,europe,eastern europe,2023-05-15T00:00:00,2023-05-21T00:00:00,,0,,,2654,,,,,,,WTT Youth Series
+,WTT Youth Contender Rio de Janeiro 2023,WTT Youth Contender,69,Brazil,Rio de Janeiro,americas,south america,2023-06-28T00:00:00,2023-07-01T00:00:00,,0,,,2655,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Lima 2023,WTT Youth Star Contender,68,Peru,Lima,americas,south america,2023-06-21T00:00:00,2023-06-25T00:00:00,,0,,,2656,,,,,,,WTT Youth Series
+,WTT Youth Contender Podgorica 2023,WTT Youth Contender,69,Montenegro,Podgorica,europe,southern europe,2023-10-04T00:00:00,2023-10-07T00:00:00,,0,,,2657,,,,,,,WTT Youth Series
+,2023 ITTF World Table Tennis Championships Finals,WTTC,37,South Africa,Durban,africa,southern africa,2023-05-20T00:00:00,2023-05-28T00:00:00,,,,,2660,,,,,,,
+,WTT Youth Contender Jezzine 2023 presented by White Land Foundation ,WTT Youth Contender,69,Lebanon,Jezzine,asia,west asia,2023-10-19T00:00:00,2023-10-25T00:00:00,,0,,,2671,,,,,,,WTT Youth Series
+,WTT Youth Contender Cairo 2023,WTT Youth Contender,69,Egypt,Cairo,africa,north africa,2023-10-23T00:00:00,2023-10-29T00:00:00,,0,,,2672,,,,,,,WTT Youth Series
+,WTT Youth Contender Helsingborg 2023,WTT Youth Contender,69,Sweden,Helsingborg,europe,northern europe,2023-06-08T00:00:00,2023-06-11T00:00:00,,0,,,2673,,,,,,,WTT Youth Series
+,WTT Youth Contender Amman 2023,WTT Youth Contender,69,Jordan,Amman,asia,west asia,2023-08-22T00:00:00,2023-08-25T00:00:00,,0,,,2675,,,,,,,WTT Youth Series
+,WTT Youth Contender Rosario 2023,WTT Youth Contender,69,Argentina,Rosario,americas,south america,2023-05-22T00:00:00,2023-05-25T00:00:00,,0,,,2676,,,,,,,WTT Youth Series
+,WTT Youth Contender Wladyslawowo 2023,WTT Youth Contender,69,Poland,Wladyslawowo,europe,eastern europe,2023-03-27T00:00:00,2023-04-02T00:00:00,,0,,,2677,,,,,,,WTT Youth Series
+,WTT Youth Contender Asunción 2023,WTT Youth Contender,69,Paraguay,Asunción,americas,south america,2023-05-16T00:00:00,2023-05-19T00:00:00,,0,,,2678,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Podgorica 2023,WTT Youth Star Contender,68,Montenegro,Podgorica,europe,southern europe,2023-04-11T00:00:00,2023-04-15T00:00:00,,0,,,2681,,,,,,,WTT Youth Series
+,WTT Youth Contender Hong Kong 2023 Presented by Hang Seng Bank,WTT Youth Contender,69,"Hong Kong, China",Hong Kong,asia,east asia,2023-08-07T00:00:00,2023-08-13T00:00:00,,0,,,2683,,,,,,,WTT Youth Series
+,WTT Youth Contender Berlin 2023,WTT Youth Contender,69,Germany,Berlin,europe,western europe,2023-03-27T00:00:00,2023-04-02T00:00:00,,0,,,2684,,,,,,,WTT Youth Series
+,WTT Youth Contender Cheongyang 2023,WTT Youth Contender,69,Korea Republic,Cheongyang,asia,east asia,2023-07-31T00:00:00,2023-08-06T00:00:00,,0,,,2685,,,,,,,WTT Youth Series
+,WTT Youth Contender Almaty 2023,WTT Youth Contender,69,Kazakhstan,Almaty,asia,middle asia,2023-07-25T00:00:00,2023-07-28T00:00:00,,0,,,2686,,,,,,,WTT Youth Series
+,WTT Youth Contender Charleston 2023,WTT Youth Contender,69,USA,Charleston,americas,northern america,2023-08-01T00:00:00,2023-08-04T00:00:00,,0,,,2687,,,,,,,WTT Youth Series
+,WTT Youth Contender Vientiane 2023,WTT Youth Contender,69,Laos,Vientiane,asia,south east asia,2023-09-20T00:00:00,2023-09-23T00:00:00,,0,,,2689,,,,,,,WTT Youth Series
+,WTT Contender Tunis 2023 Presented by KIA,WTT Contender,34,Tunisia,Tunis,africa,north africa,2023-06-20T00:00:00,2023-06-25T00:00:00,,,,,2691,,,,,,,WTT Series
+,WTT Contender Zagreb 2023,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2023-06-26T00:00:00,2023-07-02T00:00:00,,,,,2692,,,,,,,WTT Series
+,WTT Contender Lagos 2023,WTT Contender,34,Nigeria,Lagos,africa,west africa,2023-06-12T00:00:00,2023-06-18T00:00:00,,,,,2693,,,,,,,WTT Series
+,WTT Star Contender Ljubljana 2023 Presented by I Feel Slovenia,WTT Star Contender,35,Slovenia,Ljubljana,europe,southern europe,2023-07-03T00:00:00,2023-07-09T00:00:00,,,,,2694,,,,,,,WTT Series
+,WTT Star Contender Bangkok 2023,WTT Star Contender,35,Thailand,Bangkok,asia,south east asia,2023-04-23T00:00:00,2023-04-29T00:00:00,,,,,2695,,,,,,,WTT Series
+,WTT Star Contender Goa 2023,WTT Star Contender,35,India,Goa,asia,south asia,2023-02-27T00:00:00,2023-03-05T00:00:00,,,,,2696,,,,,,,WTT Series
+,WTT Contender Amman 2023,WTT Contender,34,Jordan,Amman,asia,west asia,2023-02-06T00:00:00,2023-02-12T00:00:00,,,,,2697,,,,,,,WTT Series
+,WTT Contender Doha 2023,WTT Contender,34,Qatar,Doha,asia,west asia,2023-01-15T00:00:00,2023-01-21T00:00:00,,,,,2698,,,,,,,WTT Series
+,WTT Contender Durban 2023,WTT Contender,34,South Africa,Durban,africa,southern africa,2023-01-10T00:00:00,2023-01-15T00:00:00,,,,,2699,,,,,,,WTT Series
+,WTT Feeder Amman 2023,WTT Feeder,81,Jordan,Amman,asia,west asia,2023-02-01T00:00:00,2023-02-04T00:00:00,,,,,2700,,,,,,,WTT Feeder Series
+,WTT Feeder Doha 2023,WTT Feeder,81,Qatar,Doha,asia,west asia,2023-01-22T00:00:00,2023-01-26T00:00:00,,,,,2701,,,,,,,WTT Feeder Series
+,WTT Feeder Düsseldorf 2023,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2023-02-14T00:00:00,2023-02-17T00:00:00,,,,,2702,,,,,,,WTT Feeder Series
+,WTT Feeder Düsseldorf II 2023,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2023-02-21T00:00:00,2023-02-24T00:00:00,,,,,2703,,,,,,,WTT Feeder Series
+,WTT Feeder Antalya 2023,WTT Feeder,81,Türkiye,Antalya,europe,southern europe,2023-03-27T00:00:00,2023-04-01T00:00:00,,,,,2704,,,,,,,WTT Feeder Series
+,WTT Champions Frankfurt 2023,WTT Champions,65,Germany,Frankfurt,europe,western europe,2023-10-29T00:00:00,2023-11-05T00:00:00,,,,,2705,,,,,,,WTT Series
+https://asia.ittf.com/pages/30/asia%20continental%20stage_2935,Asian WTTC Continental Stage,Other Events and Multi Sport Games,39,Qatar,Doha,asia,west asia,2023-01-07T12:30:00,2023-01-13T12:30:00,,5505,,,2708,,,,,,,
+,WTT Youth Contender Antalya 2023,WTT Youth Contender,69,Türkiye,Antalya,europe,southern europe,2023-03-19T00:00:00,2023-03-25T00:00:00,,0,,,2709,,,,,,,WTT Youth Series
+,WTT Youth Contender Cuenca 2023,WTT Youth Contender,69,Ecuador,Cuenca,americas,south america,2023-11-11T00:00:00,2023-11-14T00:00:00,,0,,,2710,,,,,,,WTT Youth Series
+,ITTF World Youth Championships 2023,World Youth Championships,30,Slovenia,Nova Gorica,europe,southern europe,2023-11-26T00:00:00,2023-12-03T00:00:00,,,,,2711,,,,,,,
+,2023 ITTF-Oceania Cup,Continental Cups,82,New Zealand,Hamilton,oceania,australasia,2023-12-09T11:00:00,2023-12-10T11:00:00,,,,,2714,,,,,,,
+,2023 ITTF-Oceania Olympic Team & Mixed Doubles Qualification,Olympic Games,85,Australia,,oceania,australasia,2023-09-02T00:00:00,2023-09-03T00:00:00,,,,,2717,,,,,,,WTT Series
+,2023 ITTF-Oceania Senior and Youth Championships,Continental Championships,79,Australia,,oceania,australasia,2023-09-04T00:00:00,2023-09-09T00:00:00,,,,,2718,,,,,,,
+,WTT Youth Contender Puerto Princesa 2023,WTT Youth Contender,69,Philippines,Puerto Princesa,asia,south east asia,2023-10-15T00:00:00,2023-10-21T00:00:00,,0,,,2720,,,,,,,WTT Youth Series
+,WTT Contender Lima 2023,WTT Contender,34,Peru,Lima,americas,south america,2023-07-31T00:00:00,2023-08-06T00:00:00,,,,,2721,,,,,,,WTT Series
+,WTT Contender Rio de Janeiro 2023,WTT Contender,34,Brazil,Rio De Janeiro,americas,south america,2023-08-07T00:00:00,2023-08-13T00:00:00,,,,,2722,,,,,,,WTT Series
+,WTT Feeder Panagyurishte 2023 presented by ASAREL ,WTT Feeder,81,Bulgaria,Panagyurishte,europe,eastern europe,2023-08-29T00:00:00,2023-09-03T00:00:00,,,,,2723,,,,,,,WTT Feeder Series
+,WTT Feeder Olomouc 2023,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2023-08-22T00:00:00,2023-08-27T00:00:00,,,,,2724,,,,,,,WTT Feeder Series
+,WTT Youth Contender Mosquera 2023,WTT Youth Contender,69,Colombia,Mosquera,americas,south america,2023-10-17T00:00:00,2023-10-20T00:00:00,,0,,,2727,,,,,,,WTT Youth Series
+,WTT Champions Macao 2023 Presented by Galaxy Entertainment Group,WTT Champions,65,"Macao, China",Macao,asia,east asia,2023-04-17T00:00:00,2023-04-23T00:00:00,,,,,2728,,,,,,,WTT Series
+,WTT Youth Contender Al Ain 2023,WTT Youth Contender,69,United Arab Emirates,Al Ain,asia,west asia,2023-10-04T00:00:00,2023-10-07T00:00:00,,0,,,2730,,,,,,,WTT Youth Series
+,WTT Feeder Biella 2023,WTT Feeder,81,Italy,Biella,europe,southern europe,2023-12-12T00:00:00,2023-12-17T00:00:00,,,,,2732,,,,,,,WTT Feeder Series
+,WTT Feeder Otocec 2023 presented by I Feel Slovenia,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2023-10-30T00:00:00,2023-11-05T00:00:00,,,,,2733,,,,,,,WTT Feeder Series
+,WTT Feeder Doha II 2023,WTT Feeder,81,Qatar,Doha,asia,west asia,2023-10-17T00:00:00,2023-10-19T00:00:00,,5507,,,2734,,,,,,,WTT Feeder Series
+,WTT Feeder Vila Nova de Gaia 2023,WTT Feeder,81,Portugal,Vila Nova de Gaia,europe,southern europe,2023-11-22T00:00:00,2023-11-25T00:00:00,,,,,2735,,,,,,,WTT Feeder Series
+,WTT Champions Xinxiang 2023 Presented by Industrial and Commercial Bank of China,WTT Champions,65,China,Xinxiang,asia,east asia,2023-04-09T00:00:00,2023-04-15T00:00:00,,,,,2737,,,,,,,WTT Series
+,WTT Feeder Stockholm 2023,WTT Feeder,81,Sweden,Stockhom,europe,northern europe,2023-10-02T00:00:00,2023-10-07T00:00:00,,,,,2738,,,,,,,WTT Feeder Series
+,WTT Contender Almaty 2023,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2023-08-29T00:00:00,2023-09-03T00:00:00,,,,,2739,,,,,,,WTT Series
+,WTT Feeder Bangkok 2023,WTT Feeder,81,Thailand,Bangkok,asia,south east asia,2023-09-04T00:00:00,2023-09-09T00:00:00,,,,,2740,,,,,,,WTT Feeder Series
+,WTT Contender Antalya 2023,WTT Contender,34,Türkiye,Antalya,europe,southern europe,2023-10-16T00:00:00,2023-10-22T00:00:00,,,,,2742,,,,,,,WTT Series
+,ITTF Africa Cup,Continental Cups,82,Kenya,Nairob,africa,east africa,2023-05-04T00:00:00,2023-05-06T00:00:00,,5066,,,2745,,,,,,,
+,2023 Central American Championships,WTTC Finals Regional Qualifications,83,Mexico,Cancun,americas,central america,2023-04-17T00:00:00,2023-04-22T00:00:00,,,,,2747,,,,,,,
+,WTT Feeder Havirov 2023,WTT Feeder,81,Czechia,Havirov,europe,eastern europe,2023-07-27T00:00:00,2023-07-30T00:00:00,,,,,2750,,,,,,,WTT Feeder Series
+,WTT Feeder Düsseldorf III 2023,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2023-11-27T00:00:00,2023-12-01T00:00:00,,5513,,,2755,,,,,,,WTT Feeder Series
+,2023 South American U11 & U13 Championships,ITTF International Open,80,Paraguay,Asunción,americas,south america,2023-05-09T00:00:00,2023-05-14T00:00:00,,,,,2756,,,,,,,
+,2023 South American U11 & U13 Championships,ITTF International Youth Open,84,Paraguay,Asunción,americas,south america,2023-05-09T00:00:00,2023-05-14T00:00:00,,,,,2756,,,,,,,
+,2023 Central American Youth Championships (U15 & U19),ITTF International Youth Open,84,Guatemala,Guatemala City,americas,central america,2023-05-01T00:00:00,2023-05-06T00:00:00,,,,,2761,,,,,,,
+,Special Teams qualification event – Pan American Games Santiago 2023,Other Events and Multi Sport Games,39,Peru,Lima,americas,south america,2023-06-13T00:00:00,2023-06-14T00:00:00,,,,,2762,,,,,,,
+,Special Teams qualification event – Pan American Games Santiago 2023,Continental Championships,79,Peru,Lima,americas,south america,2023-06-13T00:00:00,2023-06-14T00:00:00,,,,,2762,,,,,,,
+,Special Singles qualification event – Pan American Games Santiago 2023,Other Events and Multi Sport Games,39,Peru,Lima,americas,south america,2023-06-15T00:00:00,2023-06-18T00:00:00,,,,,2763,,,,,,,
+,2023 ITTF Pan American Youth Championships (U15 & U19),Youth Continental Championships,87,USA,Charleston,americas,northern america,2023-07-23T00:00:00,2023-07-30T00:00:00,,,,,2767,,,,,,,
+,Central American & Caribbean Games 2023,Multi-Sport Games,77,El Salvador,San Salvador,americas,central america,2023-06-21T00:00:00,2023-06-27T00:00:00,,,,,2770,,,,,,,
+,Central American & Caribbean Games 2023,Multi-Sport Games,77,El Salvador,San Salvador,americas,central america,2023-06-21T00:00:00,2023-06-27T00:00:00,,,,,2770,,,,,,,
+,WTT Contender Muscat 2023,WTT Contender,34,Oman,Muscat,asia,west asia,2023-10-08T00:00:00,2023-10-14T00:00:00,,,,,2775,,,,,,,WTT Series
+,WTT Finals Women Nagoya 2023,WTT Finals,75,Japan,Nagoya,asia,east asia,2023-12-15T00:00:00,2023-12-17T00:00:00,,,,,2776,,,,,,,WTT Series
+,WTT Star Contender Lanzhou 2023 Presented by Huanchen Sports,WTT Star Contender,35,China,Lanzhou,asia,east asia,2023-10-02T00:00:00,2023-10-08T00:00:00,,,,,2777,,,,,,,WTT Series
+,2023 Central American U11 & U13 Championships,ITTF International Youth Open,84,Honduras,Tegucigalpa,americas,central america,2023-08-21T00:00:00,2023-08-26T00:00:00,,,,,2784,,,,,,,
+,2023 Central American U11 & U13 Championships,ITTF International Youth Open,84,Honduras,Tegucigalpa,americas,central america,2023-08-21T00:00:00,2023-08-26T00:00:00,,,,,2784,,,,,,,
+,2023 ITTF-Africa Senior Championships,Continental Championships,79,Tunisia,Rades,africa,north africa,2023-09-11T00:00:00,2023-09-17T00:00:00,,,,,2787,,,,,,,
+,2023 Caribbean U11 & U13 Championships,ITTF International Youth Open,84,Dominican Republic,Santo Domingo,americas,caribbean,2023-08-20T00:00:00,2023-08-25T00:00:00,,,,,2788,,,,,,,
+,2023 Caribbean U11 & U13 Championships,ITTF International Youth Open,84,Dominican Republic,Santo Domingo,americas,caribbean,2023-08-20T00:00:00,2023-08-25T00:00:00,,,,,2788,,,,,,,
+,2023 ITTF Pan American Championships,Continental Championships,79,Cuba,Havana,americas,caribbean,2023-09-10T00:00:00,2023-09-17T00:00:00,,,,,2789,,,,,,,
+,2023 Pan American U11 & U13 Championships,ITTF International Youth Open,84,Colombia,Mosquera,americas,south america,2023-10-09T00:00:00,2023-10-15T00:00:00,,,,,2791,,,,,,,
+,2023 Pan American U11 & U13 Championships,ITTF International Youth Open,84,Colombia,Mosquera,americas,south america,2023-10-09T00:00:00,2023-10-15T00:00:00,,,,,2791,,,,,,,
+,WTT Contender Taiyuan 2023,WTT Contender,34,China,Taiyuan,asia,east asia,2023-11-07T00:00:00,2023-11-12T00:00:00,,,,,2794,,,,,,,WTT Series
+,ITTF Mixed Team World Cup 2023,World Mixed Team Championships,93,China,Chengdu,asia,east asia,2023-12-04T00:00:00,2023-12-10T00:00:00,,,,,2860,,,,,,,
+,2023 Pacific Cup,Continental Cups,82,New Zealand,Hamilton,oceania,australasia,2023-12-09T00:00:00,2023-12-10T00:00:00,,,,,2905,,,,,,,
