@@ -1,0 +1,174 @@
+PageLink,EventName,EventType,EventTypeId,Country,City,ContinentCode,Subcontinent,StartDateTime,EndDateTime,Tags,EventCode,Comments,EventDateChangeId,EventId,FromStartDate,FromEndDate,ToStartDate,ToEndDate,ShowInCalendar,Type,Event_Tier_Name
+,WTT Youth Contender San Francisco 2025 Presented by Ethos,WTT Youth Contender,69,USA,San Francisco,americas,northern america,2025-01-02T00:00:00,2025-01-05T00:00:00,,0,,,3001,,,,,,,WTT Youth Series
+,WTT Youth Contender Linz 2025,WTT Youth Contender,69,Austria,Linz,europe,western europe,2025-01-08T00:00:00,2025-01-11T00:00:00,,0,,,3002,,,,,,,WTT Youth Series
+,WTT Youth Contender Tunis 2025,WTT Youth Contender,69,Tunisia,Tunis,africa,north africa,2025-01-13T00:00:00,2025-01-16T00:00:00,,0,,,3003,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Tunis 2025,WTT Youth Star Contender,68,Tunisia,Tunis,africa,north africa,2025-01-17T00:00:00,2025-01-19T00:00:00,,0,,,3004,,,,,,,WTT Youth Series
+,Singapore Youth Smash 2025,WTT Youth Smash,96,Singapore,Singapore,asia,south east asia,2025-02-06T00:00:00,2025-02-09T00:00:00,,0,,,3005,,,,,,,WTT Youth Series
+,WTT Youth Contender Vila Real 2025,WTT Youth Contender,69,Portugal,Vila Real,europe,southern europe,2025-02-17T00:00:00,2025-02-20T00:00:00,,0,,,3006,,,,,,,WTT Youth Series
+,WTT Youth Contender Wladyslawowo 2025,WTT Youth Contender,69,Poland,Wladyslawowo,europe,eastern europe,2025-03-05T00:00:00,2025-03-08T00:00:00,,0,,,3007,,,,,,,WTT Youth Series
+,WTT Youth Contender Berlin 2025 Presented by Seeger,WTT Youth Contender,69,Germany,Berlin,europe,western europe,2025-03-10T00:00:00,2025-03-16T00:00:00,,0,,,3008,,,,,,,WTT Youth Series
+,WTT Youth Contender Havirov 2025,WTT Youth Contender,69,Czechia,Havirov,europe,eastern europe,2025-03-10T00:00:00,2025-03-16T00:00:00,,0,,,3009,,,,,,,WTT Youth Series
+,WTT Youth Contender Panagyurishte 2025,WTT Youth Contender,69,Bulgaria,Panagyurishte,europe,eastern europe,2025-05-15T00:00:00,2025-05-18T00:00:00,,0,,,3012,,,,,,,WTT Youth Series
+,WTT Youth Contender Platja D'Aro 2025,WTT Youth Contender,69,Spain,"Platja d'Aro, Girona",europe,southern europe,2025-05-20T00:00:00,2025-05-23T00:00:00,,0,,,3013,,,,,,,WTT Youth Series
+,WTT Youth Contender Helsingborg 2025,WTT Youth Contender,69,Sweden,Helsingborg,europe,northern europe,2025-06-06T00:00:00,2025-06-09T00:00:00,,0,,,3014,,,,,,,WTT Youth Series
+,WTT Youth Contender Sandefjord 2025,WTT Youth Contender,69,Norway,Sandefjord,europe,northern europe,2025-06-11T00:00:00,2025-06-14T00:00:00,,0,,,3015,,,,,,,WTT Youth Series
+,WTT Youth Contender Hong Kong 2025,WTT Youth Contender,69,"Hong Kong, China",,asia,east asia,2025-07-28T00:00:00,2025-08-03T00:00:00,,0,,,3017,,,,,,,WTT Youth Series
+,WTT Feeder Düsseldorf 2025,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2025-02-11T00:00:00,2025-02-14T00:00:00,,,,,3020,,,,,,,WTT Feeder Series
+,WTT Feeder Manchester 2025,WTT Feeder,81,England,Manchester,europe,northern europe,2025-04-24T00:00:00,2025-04-27T00:00:00,,,,,3023,,,,,,,WTT Feeder Series
+,WTT Feeder Otocec 2025 Presented by I Feel Slovenia ,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2025-03-25T00:00:00,2025-03-29T00:00:00,,,,,3024,,,,,,,WTT Feeder Series
+,WTT Feeder Otocec II 2025 Presented by I Feel Slovenia ,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2025-03-30T00:00:00,2025-04-03T00:00:00,,,,,3025,,,,,,,WTT Feeder Series
+,WTT Feeder Doha 2025,WTT Feeder,81,Qatar,Doha,asia,west asia,2025-02-04T00:00:00,2025-02-08T00:00:00,,,,,3026,,,,,,,WTT Feeder Series
+,WTT Feeder Panagyurishte 2025 Presented by Asarel,WTT Feeder,81,Bulgaria,Panagyurishte,europe,eastern europe,2025-08-21T00:00:00,2025-08-24T00:00:00,,,,,3027,,,,,,,WTT Feeder Series
+,WTT Feeder Olomouc 2025,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2025-08-28T00:00:00,2025-08-31T00:00:00,,,,,3028,,,,,,,WTT Feeder Series
+,WTT Feeder Cappadocia 2025,WTT Feeder,81,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2025-02-17T00:00:00,2025-02-21T00:00:00,,,,,3030,,,,,,,WTT Feeder Series
+,WTT Feeder Cappadocia II 2025,WTT Feeder,81,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2025-09-16T00:00:00,2025-09-20T00:00:00,,,,,3031,,,,,,,WTT Feeder Series
+,WTT Youth Contender Puerto Princesa 2025,WTT Youth Contender,69,Philippines,Puerto Princesa,asia,south east asia,2025-02-12T00:00:00,2025-02-15T00:00:00,,0,,,3032,,,,,,,WTT Youth Series
+,WTT Youth Contender Cappadocia 2025,WTT Youth Contender,69,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2025-02-12T00:00:00,2025-02-15T00:00:00,,0,,,3033,,,,,,,WTT Youth Series
+,WTT Youth Contender Doha 2025,WTT Youth Contender,69,Qatar,Doha,asia,west asia,2025-01-27T00:00:00,2025-01-30T00:00:00,,0,,,3034,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Doha 2025,WTT Youth Star Contender,68,Qatar,Doha,asia,west asia,2025-01-31T00:00:00,2025-02-02T00:00:00,,0,,,3035,,,,,,,WTT Youth Series
+,WTT Youth Contender Gangneung 2025 Presented by SeAH,WTT Youth Contender,69,Korea Republic,Gangneung,asia,east asia,2025-03-19T00:00:00,2025-03-22T00:00:00,,0,,,3037,,,,,,,WTT Youth Series
+,WTT Youth Contender Metz 2025,WTT Youth Contender,69,France,Metz,europe,western europe,2025-04-07T00:00:00,2025-04-10T00:00:00,,0,,,3038,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Metz 2025,WTT Youth Star Contender,68,France,Metz,europe,western europe,2025-04-11T00:00:00,2025-04-13T00:00:00,,0,,,3039,,,,,,,WTT Youth Series
+,WTT Youth Contender Bangkok 2025 Presented by Thaioil,WTT Youth Contender,69,Thailand,Bangkok,asia,south east asia,2025-04-28T00:00:00,2025-05-01T00:00:00,,0,,,3040,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Bangkok 2025 Presented by Thaioil,WTT Youth Star Contender,68,Thailand,Bangkok,asia,south east asia,2025-05-02T00:00:00,2025-05-04T00:00:00,,0,,,3041,,,,,,,WTT Youth Series
+,WTT Youth Contender Tashkent 2025,WTT Youth Contender,69,Uzbekistan,Tashkent,asia,middle asia,2025-05-28T00:00:00,2025-05-31T00:00:00,,0,,,3042,,,,,,,WTT Youth Series
+,WTT Youth Contender San Francisco III 2025 Presented by DoorDash,WTT Youth Contender,69,USA,San Francisco,americas,northern america,2025-09-17T00:00:00,2025-09-20T00:00:00,,0,,,3043,,,,,,,WTT Youth Series
+,WTT Youth Contender Amman 2025,WTT Youth Contender,69,Jordan,Amman,asia,west asia,2025-08-14T00:00:00,2025-08-17T00:00:00,,0,,,3044,,,,,,,WTT Youth Series
+,WTT Youth Contender Almaty 2025,WTT Youth Contender,69,Kazakhstan,Almaty,asia,middle asia,2025-07-23T00:00:00,2025-07-26T00:00:00,,0,,,3045,,,,,,,WTT Youth Series
+,WTT Youth Contender Otocec 2025 Presented by I Feel Slovenia,WTT Youth Contender,69,Slovenia,Otocec,europe,southern europe,2025-08-28T00:00:00,2025-09-03T00:00:00,,0,,,3046,,,,,,,WTT Youth Series
+,WTT Youth Contender Varazdin 2025,WTT Youth Contender,69,Croatia,Varaždin,europe,southern europe,2025-08-28T00:00:00,2025-09-03T00:00:00,,0,,,3047,,,,,,,WTT Youth Series
+,WTT Youth Contender Bangkok II 2025,WTT Youth Contender,69,Thailand,Bangkok,asia,south east asia,2025-09-10T00:00:00,2025-09-13T00:00:00,,0,,,3048,,,,,,,WTT Youth Series
+,WTT Youth Contender Luxembourg 2025 Presented by LuXembourg - Let’s Make It Happen,WTT Youth Contender,69,Luxembourg,Luxembourg,europe,western europe,2025-09-10T00:00:00,2025-09-13T00:00:00,,0,,,3049,,,,,,,WTT Youth Series
+,WTT Youth Contender Perth 2025,WTT Youth Contender,69,Australia,Perth,oceania,australasia,2025-10-08T00:00:00,2025-10-11T00:00:00,,0,,,3050,,,,,,,WTT Youth Series
+,WTT Youth Contender Cairo 2025,WTT Youth Contender,69,Egypt,Cairo,africa,north africa,2025-10-29T00:00:00,2025-11-01T00:00:00,,0,,,3051,,,,,,,WTT Youth Series
+,WTT Youth Contender Sulaymaniyah 2025,WTT Youth Contender,69,Iraq,Sulaymaniyah,asia,west asia,2025-11-05T00:00:00,2025-11-08T00:00:00,,0,,,3052,,,,,,,WTT Youth Series
+,WTT Youth Contender Lignano 2025,WTT Youth Contender,69,Italy,Lignano Sabbiadoro,europe,southern europe,2025-11-03T00:00:00,2025-11-09T00:00:00,,0,,,3053,,,,,,,WTT Youth Series
+,WTT Youth Contender Szombathely 2025,WTT Youth Contender,69,Hungary,Szombathely,europe,eastern europe,2025-11-11T00:00:00,2025-11-14T00:00:00,,0,,,3054,,,,,,,WTT Youth Series
+,WTT Youth Contender San Francisco IV 2025 Presented by MongoDB,WTT Youth Contender,69,USA,San Francisco,americas,northern america,2025-10-29T00:00:00,2025-11-01T00:00:00,,0,,,3055,,,,,,,WTT Youth Series
+,WTT Youth Contender Senec 2025,WTT Youth Contender,69,Slovak Republic,Senec,europe,eastern europe,2025-11-03T00:00:00,2025-11-09T00:00:00,,0,,,3056,,,,,,,WTT Youth Series
+,WTT Feeder Prishtina 2025,WTT Feeder,81,Kosovo,Prishtina,europe,southern europe,2025-06-03T00:00:00,2025-06-07T00:00:00,,,,,3058,,,,,,,WTT Feeder Series
+,WTT Feeder Parma 2025,WTT Feeder,81,Italy,Parma,europe,southern europe,2025-11-29T00:00:00,2025-12-03T00:00:00,,,,,3059,,,,,,,WTT Feeder Series
+,WTT Youth Contender Prishtina 2025,WTT Youth Contender,69,Kosovo,Pristina,europe,southern europe,2025-05-29T00:00:00,2025-06-01T00:00:00,,0,,,3060,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Skopje 2025,WTT Youth Star Contender,68,North Macedonia,Skopje,europe,southern europe,2025-09-05T00:00:00,2025-09-07T00:00:00,,0,,,3061,,,,,,,WTT Youth Series
+,WTT Youth Contender Batumi 2025,WTT Youth Contender,69,Georgia,Batumi,europe,southern europe,2025-09-18T00:00:00,2025-09-21T00:00:00,,0,,,3062,,,,,,,WTT Youth Series
+,WTT Youth Contender San Francisco II 2025 Presented by MongoDB,WTT Youth Contender,69,USA,San Francisco,americas,northern america,2025-04-05T00:00:00,2025-04-08T00:00:00,,0,,,3063,,,,,,,WTT Youth Series
+,WTT Feeder Düsseldorf II 2025,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2025-11-24T00:00:00,2025-11-27T00:00:00,,,,,3065,,,,,,,WTT Feeder Series
+,WTT Feeder Vila Nova de Gaia 2025,WTT Feeder,81,Portugal,Vila Nova de Gaia,europe,southern europe,2025-11-05T00:00:00,2025-11-09T00:00:00,,,,,3066,,,,,,,WTT Feeder Series
+,WTT Youth Contender New York 2025,WTT Youth Contender,69,USA,Westchester,americas,northern america,2025-06-24T00:00:00,2025-06-27T00:00:00,,0,,,3067,,,,,,,WTT Youth Series
+,WTT Youth Contender Fremont 2025 Presented By Databricks,WTT Youth Contender,69,USA,Fremont,americas,northern america,2025-09-22T00:00:00,2025-09-25T00:00:00,,0,,,3068,,,,,,,WTT Youth Series
+,WTT Feeder Havirov 2025,WTT Feeder,81,Czechia,Havirov,europe,eastern europe,2025-04-05T00:00:00,2025-04-09T00:00:00,,,,,3069,,,,,,,WTT Feeder Series
+,WTT Youth Contender Sarajevo 2025,WTT Youth Contender,69,Bosnia-Herzegovina,Sarajevo,europe,southern europe,2025-04-22T00:00:00,2025-04-25T00:00:00,,0,,,3070,,,,,,,WTT Youth Series
+,WTT Youth Contender Zrenjanin 2025,WTT Youth Contender,69,Serbia,Zrenjanin,europe,southern europe,2025-04-02T00:00:00,2025-04-05T00:00:00,,0,,,3071,,,,,,,WTT Youth Series
+,WTT Youth Contender Vientiane 2025 Presented by ICBC Bank,WTT Youth Contender,69,Laos,Vientiane,asia,south east asia,2025-08-06T00:00:00,2025-08-09T00:00:00,,0,,,3072,,,,,,,WTT Youth Series
+,WTT Youth Contender Vadodara 2025 Presented by Parul University,WTT Youth Contender,69,India,Vadodara,asia,south asia,2025-02-26T00:00:00,2025-03-01T00:00:00,,0,,,3073,,,,,,,WTT Youth Series
+,WTT Youth Contender Humacao 2025,WTT Youth Contender,69,Puerto Rico,Humacao,americas,caribbean,2025-03-26T00:00:00,2025-03-29T00:00:00,,0,,,3074,,,,,,,WTT Youth Series
+,WTT Youth Contender Cuenca 2025,WTT Youth Contender,69,Ecuador,Cuenca,americas,south america,2025-04-01T00:00:00,2025-04-04T00:00:00,,0,,,3075,,,,,,,WTT Youth Series
+,WTT Youth Contender Dammam 2025,WTT Youth Contender,69,Saudi Arabia,Dammam,asia,west asia,2025-12-07T00:00:00,2025-12-10T00:00:00,,0,,,3076,,,,,,,WTT Youth Series
+,WTT Youth Contender Dubai 2025,WTT Youth Contender,69,United Arab Emirates,Dubai,asia,west asia,2025-10-21T00:00:00,2025-10-24T00:00:00,,0,,,3077,,,,,,,WTT Youth Series
+,WTT Youth Contender Podgorica 2025,WTT Youth Contender,69,Montenegro,Podgorica,europe,southern europe,2025-10-13T00:00:00,2025-10-16T00:00:00,,0,,,3078,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Podgorica 2025,WTT Youth Star Contender,68,Montenegro,Podgorica,europe,southern europe,2025-10-17T00:00:00,2025-10-19T00:00:00,,0,,,3079,,,,,,,WTT Youth Series
+,WTT Youth Contender Monteria 2025,WTT Youth Contender,69,Colombia,Monteria,americas,south america,2025-05-13T00:00:00,2025-05-16T00:00:00,,0,,,3080,,,,,,,WTT Youth Series
+,United States Smash 2025,WTT Grand Smash,64,USA,Las Vegas,americas,northern america,2025-07-03T00:00:00,2025-07-13T00:00:00,,,,,3082,,,,,,,WTT Series
+,WTT Star Contender Doha 2025,WTT Star Contender,35,Qatar,Doha,asia,west asia,2025-01-06T00:00:00,2025-01-11T00:00:00,,,,,3083,,,,,,,WTT Series
+,WTT Contender Muscat 2025,WTT Contender,34,Oman,Muscat,asia,west asia,2025-01-11T00:00:00,2025-01-17T00:00:00,,,,,3084,,,,,,,WTT Series
+,Singapore Smash 2025,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2025-01-30T00:00:00,2025-02-09T00:00:00,,,,,3085,,,,,,,WTT Series
+,WTT Champions Chongqing 2025 Presented by AITO,WTT Champions,65,China,Chongqing,asia,east asia,2025-03-11T00:00:00,2025-03-16T00:00:00,,,,,3086,,,,,,,WTT Series
+,WTT Champions Incheon 2025,WTT Champions,65,Korea Republic,Incheon,asia,east asia,2025-04-01T00:00:00,2025-04-06T00:00:00,,,,,3087,,,,,,,WTT Series
+,WTT Contender Taiyuan 2025,WTT Contender,34,China,Taiyuan,asia,east asia,2025-04-08T00:00:00,2025-04-13T00:00:00,,,,,3088,,,,,,,WTT Series
+,WTT Contender Tunis 2025 Presented By Tunisie Telecom,WTT Contender,34,Tunisia,Tunis,africa,north africa,2025-04-22T00:00:00,2025-04-27T00:00:00,,,,,3089,,,,,,,WTT Series
+,WTT Contender Skopje 2025,WTT Contender,34,North Macedonia,Skopje,europe,southern europe,2025-06-09T00:00:00,2025-06-15T00:00:00,,,,,3090,,,,,,,WTT Series
+,WTT Star Contender Ljubljana 2025 Presented by I Feel Slovenia,WTT Star Contender,35,Slovenia,Ljubljana,europe,southern europe,2025-06-17T00:00:00,2025-06-22T00:00:00,,,,,3091,,,,,,,WTT Series
+,WTT Contender Zagreb 2025,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2025-06-24T00:00:00,2025-06-29T00:00:00,,,,,3092,,,,,,,WTT Series
+,WTT Star Contender Foz do Iguaçu 2025,WTT Star Contender,35,Brazil,Foz do Iguaçu,americas,south america,2025-07-30T00:00:00,2025-08-03T00:00:00,,,,,3093,,,,,,,WTT Series
+,WTT Champions Yokohama 2025,WTT Champions,65,Japan,,asia,east asia,2025-08-07T00:00:00,2025-08-11T00:00:00,,,,,3094,,,,,,,WTT Series
+,WTT Contender Almaty 2025,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2025-09-02T00:00:00,2025-09-07T00:00:00,,,,,3096,,,,,,,WTT Series
+,WTT Champions Macao 2025 Presented by Galaxy Entertainment Group,WTT Champions,65,"Macao, China",Macao,asia,east asia,2025-09-09T00:00:00,2025-09-14T00:00:00,,,,,3097,,,,,,,WTT Series
+,China Smash 2025 Presented by Beijing Shijingshan Culture & Tourism Group,WTT Grand Smash,64,China,Beijing,asia,east asia,2025-09-25T00:00:00,2025-10-05T00:00:00,,,,,3098,,,,,,,WTT Series
+,WTT Champions Montpellier 2025,WTT Champions,65,France,Montpellier,europe,western europe,2025-10-28T00:00:00,2025-11-02T00:00:00,,,,,3099,,,,,,,WTT Series
+,WTT Champions Frankfurt 2025,WTT Champions,65,Germany,Frankfurt,europe,western europe,2025-11-04T00:00:00,2025-11-09T00:00:00,,,,,3100,,,,,,,WTT Series
+,ITTF African Championships 2025,WTTC Finals Continental Qualifications,89,Tunisia,Tunis,africa,north africa,2025-10-12T00:00:00,2025-10-19T00:00:00,,5525,,,3104,,,,,,,
+,WTT Youth Contender Tunis II 2025,WTT Youth Contender,69,Tunisia,Tunis,africa,north africa,2025-10-08T00:00:00,2025-10-11T00:00:00,,0,,,3107,,,,,,,WTT Youth Series
+,ITTF World Table Tennis Championships Finals Doha 2025,WTTC,37,Qatar,Doha,asia,west asia,2025-05-17T00:00:00,2025-05-25T00:00:00,,,,,3108,,,,,,,
+,ITTF MEN'S AND WOMEN'S WORLD CUP MACAO 2025 PRESENTED BY GALAXY ENTERTAINMENT GROUP,Singles World Cup,95,"Macao, China",,asia,east asia,2025-04-14T00:00:00,2025-04-20T00:00:00,,,,,3109,,,,,,,
+,WTT Star Contender London 2025,WTT Star Contender,35,England,London,europe,northern europe,2025-10-21T00:00:00,2025-10-26T00:00:00,,,,,3110,,,,,,,WTT Series
+,WTT Finals Hong Kong 2025,WTT Finals,75,"Hong Kong, China",,asia,east asia,2025-12-10T00:00:00,2025-12-14T00:00:00,,,,,3112,,,,,,,WTT Series
+,WTT Youth Contender Asunción 2025,WTT Youth Contender,69,Paraguay,Asunción,americas,south america,2025-03-13T00:00:00,2025-03-16T00:00:00,,0,,,3113,,,,,,,WTT Youth Series
+,ITTF-Oceania Cup 2025,Continental Cups,82,Australia, Melbourne,oceania,australasia,2025-02-15T00:00:00,2025-02-16T00:00:00,,,,,3115,,,,,,,
+,ITTF African Cup 2025,Continental Cups,82,Tunisia,Tunis,africa,north africa,2025-02-25T00:00:00,2025-02-27T00:00:00,,5066,,,3116,,,,,,,
+,ITTF Pan American Cup 2025 presented By J.P. MORGAN,Continental Cups,82,USA,San Francisco,americas,northern america,2025-02-18T00:00:00,2025-02-23T00:00:00,,5066,,,3117,,,,,,,
+,ITTF World Youth Championships 2025,World Youth Championships,30,Romania,Cluj Napoca,europe,eastern europe,2025-11-23T00:00:00,2025-11-30T00:00:00,,,,,3118,,,,,,,
+,WTT Youth Contender Caracas 2025,WTT Youth Contender,69,Venezuela,Caracas,americas,south america,2025-07-01T00:00:00,2025-07-04T00:00:00,,0,,,3119,,,,,,,WTT Youth Series
+,WTT Youth Contender Buenos Aires 2025,WTT Youth Contender,69,Argentina,Buenos Aires,americas,south america,2025-03-18T00:00:00,2025-03-21T00:00:00,,0,,,3120,,,,,,,WTT Youth Series
+,WTT Contender Lagos 2025,WTT Contender,34,Nigeria,Lagos,africa,west africa,2025-07-22T00:00:00,2025-07-26T00:00:00,,,,,3121,,,,,,,WTT Series
+https://asia.ittf.com/pages/46/asian%20cup_4119,34th ITTF-ATTU Asian Cup 2025,Continental Cups,82,China,Shenzhen,asia,east asia,2025-02-19T00:00:00,2025-02-23T00:00:00,,,,,3122,,,,,,,
+,WTT Youth Contender Caracas II 2025,WTT Youth Contender,69,Venezuela,Caracas,americas,south america,2025-10-23T00:00:00,2025-10-26T00:00:00,,0,,,3123,,,,,,,WTT Youth Series
+,SINGAPORE SMASH 2025 PARA SHOWCASE EVENT,WTT Exhibition,60,Singapore,Singapore,asia,south east asia,2025-02-03T00:00:00,2025-02-05T00:00:00,,,,,3124,,,,,,,WTT Series
+,WTT Youth Contender Mississauga 2025,WTT Youth Contender,69,Canada,Mississauga,americas,northern america,2025-08-14T00:00:00,2025-08-17T00:00:00,,0,,,3127,,,,,,,WTT Youth Series
+,Europe Smash - Sweden 2025,WTT Grand Smash,64,Sweden,Malmö,europe,northern europe,2025-08-14T00:00:00,2025-08-24T00:00:00,,,,,3128,,,,,,,WTT Series
+,WTT Feeder Vientiane 2025 Presented by ICBC Bank,WTT Feeder,81,Laos,,asia,south east asia,2025-08-11T00:00:00,2025-08-15T00:00:00,,,,,3131,,,,,,,WTT Feeder Series
+,WTT Star Contender Chennai 2025 Presented by IndianOil,WTT Star Contender,35,India,Chennai,asia,south asia,2025-03-25T00:00:00,2025-03-30T00:00:00,,,,,3133,,,,,,,WTT Series
+,North Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Tunisia,Tunis,africa,north africa,2025-04-28T00:00:00,2025-04-30T00:00:00,,,,,3135,,,,,,,
+,East Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Madagascar,Antananarivo,africa,east africa,2025-05-28T00:00:00,2025-05-31T00:00:00,,,,,3139,,,,,,,
+,Central Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Congo Brazzaville,Brazzaville,africa,central africa,2025-06-27T00:00:00,2025-06-29T00:00:00,,,,,3140,,,,,,,
+,South Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Namibia,,africa,southern africa,2025-07-14T00:00:00,2025-07-17T00:00:00,,,,,3141,,,,,,,
+,West Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Nigeria,Lagos,africa,west africa,2025-07-16T00:00:00,2025-07-19T00:00:00,,,,,3142,,,,,,,
+,ITTF African Youth Championships 2025,Youth Continental Championships,87,Nigeria,Lagos,africa,west africa,2025-07-27T00:00:00,2025-08-03T00:00:00,,,,,3143,,,,,,,
+,ITTF African Youth Championships 2025,Youth Continental Championships,87,Nigeria,Lagos,africa,west africa,2025-07-27T00:00:00,2025-08-03T00:00:00,,,,,3143,,,,,,,
+,ITTF African Youth Cup 2025,Youth Continental Championships,87,Nigeria,Lagos,africa,west africa,2025-08-04T00:00:00,2025-08-05T00:00:00,,,,,3144,,,,,,,
+,ITTF African Youth Cup 2025,Youth Continental Championships,87,Nigeria,Lagos,africa,west africa,2025-08-04T00:00:00,2025-08-05T00:00:00,,,,,3144,,,,,,,
+,ITTF African Para Championships 2025,Paralympic Games,52,Egypt,Cairo,africa,north africa,2025-11-20T00:00:00,2025-11-24T00:00:00,,,,,3145,,,,,,,
+,ITTF African Para Championships 2025,Continental Championships,79,Egypt,Cairo,africa,north africa,2025-11-20T00:00:00,2025-11-24T00:00:00,,,,,3145,,,,,,,
+,ITTF African Para Championships 2025,World Para Table Tennis Championships,98,Egypt,Cairo,africa,north africa,2025-11-20T00:00:00,2025-11-24T00:00:00,,,,,3145,,,,,,,
+https://www.ittf.com/tournament/3147/ITTF%20Oceania%20Championships%202025/,ITTF Oceania Championships 2025,Continental Championships,79,New Zealand,Christchurch,oceania,australasia,2025-06-07T00:00:00,2025-06-11T00:00:00,,,,,3147,,,,,,,
+,ITTF Oceania Youth Championships 2025,Youth Continental Championships,87,New Zealand,Christchurch,oceania,australasia,2025-06-12T00:00:00,2025-06-16T00:00:00,,,,,3148,,,,,,,
+,Pacific Mini Games 2025,Multi-Sport Games,77,Palau,Koror,oceania,micronesia,2025-06-29T00:00:00,2025-07-09T00:00:00,,,,,3149,,,,,,,
+,ITTF Oceania Para Championships 2025,Continental Championships,79,New Zealand,Auckland,oceania,australasia,2025-09-26T00:00:00,2025-09-28T00:00:00,,,,,3150,,,,,,,
+,ITTF Oceania Para Championships 2025,Continental Championships,79,New Zealand,Auckland,oceania,australasia,2025-09-26T00:00:00,2025-09-28T00:00:00,,,,,3150,,,,,,,
+,ITTF Oceania Para Championships 2025,World Para Table Tennis Championships,98,New Zealand,Auckland,oceania,australasia,2025-09-26T00:00:00,2025-09-28T00:00:00,,,,,3150,,,,,,,
+,Central American Championships 2025,WTTC Finals Regional Qualifications,83,Costa Rica,San Jose,americas,central america,2025-04-01T00:00:00,2025-04-06T00:00:00,,,,,3151,,,,,,,
+,South American U11 & U13 Championships 2025,ITTF International Youth Open,84,Ecuador,Cuenca,americas,south america,2025-03-24T00:00:00,2025-03-30T00:00:00,,,,,3152,,,,,,,
+,South American U11 & U13 Championships 2025,ITTF International Youth Open,84,Ecuador,Cuenca,americas,south america,2025-03-24T00:00:00,2025-03-30T00:00:00,,,,,3152,,,,,,,
+,Central American Youth Championships 2025,ITTF International Youth Open,84,Guatemala,Guatemala City,americas,central america,2025-05-01T00:00:00,2025-05-06T00:00:00,,,,,3153,,,,,,,
+,South American Youth Championships (U15 & U19) 2025,ITTF International Youth Open,84,Colombia,Monteria,americas,south america,2025-05-18T00:00:00,2025-05-24T00:00:00,,,,,3154,,,,,,,
+,South American Youth Championships (U15 & U19) 2025,ITTF International Youth Open,84,Colombia,Monteria,americas,south america,2025-05-18T00:00:00,2025-05-24T00:00:00,,,,,3154,,,,,,,
+,South American Championships 2025,WTTC Finals Regional Qualifications,83,Peru,Lima,americas,south america,2025-06-23T00:00:00,2025-06-29T00:00:00,,,,,3155,,,,,,,
+,Central American U11 & U13 Championships 2025,ITTF International Youth Open,84,Belize,Belmopan,americas,central america,2025-08-01T00:00:00,2025-08-06T00:00:00,,,,,3156,,,,,,,
+,Central American U11 & U13 Championships 2025,ITTF International Youth Open,84,Belize,Belmopan,americas,central america,2025-08-01T00:00:00,2025-08-06T00:00:00,,,,,3156,,,,,,,
+,Asuncion 2025 Junior Pan American Games,Pan American Junior Games,51,Paraguay,Asunción,americas,south america,2025-08-16T00:00:00,2025-08-21T00:00:00,,,,,3157,,,,,,,
+,ITTF Pan American Youth Championships 2025,Youth Continental Championships,87,Argentina,Rosario,americas,south america,2025-08-24T00:00:00,2025-08-31T00:00:00,,,,,3158,,,,,,,
+https://asia.ittf.com/pages/37/1st%20asian%20veteran%20table%20tennis%20championships_8675,Central American Master Championships 2025,Veteran Championships,55,Guatemala,Guatemala City,americas,central america,2025-09-12T00:00:00,2025-09-15T00:00:00,,,,,3159,,,,,,,
+,Pan American U11 & U13 Championships 2025,ITTF International Youth Open,84,Guatemala,Antigua,americas,central america,2025-09-03T00:00:00,2025-09-10T00:00:00,,,,,3160,,,,,,,
+,Pan American U11 & U13 Championships 2025,ITTF International Youth Open,84,Guatemala,Antigua,americas,central america,2025-09-03T00:00:00,2025-09-10T00:00:00,,,,,3160,,,,,,,
+https://asia.ittf.com/pages/37/1st%20asian%20veteran%20table%20tennis%20championships_8675,South American Master Championships 2025,Veteran Championships,55,Brazil,Rio de Janeiro,americas,south america,2025-04-15T00:00:00,2025-04-20T00:00:00,,,,,3161,,,,,,,
+,ITTF Pan American Championships 2025,Continental Championships,79,USA,Rock Hill,americas,northern america,2025-10-12T00:00:00,2025-10-19T00:00:00,,,,,3162,,,,,,,
+https://asia.ittf.com/pages/37/1st%20asian%20veteran%20table%20tennis%20championships_8675,Pan American Master Championships 2025,Veteran Championships,55,Venezuela,Caracas,americas,south america,2025-11-04T00:00:00,2025-11-09T00:00:00,,,,,3163,,,,,,,
+,XX Bolivarian Games 2025,Multi-Sport Games,77,Peru,Lima,americas,south america,2025-11-22T00:00:00,2025-12-07T00:00:00,,,,,3164,,,,,,,
+,XX Bolivarian Games 2025,Continental Championships,79,Peru,Lima,americas,south america,2025-11-22T00:00:00,2025-12-07T00:00:00,,,,,3164,,,,,,,
+https://asia.ittf.com/pages/47/ayc_5638,29th Asian Youth Championships 2025,Youth Continental Championships,87,Uzbekistan,Tashkent,asia,middle asia,2025-06-26T00:00:00,2025-07-02T00:00:00,,,,,3165,,,,,,,
+https://asia.ittf.com/pages/47/ayc_5638,29th Asian Youth Championships 2025,Youth Continental Championships,87,Uzbekistan,Tashkent,asia,middle asia,2025-06-26T00:00:00,2025-07-02T00:00:00,,,,,3165,,,,,,,
+https://asia.ittf.com/pages/43/attc%202024_7760,28th ITTF- ATTU Asian Table Tennis Team Championships 2025,Continental Championships,79,India,Bhubaneswar,asia,south asia,2025-10-11T00:00:00,2025-10-15T00:00:00,,,,,3166,,,,,,,
+,Caribbean Youth Championships 2025,ITTF International Youth Open,84,Barbados,Bridgetown,americas,caribbean,2025-04-20T00:00:00,2025-04-26T00:00:00,,5524,,,3167,,,,,,,
+,Caribbean Regional Championships 2025,WTTC Finals Regional Qualifications,83,Barbados,Bridgetown,americas,caribbean,2025-06-16T00:00:00,2025-06-22T00:00:00,,,,,3168,,,,,,,
+,2025 ITTF – CONSUTEME Circle 10,ITTF International Youth Open,84,Paraguay,Asunción,americas,south america,2025-03-09T00:00:00,2025-03-11T00:00:00,,,,,3171,,,,,,,
+,WTT Contender Buenos Aires 2025,WTT Contender,34,Argentina,Buenos Aires,americas,south america,2025-07-22T00:00:00,2025-07-27T00:00:00,,,,,3175,,,,,,,WTT Series
+,WTT Star Contender Muscat 2025,WTT Star Contender,35,Oman,Muscat,asia,west asia,2025-11-17T00:00:00,2025-11-22T00:00:00,,,,,3176,,,,,,,WTT Series
+,WTT Feeder Spokane 2025,WTT Feeder,81,USA,Spokane ,americas,northern america,2025-08-05T00:00:00,2025-08-08T00:00:00,,,,,3177,,,,,,,WTT Feeder Series
+,WTT Feeder Spokane II 2025,WTT Feeder,81,USA,Spokane ,americas,northern america,2025-08-09T00:00:00,2025-08-12T00:00:00,,,,,3178,,,,,,,WTT Feeder Series
+,West Asian Regional Youth Championships 2025,ITTF International Youth Open,84,Saudi Arabia,Dammam,asia,west asia,2025-04-24T00:00:00,2025-04-25T00:00:00,,5524,,,3179,,,,,,,
+,East Asian Regional Youth Championships 2025,ITTF International Youth Open,84,Korea DPR,Pyongyang,asia,east asia,2025-04-19T00:00:00,2025-04-20T00:00:00,,5524,,,3180,,,,,,,
+,Central Asian Regional Youth Championships 2025,ITTF International Youth Open,84,Kazakhstan,Almaty,asia,middle asia,2025-04-18T00:00:00,2025-04-20T00:00:00,,5524,,,3181,,,,,,,
+,Southeast Asian Regional Youth Championships 2025,ITTF International Youth Open,84,Indonesia,Jakarta,asia,south east asia,2025-04-17T00:00:00,2025-04-22T00:00:00,,5524,,,3182,,,,,,,
+,South Asian Regional Youth Championships 2025,ITTF International Youth Open,84,Nepal,Kathmandu,asia,south asia,2025-04-24T00:00:00,2025-04-27T00:00:00,,5524,,,3183,,,,,,,
+,West Asian Regional Championships 2025,WTTC Finals Regional Qualifications,83,Saudi Arabia,Dammam,asia,west asia,2025-04-27T00:00:00,2025-04-28T00:00:00,,5524,,,3187,,,,,,,
+,West Asian Regional Championships 2025,ITTF International Youth Open,84,Saudi Arabia,Dammam,asia,west asia,2025-04-27T00:00:00,2025-04-28T00:00:00,,5524,,,3187,,,,,,,
+,WTT Feeder Gdansk 2025,WTT Feeder,81,Poland,Gdansk,europe,eastern europe,2025-11-10T00:00:00,2025-11-14T00:00:00,,,,,3191,,,,,,,WTT Feeder Series
+,Europe Youth Smash - Sweden 2025,WTT Youth Smash,96,Sweden,Malmö,europe,northern europe,2025-08-21T00:00:00,2025-08-24T00:00:00,,0,,,3195,,,,,,,WTT Youth Series
+,WTT Feeder Istanbul 2025,WTT Feeder,81,Türkiye,Istanbul,europe,southern europe,2025-09-11T00:00:00,2025-09-15T00:00:00,,,,,3199,,,,,,,WTT Feeder Series
+https://www.ittf.com/tournament/3147/ITTF%20Oceania%20Championships%202025/,ITTF Oceania Regional Championships 2025,WTTC Finals Regional Qualifications,83,New Zealand,Christchurch,oceania,australasia,2025-06-09T00:00:00,2025-06-10T00:00:00,,,,,3203,,,,,,,
+https://www.ittf.com/tournament/3147/ITTF%20Oceania%20Championships%202025/,ITTF Oceania Regional Championships 2025,WTTC Finals Continental Qualifications,89,New Zealand,Christchurch,oceania,australasia,2025-06-09T00:00:00,2025-06-10T00:00:00,,,,,3203,,,,,,,
+,ITTF Oceania Regional Youth Championships 2025,ITTF International Youth Open,84,New Zealand,Christchurch,oceania,australasia,2025-06-15T00:00:00,2025-06-15T00:00:00,,,,,3204,,,,,,,
+,Central Asia Regional Team Championships 2025,WTTC Finals Regional Qualifications,83,Kazakhstan,Amalty,asia,middle asia,2025-07-14T00:00:00,2025-07-16T00:00:00,,5524,,,3208,,,,,,,
+,Central Asia Regional Team Championships 2025,ITTF International Youth Open,84,Kazakhstan,Amalty,asia,middle asia,2025-07-14T00:00:00,2025-07-16T00:00:00,,5524,,,3208,,,,,,,
+,South Asian Regional Championships 2025,WTTC Finals Regional Qualifications,83,Nepal,Amalty,asia,south asia,2025-07-30T00:00:00,2025-07-31T00:00:00,,5524,,,3210,,,,,,,
+,South Asian Regional Championships 2025,ITTF International Youth Open,84,Nepal,Amalty,asia,south asia,2025-07-30T00:00:00,2025-07-31T00:00:00,,5524,,,3210,,,,,,,
+,China Youth Smash 2025 Presented by Beijing Shijingshan Culture & Tourism Group,WTT Youth Smash,96,China,Beijing,asia,east asia,2025-10-03T00:00:00,2025-10-05T00:00:00,,0,,,3227,,,,,,,WTT Youth Series
