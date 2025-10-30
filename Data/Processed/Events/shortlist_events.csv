@@ -1,303 +1,303 @@
-PageLink,EventName,EventType,EventTypeId,Country,City,ContinentCode,Subcontinent,StartDateTime,EndDateTime,Tags,EventCode,Comments,EventDateChangeId,eventId,FromStartDate,FromEndDate,ToStartDate,ToEndDate,ShowInCalendar,Type,Event_Tier_Name,Completed
-,ITTF World Team Qualification Tournament,World Team Qualification,57,Portugal,Gondomar,europe,southern europe,2020-01-22 00:00:00,2020-01-26 00:00:00,,5171.0,,,2237,,,,,,,,True
-,ITTF World Tour Platinum German Open,World Tour,12,Germany,Magdeburg,europe,western europe,2020-01-28 00:00:00,2020-02-02 00:00:00,,5139.0,,,2239,,,,,,,,True
-,ITTF Challenge Spanish Open,Challenge,10,Spain,Granada,europe,southern europe,2020-02-04 00:00:00,2020-02-08 00:00:00,,5158.0,,,2241,,,,,,,,True
-,Universal ITTF Pan America Cup,Continental Games,71,Puerto Rico,Guaynabo City,americas,caribbean,2020-02-07 00:00:00,2020-02-09 00:00:00,,5172.0,,,2243,,,,,,,,True
-,CCB 2020 ITTF Europe Top 16 Cup,Continental Games,71,Switzerland,Montreux,europe,western europe,2020-02-08 00:00:00,2020-02-09 00:00:00,,5173.0,,,2244,,,,,,,,True
-,ITTF Challenge Plus Portugal Open,Challenge Plus,11,Portugal,Lisbon,europe,southern europe,2020-02-12 00:00:00,2020-02-16 00:00:00,,5159.0,,,2245,,,,,,,,True
-,ITTF World Tour Hungarian Open,World Tour,12,Hungary,Budapest,europe,eastern europe,2020-02-18 00:00:00,2020-02-23 00:00:00,,5145.0,,,2247,,,,,,,,True
-,Western Asia Olympic Qualification Tournament,Olympic Qualification,47,Jordan,Amman,asia,west asia,2020-02-23 00:00:00,2020-02-26 00:00:00,,5259.0,,,2251,,,,,,,,True
-,ITTF-Africa Top 16 Cup,Continental Games,71,Tunisia,Tunisia,africa,north africa,2020-02-24 00:00:00,2020-02-26 00:00:00,,5236.0,,,2250,,,,,,,,True
-,African Singles and Mixed Doubles Olympic Qualification Tournament,Olympic Qualification,47,Tunisia,Tunisia,africa,north africa,2020-02-27 00:00:00,2020-02-29 00:00:00,,5237.0,,,2252,,,,,,,,True
-,ITTF-ATTU Asian Cup,Continental,36,China,Hainan,asia,east asia,2020-02-28 00:00:00,2020-03-01 00:00:00,,5175.0,,3.0,2099,2020-02-28T00:00:00,2020-03-01T00:00:00,,,True,Postponed,,True
-,ITTF World Tour Platinum Qatar Open,World Tour,12,Qatar,Doha,asia,west asia,2020-03-03 00:00:00,2020-03-08 00:00:00,,5146.0,,,2253,,,,,,,,True
-,North American Singles & Mixed Doubles Qualification Tournament,Qualification Tournament,23,Canada,Kitchener,americas,northern america,2020-03-07 00:00:00,2020-03-08 00:00:00,,20133.0,,,2258,,,,,,,,True
-,ITTF Challenge Plus Oman Open,Challenge Plus,11,Oman,Muscat,asia,west asia,2020-03-11 00:00:00,2020-03-15 00:00:00,,5160.0,,,2260,,,,,,,,True
-,ITTF Challenge Polish Open,Challenge,10,Poland,Gliwice,europe,eastern europe,2020-03-11 00:00:00,2020-03-15 00:00:00,,5161.0,Suspended with effect 13 March 2020,4.0,2261,2020-03-11T00:00:00,2020-03-15T00:00:00,,,True,Suspended,,True
-,Caribbean Senior Championships,Other Events and Multi Sport Games,39,Cuba,Havana,americas,caribbean,2020-04-03 00:00:00,2020-04-08 00:00:00,,5238.0,Postponed to 2021,6.0,2178,2020-04-03T00:00:00,2020-04-08T00:00:00,,,True,Postponed,,True
-,Asian Olympic Qualification Tournament,Olympic Games,38,Thailand,Bangkok,asia,south east asia,2020-04-06 00:00:00,2020-04-12 00:00:00,,5178.0,Postponed to 2021,7.0,2102,2020-04-06T00:00:00,2020-04-12T00:00:00,,,True,Postponed,,True
-,European Olympic Singles Qualification Tournament,Olympic Games,38,Russia,Moscow,europe,eastern europe,2020-04-08 00:00:00,2020-04-12 00:00:00,,5245.0,Postponed to 2021,9.0,2201,2020-04-08T00:00:00,2020-04-12T00:00:00,,,True,Postponed,,True
-,Latin American Singles and Mixed Qualification Tournament,Olympic Games,38,Argentina,Rosario,americas,south america,2020-04-15 00:00:00,2020-04-19 00:00:00,,5246.0,Postponed to 2021,10.0,2202,2020-04-15T00:00:00,2020-04-19T00:00:00,,,True,Postponed,,True
-,ITTF Oceania Singles/Mixed Doubles Qualification,Olympic Games,38,Australia,Brisbane Queensland,oceania,australasia,2020-04-19 00:00:00,2020-04-20 00:00:00,,5230.0,Postponed to 2021,11.0,2199,2020-04-19T00:00:00,2020-04-20T00:00:00,,,True,Postponed,,True
-,ITTF Oceania Championships,Continental,36,Australia,Brisbane Queensland,oceania,australasia,2020-04-21 00:00:00,2020-04-25 00:00:00,,5228.0,,13.0,2182,2020-04-21T00:00:00,2020-04-25T00:00:00,,,True,Postponed,,True
-,ITTF Challenge Slovenia Open,Challenge,10,Slovenia,Otocec,europe,southern europe,2020-04-22 00:00:00,2020-04-26 00:00:00,,5163.0,,14.0,2118,2020-04-22T00:00:00,2020-04-26T00:00:00,,,True,Postponed,,True
-,ITTF Challenge Croatia Open,Challenge,10,Croatia,Zagreb,europe,southern europe,2020-04-28 00:00:00,2020-05-02 00:00:00,,5164.0,,16.0,2119,2020-04-28T00:00:00,2020-05-02T00:00:00,,,True,Postponed,,True
-,ITTF Challenge Thailand Open,Challenge,10,Thailand,Bangkok,asia,south east asia,2020-04-29 00:00:00,2020-05-03 00:00:00,,5165.0,,17.0,2120,2020-04-29T00:00:00,2020-05-03T00:00:00,,,True,Postponed,,True
-,South American Championships,Continental,36,Colombia,Cucuta,americas,south america,2020-05-06 00:00:00,2020-05-10 00:00:00,,5240.0,Postponed to 2021,18.0,2179,2020-05-06T00:00:00,2020-05-10T00:00:00,,,True,Postponed,,True
-,ITTF World Tour Platinum China Open,World Tour,12,China,Shenzhen,asia,east asia,2020-05-12 00:00:00,2020-05-17 00:00:00,,5149.0,,19.0,2131,2020-05-12T00:00:00,2020-05-17T00:00:00,,,True,Postponed,,True
-,Central American Championships,Other Events and Multi Sport Games,39,Costa Rica,San Jose,americas,central america,2020-05-12 00:00:00,2020-05-16 00:00:00,,5241.0,Postponed to 2021,20.0,2185,2020-05-12T00:00:00,2020-05-16T00:00:00,,,True,Postponed,,True
-,ITTF World Singles Qualification Event,Olympic Games,38,Qatar,Doha,asia,west asia,2020-05-28 00:00:00,2020-05-31 00:00:00,,5179.0,Postponed to 2021,21.0,2103,2020-05-28T00:00:00,2020-05-31T00:00:00,,,True,Postponed,,True
-,2020 ITTF Oceania Cup,Continental,36,Papua New Guinea,Port Moresby,oceania,melanesia,2020-05-30 00:00:00,2020-05-31 00:00:00,,5231.0,,22.0,2181,2020-05-30T00:00:00,2020-05-31T00:00:00,,,True,Postponed,,True
-,ITTF Challenge Plus Belarus Open,Challenge,10,Belarus,Minsk,europe,eastern europe,2020-06-03 00:00:00,2020-06-07 00:00:00,,5166.0,,23.0,2121,2020-06-03T00:00:00,2020-06-07T00:00:00,,,True,Postponed,,True
-,South East Asian Qualification Tournament for AJCTTC,Other Events and Multi Sport Games,39,Indonesia,Solo,asia,south east asia,2020-06-09 00:00:00,2020-06-14 00:00:00,,5260.0,,24.0,2204,2020-06-09T00:00:00,2020-06-14T00:00:00,,,True,Postponed,,True
-,South Asia Qualification Tournament for AJCTTC,Other Events and Multi Sport Games,39,Bangladesh,TBD,asia,south asia,2020-06-15 00:00:00,2020-06-20 00:00:00,,5261.0,,25.0,2205,2020-06-15T00:00:00,2020-06-20T00:00:00,,,True,Postponed,,True
-,Pan American Championships,Pan American Championships,48,TBD,,oceania,australasia,2020-09-15 00:00:00,2020-09-20 00:00:00,,5243.0,Postponed to 2021,33.0,2184,2020-09-15T00:00:00,2020-09-20T00:00:00,,,True,Postponed,,True
-,LIEBHERR European Individual Championships,Continental,36,Poland,Warsaw,europe,eastern europe,2020-09-15 00:00:00,2020-09-20 00:00:00,,5182.0,,32.0,2106,2020-09-15T00:00:00,2020-09-20T00:00:00,,,True,Postponed,,True
-,ITTF-Africa Senior Championships,Continental,36,Cameroon,Yaounde,africa,central africa,2020-10-01 00:00:00,2020-10-07 00:00:00,,5244.0,Postponed to 2021,34.0,2180,2020-10-01T00:00:00,2020-10-07T00:00:00,,,True,Postponed,,True
-,First Commonwealth of Independent States Games,Special Games,25,Russia,Kazan ,europe,eastern europe,2020-10-01 00:00:00,2020-10-08 00:00:00,,,,125.0,2383,2020-10-01T00:00:00,2020-10-08T00:00:00,,,True,Postponed,,True
-,ITTF-Africa 2021 WTTC Continental Qualification,Continental,36,Cameroon,Yaounde ,africa,central africa,2020-10-09 00:00:00,2020-10-11 00:00:00,,,Postponed to 2021,131.0,2389,2020-10-09T00:00:00,2020-10-11T00:00:00,,,True,Postponed,,True
-,Dishang 2020 ITTF Women's World Cup,World Cup,29,China,Weihai,asia,east asia,2020-11-08 00:00:00,2020-11-10 00:00:00,,5186.0,,,2263,,,,,,,,True
-,Dishang 2020 ITTF Men's World Cup,World Cup,29,China,Weihai,asia,east asia,2020-11-13 00:00:00,2020-11-15 00:00:00,,5185.0,,,2265,,,,,,,,True
-,Bank of Communications 2020 ITTF Finals,ITTF Finals,63,China,Zhengzhou,asia,east asia,2020-11-19 00:00:00,2020-11-22 00:00:00,,5263.0,,,2266,,,,,,,,True
-test156,"WTT Macao Presented By Galaxy Entertainment Group, Macao, China",WTT Exhibition,60,"Macao, China",,asia,east asia,2020-11-23 20:30:00,2020-11-27 20:30:00,,20136.0,,,2267,,,,,,,WTT Series,True
-,WTT Contender Doha 2021,WTT Contender,34,Qatar,Doha,asia,west asia,2021-02-28 11:30:00,2021-03-06 23:59:59,"wtt2021,doha",0.0,,,2410,,,,,,,WTT Series,True
-,WTT Star Contender Doha 2021,WTT Star Contender,35,Qatar,Doha,asia,west asia,2021-03-05 19:30:00,2021-03-13 23:59:00,"wtt2021,doha",0.0,,,2411,,,,,,,WTT Series,True
-,World Singles Qualification Tournament,Olympic Qualification,47,Qatar,Doha ,asia,west asia,2021-03-14 00:00:00,2021-03-17 00:00:00,,5279.0,,,2210,,,,,,,,True
-,Asian Olympic Qualification Tournament,Olympic Qualification,47,Qatar,Doha ,asia,west asia,2021-03-18 00:00:00,2021-03-20 00:00:00,,0.0,,,2275,,,,,,,,True
-,2021 European Olympic Singles Qualification Tournament,Olympic Qualification,47,Portugal,Guimaraes ,europe,southern europe,2021-04-21 00:00:00,2021-04-25 00:00:00,,0.0,,87.0,2276,2021-02-10T00:00:00,2021-02-14T00:00:00,2021-04-21T00:00:00,2021-04-25T00:00:00,True,Postponed,,True
-,Caribbean Senior Championships,Continental,36,Cuba,Havana,americas,caribbean,2021-04-21 00:00:00,2021-04-25 00:00:00,,21001.0,Dates TBC,148.0,2207,2021-04-21T00:00:00,2021-04-25T00:00:00,,,True,Postponed,,True
-,Central American Championships,Continental,36,Costa Rica,San Jose ,americas,central america,2021-05-14 00:00:00,2021-05-19 00:00:00,,5268.0,,,2214,,,,,,,,True
-,Europe Top 16 Cup,Continental,36,Switzerland,Montreux ,europe,western europe,2021-05-22 00:00:00,2021-05-23 00:00:00,,21011.0,Dates TBC,151.0,2217,2021-05-22T00:00:00,2021-05-23T00:00:00,,,True,Postponed,,True
-,LIEBHERR 2020 ITTF European Individual Championships,Continental,36,Poland,Warsaw ,europe,eastern europe,2021-06-22 00:00:00,2021-06-27 00:00:00,,5299.0,,,2219,,,,,,,,True
-,Tokyo 2020 Olympic Games,Olympic Games,38,Japan,Tokyo ,asia,east asia,2021-07-23 00:00:00,2021-08-08 00:00:00,,0.0,,,2345,,,,,,,,True
-,WTT Contender Budapest 2021,WTT Contender,34,Hungary,Budapest,europe,eastern europe,2021-08-15 00:00:00,2021-08-20 00:00:00,,,,,2487,,,,,,,WTT Series,True
-,2021 ITTF Czech International Open,ITTF International Open,80,Czechia,Olomouc,europe,eastern europe,2021-08-21 00:00:00,2021-08-25 00:00:00,,,,,2480,,,,,,,,True
-,EuroMiniChamps,European Championships,58,France,Schiltigheim,europe,western europe,2021-08-27 00:00:00,2021-08-29 00:00:00,,20120.0,,,2228,,,,,,,,True
-,2021 ITTF African Championships,Continental Championships,79,Cameroon,Yaoundé,africa,central africa,2021-09-01 00:00:00,2021-09-07 00:00:00,,,,,2473,,,,,,,,True
-,First Commonwealth of Independent State Games,Other Events and Multi Sport Games,39,Russia,Kazan ,europe,eastern europe,2021-09-04 00:00:00,2021-09-11 00:00:00,,,,,2475,,,,,,,,True
-,World Parkinson Table Tennis Championships,World Championships,2,Germany,Berlin,europe,western europe,2021-09-09 00:00:00,2021-09-11 00:00:00,,,,,2514,,,,,,,,True
-,2021 ITTF Kazakhstan International Open,Other Events and Multi Sport Games,39,Kazakhstan,Karaganda,asia,middle asia,2021-09-15 00:00:00,2021-09-19 00:00:00,,,,,2484,,,,,,,,True
-,2021 Europe Top 16 Cup ,Other Events and Multi Sport Games,39,Greece,Thessaloniki,europe,southern europe,2021-09-18 00:00:00,2021-09-19 00:00:00,,,,,2488,,,,,,,,True
-,2021 Europe Top 16 Cup,European Cups,59,Greece,Thessaloniki,europe,southern europe,2021-09-18 00:00:00,2021-09-19 00:00:00,,5269.0,,,2781,,,,,,,,True
-,WTT Star Contender Doha 2021,WTT Star Contender,35,Qatar,Doha,asia,west asia,2021-09-20 00:00:00,2021-09-25 00:00:00,,,,,2489,,,,,,,WTT Series,True
-,ITTF-ATTU Asian Table Tennis Championships,Continental Championships,79,Qatar,Doha ,asia,west asia,2021-09-28 00:00:00,2021-10-05 00:00:00,,5324.0,,,2474,,,,,,,,True
-,2021 European Championships,Continental,36,Romania,Cluj-Napoca ,europe,eastern europe,2021-09-28 00:00:00,2021-10-03 00:00:00,,20124.0,,,2232,,,,,,,,True
-,WTT Contender Tunis 2021,WTT Contender,34,Tunisia,Tunis,africa,north africa,2021-10-24 00:00:00,2021-10-30 00:00:00,,,,,2502,,,,,,,WTT Series,True
-,WTT Contender Laško 2021 presented by I Feel Slovenia,WTT Contender,34,Slovenia,Laško,europe,southern europe,2021-11-01 00:00:00,2021-11-07 00:00:00,,,,,2503,,,,,,,WTT Series,True
-,2021 ITTF Ecuador International Open,ITTF International Open,80,Ecuador,Cuenca,americas,south america,2021-11-02 00:00:00,2021-11-06 00:00:00,,,,,2510,,,,,,,,True
-,WTT Contender Novo Mesto 2021 presented by I Feel Slovenia,WTT Contender,34,Slovenia,Laško,europe,southern europe,2021-11-08 00:00:00,2021-11-14 00:00:00,,,,,2504,,,,,,,WTT Series,True
-,2021 ITTF Pan American Championships,Continental,36,Peru,Lima,americas,south america,2021-11-13 00:00:00,2021-11-19 00:00:00,,0.0,,,2234,,,,,,,,True
-,2021 World Table Tennis Championships Finals,World Championship,37,USA,Houston,americas,northern america,2021-11-23 00:00:00,2021-11-29 00:00:00,,0.0,,,2346,,,,,,,,True
-,2021 ITTF Finlandia International Open,Other Events and Multi Sport Games,39,Finland,Lohja,europe,northern europe,2021-12-02 00:00:00,2021-12-05 00:00:00,,,,,2479,,,,,,,,True
-,WTT Cup Finals Singapore,WTT Finals,91,Singapore,Singapore,asia,south east asia,2021-12-04 00:00:00,2021-12-07 00:00:00,,,,,2516,,,,,,,WTT Series,True
-,WTT Feeder Düsseldorf,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2021-12-07 00:00:00,2021-12-10 00:00:00,,,,,2519,,,,,,,WTT Feeder Series,True
-,ITTF Copa Costa Rica 2021,Special Games,25,Costa Rica,San José de Costa Rica ,americas,central america,2021-12-10 00:00:00,2021-12-12 00:00:00,,0.0,,,2420,,,,,,,,True
-,2021  ITTF Argentina International Open,ITTF International Open,80,Argentina,Buenos Aires,americas,south america,2021-12-15 00:00:00,2021-12-18 00:00:00,,,,,2513,,,,,,,,True
-,WTT Feeder Düsseldorf I,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2022-01-12 00:00:00,2022-01-15 00:00:00,,,,,2521,,,,,,,WTT Feeder Series,True
-,WTT Feeder Düsseldorf II,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2022-01-17 00:00:00,2022-01-20 00:00:00,,,,,2522,,,,,,,WTT Feeder Series,True
-,WTT Macao,WTT Exhibition,60,"Macao, China",,asia,east asia,2022-01-19 00:00:00,2022-01-23 00:00:00,,20136.0,,,2537,,,,,,,WTT Series,True
-,WTT Contender Muscat 2022,WTT Contender,34,Oman,Muscat,asia,west asia,2022-02-27 00:00:00,2022-03-05 00:00:00,,,,,2531,,,,,,,WTT Series,True
-,2022 Caribbean Senior Championships,Multi-Sport Games,77,Cuba,Havana,americas,caribbean,2022-03-03 00:00:00,2022-03-08 00:00:00,,5344.0,,,2565,,,,,,,,True
-,Singapore Smash 2022,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2022-03-07 00:00:00,2022-03-20 00:00:00,,,,,2536,,,,,,,WTT Series,True
-,WTT Feeder Doha 2022,WTT Feeder,81,Qatar,Doha,asia,west asia,2022-03-13 00:00:00,2022-03-17 00:00:00,,,,,2534,,,,,,,WTT Feeder Series,True
-,WTT Contender Doha 2022,WTT Contender,34,Qatar,Doha,asia,west asia,2022-03-18 00:00:00,2022-03-24 00:00:00,,,,,2532,,,,,,,WTT Series,True
-,WTT Star Contender Doha 2022,WTT Star Contender,35,Qatar,Doha,asia,west asia,2022-03-25 00:00:00,2022-03-31 00:00:00,,,,,2533,,,,,,,WTT Series,True
-,2022 - Central American Championships,Continental Championships,79,Guatemala,Guatemala City,americas,central america,2022-05-03 00:00:00,2022-05-08 00:00:00,,5399.0,,,2783,,,,,,,,True
-,WTT Feeder Fremont 2022,WTT Feeder,81,USA,Fremont,americas,northern america,2022-05-05 00:00:00,2022-05-08 00:00:00,,,,,2569,,,,,,,WTT Feeder Series,True
-,Eastern Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,Ethiopia,,africa,east africa,2022-05-05 00:00:00,2022-05-08 00:00:00,,5407.0,,,2578,,,,,,,,True
-,Northern Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,Algeria,,africa,north africa,2022-05-06 00:00:00,2022-05-08 00:00:00,,5408.0,,,2577,,,,,,,,True
-,WTT Feeder Westchester 2022,WTT Feeder,81,USA,Pleasantville,americas,northern america,2022-05-11 00:00:00,2022-05-15 00:00:00,,,,,2570,,,,,,,WTT Feeder Series,True
-,Western Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,Nigeria,Lagos,africa,west africa,2022-05-19 00:00:00,2022-05-21 00:00:00,,5410.0,,,2579,,,,,,,,True
-,ITTF Africa Cup,Continental Cups,82,Nigeria,Lagos,africa,west africa,2022-05-26 00:00:00,2022-05-28 00:00:00,,5066.0,,,2576,,,,,,,,True
-,WTT Contender Zagreb 2022,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2022-06-13 00:00:00,2022-06-19 00:00:00,,,,,2539,,,,,,,WTT Series,True
-,WTT Contender Lima 2022,WTT Contender,34,Peru,Lima,americas,south america,2022-06-14 00:00:00,2022-06-19 00:00:00,,,,,2574,,,,,,,WTT Series,True
-,WTT Feeder Otocec 2022 Presented by I Feel Slovenia,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2022-06-20 00:00:00,2022-06-26 00:00:00,,,,,2540,,,,,,,WTT Feeder Series,True
-,12th South East Asian Table Tennis Championships,Continental Championships,79,Thailand,Bangkok,asia,south east asia,2022-06-23 00:00:00,2022-06-28 00:00:00,,,,,2598,,,,,,,,True
-,Mediterranean Games Oran 2022,Multi-Sport Games,77,Algeria,Oran,africa,north africa,2022-06-25 00:00:00,2022-07-05 00:00:00,,5413.0,,,2594,,,,,,,,True
-,Southern Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,South Africa,Lagos,africa,southern africa,2022-06-30 00:00:00,2022-07-03 00:00:00,,5429.0,,,2580,,,,,,,,True
-,West Asia Club Championships,Continental Championships,79,Jordan,Amman,asia,west asia,2022-07-01 00:00:00,2022-07-05 00:00:00,,,,,2601,,,,,,,,True
-,WTT Star Contender European Summer Series 2022,WTT Star Contender,35,Hungary,Budapest,europe,eastern europe,2022-07-11 00:00:00,2022-07-17 00:00:00,,,,,2591,,,,,,,WTT Series,True
-,WTT Champions European Summer Series 2022,WTT Champions,65,Hungary,Budapest,europe,eastern europe,2022-07-18 00:00:00,2022-07-23 00:00:00,,,,,2593,,,,,,,WTT Series,True
-,WTT Feeder European Summer Series 2022,WTT Feeder,81,Hungary,Budapest,europe,eastern europe,2022-07-18 00:00:00,2022-07-22 00:00:00,,,,,2592,,,,,,,WTT Feeder Series,True
-,2022 South American Championships,ITTF International Open,80,Colombia,Pereira,americas,south america,2022-07-21 00:00:00,2022-07-27 00:00:00,,5404.0,,,2608,,,,,,,,True
-,National Team West Asia Championships,Continental Championships,79,Jordan,Amman,asia,west asia,2022-07-26 00:00:00,2022-07-31 00:00:00,,,,,2600,,,,,,,,True
-,2022 Commonwealth Games,Multi-Sport Games,77,England,Birmingham,europe,northern europe,2022-07-28 00:00:00,2022-08-07 00:00:00,,5364.0,,,2614,,,,,,,,True
-,WTT Contender Tunis 2022,WTT Contender,34,Tunisia,Tunis,africa,north africa,2022-08-01 00:00:00,2022-08-06 00:00:00,,,,,2568,,,,,,,WTT Series,True
-,2022 European Championships,Continental Championships,79,Germany,Munich,europe,western europe,2022-08-13 00:00:00,2022-08-21 00:00:00,,5440.0,,,2617,,,,,,,,True
-,WTT Feeder Olomouc 2022,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2022-08-23 00:00:00,2022-08-28 00:00:00,,,,,2541,,,,,,,WTT Feeder Series,True
-,WTT Feeder Panagyurishte Presented by Asarel,WTT Feeder,81,Bulgaria,Panagyurishte,europe,eastern europe,2022-08-30 00:00:00,2022-09-04 00:00:00,,,,,2542,,,,,,,WTT Feeder Series,True
-,2022 ITTF-Africa Senior Championships,Continental Championships,79,Algeria,,africa,north africa,2022-09-03 00:00:00,2022-09-09 00:00:00,,,,,2609,,,,,,,,True
-,WTT Contender Muscat 2022,WTT Contender,34,Oman,Muscat,asia,west asia,2022-09-05 00:00:00,2022-09-10 00:00:00,,,,,2605,,,,,,,WTT Series,True
-,ITTF-Oceania Senior Championships,Continental Championships,79,Australia,Melbourne,oceania,australasia,2022-09-05 00:00:00,2022-09-10 00:00:00,,,,,2615,,,,,,,,True
-,WTT Contender Almaty 2022,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2022-09-13 00:00:00,2022-09-18 00:00:00,,,,,2606,,,,,,,WTT Series,True
-,2022 ITTF World Team Championships Finals Presented by China Telecom,World Championship,37,China,Chengdu,asia,east asia,2022-09-30 00:00:00,2022-10-09 00:00:00,,,,,2535,,,,,,,,True
-,WTT Champions Macao 2022 Presented by Galaxy Entertainment Group,WTT Champions,65,"Macao, China",Macao,asia,east asia,2022-10-19 00:00:00,2022-10-23 00:00:00,,,,,2619,,,,,,,WTT Series,True
-,WTT Cup Finals Xinxiang 2022 Presented by China Construction Bank,WTT Finals,91,China,Xinxiang,asia,east asia,2022-10-27 00:00:00,2022-10-30 00:00:00,,,,,2627,,,,,,,WTT Series,True
-,2022 ITTF Pan American Championships,Continental Championships,79,Chile,Santiago,americas,south america,2022-10-31 00:00:00,2022-11-06 00:00:00,,,,,2611,,,,,,,,True
-,WTT Contender Nova Gorica 2022 Presented by I Feel Slovenia,WTT Contender,34,Slovenia,Nova Gorica,europe,southern europe,2022-10-31 00:00:00,2022-11-06 00:00:00,,,,,2589,,,,,,,WTT Series,True
-https://asia.ittf.com/pages/29/2022%20asian%20cup_3880,33rd ITTF-ATTU Asian Cup 2022,Continental Cups,82,Thailand,,asia,south east asia,2022-11-17 00:00:00,2022-11-19 00:00:00,,,,,2974,,,,,,,,True
-,WTT Feeder Düsseldorf III 2022,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2022-11-22 00:00:00,2022-11-25 00:00:00,,,,,2658,,,,,,,WTT Feeder Series,True
-,WTT Feeder Fort Lauderdale 2022,WTT Feeder,81,USA,Fort Lauderdale,americas,northern america,2022-12-11 00:00:00,2022-12-14 00:00:00,,,,,2630,,,,,,,WTT Feeder Series,True
-,2022 ITTF-Oceania Cup,Continental Cups,82,Papua New Guinea,Port Moresby,oceania,melanesia,2022-12-17 00:00:00,2022-12-18 23:00:00,,,,,2670,,,,,,,,True
-,2022 Pacific Cup,Continental Cups,82,Papua New Guinea,Port Moresby,oceania,melanesia,2022-12-17 00:00:00,2022-12-18 23:00:00,,,,,2707,,,,,,,,True
-https://asia.ittf.com/pages/30/asia%20continental%20stage_2935,Asian WTTC Continental Stage,Other Events and Multi Sport Games,39,Qatar,Doha,asia,west asia,2023-01-07 12:30:00,2023-01-13 12:30:00,,5505.0,,,2708,,,,,,,,True
-,WTT Contender Durban 2023,WTT Contender,34,South Africa,Durban,africa,southern africa,2023-01-10 00:00:00,2023-01-15 00:00:00,,,,,2699,,,,,,,WTT Series,True
-,WTT Contender Doha 2023,WTT Contender,34,Qatar,Doha,asia,west asia,2023-01-15 00:00:00,2023-01-21 00:00:00,,,,,2698,,,,,,,WTT Series,True
-,WTT Feeder Doha 2023,WTT Feeder,81,Qatar,Doha,asia,west asia,2023-01-22 00:00:00,2023-01-26 00:00:00,,,,,2701,,,,,,,WTT Feeder Series,True
-,WTT Feeder Amman 2023,WTT Feeder,81,Jordan,Amman,asia,west asia,2023-02-01 00:00:00,2023-02-04 00:00:00,,,,,2700,,,,,,,WTT Feeder Series,True
-,WTT Contender Amman 2023,WTT Contender,34,Jordan,Amman,asia,west asia,2023-02-06 00:00:00,2023-02-12 00:00:00,,,,,2697,,,,,,,WTT Series,True
-,WTT Feeder Düsseldorf 2023,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2023-02-14 00:00:00,2023-02-17 00:00:00,,,,,2702,,,,,,,WTT Feeder Series,True
-,WTT Feeder Düsseldorf II 2023,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2023-02-21 00:00:00,2023-02-24 00:00:00,,,,,2703,,,,,,,WTT Feeder Series,True
-,WTT Star Contender Goa 2023,WTT Star Contender,35,India,Goa,asia,south asia,2023-02-27 00:00:00,2023-03-05 00:00:00,,,,,2696,,,,,,,WTT Series,True
-,Singapore Smash 2023,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2023-03-07 00:00:00,2023-03-19 00:00:00,,,,,2629,,,,,,,WTT Series,True
-,WTT Feeder Antalya 2023,WTT Feeder,81,Türkiye,Antalya,europe,southern europe,2023-03-27 00:00:00,2023-04-01 00:00:00,,,,,2704,,,,,,,WTT Feeder Series,True
-,WTT Champions Xinxiang 2023 Presented by Industrial and Commercial Bank of China,WTT Champions,65,China,Xinxiang,asia,east asia,2023-04-09 00:00:00,2023-04-15 00:00:00,,,,,2737,,,,,,,WTT Series,True
-,2023 Central American Championships,WTTC Finals Regional Qualifications,83,Mexico,Cancun,americas,central america,2023-04-17 00:00:00,2023-04-22 00:00:00,,,,,2747,,,,,,,,True
-,WTT Champions Macao 2023 Presented by Galaxy Entertainment Group,WTT Champions,65,"Macao, China",Macao,asia,east asia,2023-04-17 00:00:00,2023-04-23 00:00:00,,,,,2728,,,,,,,WTT Series,True
-,WTT Star Contender Bangkok 2023,WTT Star Contender,35,Thailand,Bangkok,asia,south east asia,2023-04-23 00:00:00,2023-04-29 00:00:00,,,,,2695,,,,,,,WTT Series,True
-,ITTF Africa Cup,Continental Cups,82,Kenya,Nairob,africa,east africa,2023-05-04 00:00:00,2023-05-06 00:00:00,,5066.0,,,2745,,,,,,,,True
-,2023 ITTF World Table Tennis Championships Finals,World Championship,37,South Africa,Durban,africa,southern africa,2023-05-20 00:00:00,2023-05-28 00:00:00,,,,,2660,,,,,,,,True
-,WTT Contender Lagos 2023,WTT Contender,34,Nigeria,Lagos,africa,west africa,2023-06-12 00:00:00,2023-06-18 00:00:00,,,,,2693,,,,,,,WTT Series,True
-,Special Teams qualification event – Pan American Games Santiago 2023,Other Events and Multi Sport Games,39,Peru,Lima,americas,south america,2023-06-13 00:00:00,2023-06-14 00:00:00,,,,,2762,,,,,,,,True
-,Special Singles qualification event – Pan American Games Santiago 2023,Other Events and Multi Sport Games,39,Peru,Lima,americas,south america,2023-06-15 00:00:00,2023-06-18 00:00:00,,,,,2763,,,,,,,,True
-,WTT Contender Tunis 2023 Presented by KIA,WTT Contender,34,Tunisia,Tunis,africa,north africa,2023-06-20 00:00:00,2023-06-25 00:00:00,,,,,2691,,,,,,,WTT Series,True
-,Central American & Caribbean Games 2023,Multi-Sport Games,77,El Salvador,San Salvador,americas,central america,2023-06-21 00:00:00,2023-06-27 00:00:00,,,,,2770,,,,,,,,True
-,WTT Contender Zagreb 2023,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2023-06-26 00:00:00,2023-07-02 00:00:00,,,,,2692,,,,,,,WTT Series,True
-,WTT Star Contender Ljubljana 2023 Presented by I Feel Slovenia,WTT Star Contender,35,Slovenia,Ljubljana,europe,southern europe,2023-07-03 00:00:00,2023-07-09 00:00:00,,,,,2694,,,,,,,WTT Series,True
-,WTT Feeder Havirov 2023,WTT Feeder,81,Czechia,Havirov,europe,eastern europe,2023-07-27 00:00:00,2023-07-30 00:00:00,,,,,2750,,,,,,,WTT Feeder Series,True
-,WTT Contender Lima 2023,WTT Contender,34,Peru,Lima,americas,south america,2023-07-31 00:00:00,2023-08-06 00:00:00,,,,,2721,,,,,,,WTT Series,True
-,WTT Contender Rio de Janeiro 2023,WTT Contender,34,Brazil,Rio De Janeiro,americas,south america,2023-08-07 00:00:00,2023-08-13 00:00:00,,,,,2722,,,,,,,WTT Series,True
-,WTT Feeder Olomouc 2023,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2023-08-22 00:00:00,2023-08-27 00:00:00,,,,,2724,,,,,,,WTT Feeder Series,True
-,WTT Contender Almaty 2023,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2023-08-29 00:00:00,2023-09-03 00:00:00,,,,,2739,,,,,,,WTT Series,True
-,WTT Feeder Panagyurishte 2023 presented by ASAREL ,WTT Feeder,81,Bulgaria,Panagyurishte,europe,eastern europe,2023-08-29 00:00:00,2023-09-03 00:00:00,,,,,2723,,,,,,,WTT Feeder Series,True
-,2023 ITTF-Oceania Olympic Team & Mixed Doubles Qualification,Olympic Games,85,Australia,,oceania,australasia,2023-09-02 00:00:00,2023-09-03 00:00:00,,,,,2717,,,,,,,WTT Series,True
-,WTT Feeder Bangkok 2023,WTT Feeder,81,Thailand,Bangkok,asia,south east asia,2023-09-04 00:00:00,2023-09-09 00:00:00,,,,,2740,,,,,,,WTT Feeder Series,True
-,2023 ITTF Pan American Championships,Continental Championships,79,Cuba,Havana,americas,caribbean,2023-09-10 00:00:00,2023-09-17 00:00:00,,,,,2789,,,,,,,,True
-,2023 ITTF-Africa Senior Championships,Continental Championships,79,Tunisia,Rades,africa,north africa,2023-09-11 00:00:00,2023-09-17 00:00:00,,,,,2787,,,,,,,,True
-,WTT Feeder Stockholm 2023,WTT Feeder,81,Sweden,Stockhom,europe,northern europe,2023-10-02 00:00:00,2023-10-07 00:00:00,,,,,2738,,,,,,,WTT Feeder Series,True
-,WTT Star Contender Lanzhou 2023 Presented by Huanchen Sports,WTT Star Contender,35,China,Lanzhou,asia,east asia,2023-10-02 00:00:00,2023-10-08 00:00:00,,,,,2777,,,,,,,WTT Series,True
-,WTT Contender Muscat 2023,WTT Contender,34,Oman,Muscat,asia,west asia,2023-10-08 00:00:00,2023-10-14 00:00:00,,,,,2775,,,,,,,WTT Series,True
-,WTT Contender Antalya 2023,WTT Contender,34,Türkiye,Antalya,europe,southern europe,2023-10-16 00:00:00,2023-10-22 00:00:00,,,,,2742,,,,,,,WTT Series,True
-,WTT Feeder Doha II 2023,WTT Feeder,81,Qatar,Doha,asia,west asia,2023-10-17 00:00:00,2023-10-19 00:00:00,,5507.0,,,2734,,,,,,,WTT Feeder Series,True
-,WTT Champions Frankfurt 2023,WTT Champions,65,Germany,Frankfurt,europe,western europe,2023-10-29 00:00:00,2023-11-05 00:00:00,,,,,2705,,,,,,,WTT Series,True
-,WTT Feeder Otocec 2023 presented by I Feel Slovenia,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2023-10-30 00:00:00,2023-11-05 00:00:00,,,,,2733,,,,,,,WTT Feeder Series,True
-,WTT Contender Taiyuan 2023,WTT Contender,34,China,Taiyuan,asia,east asia,2023-11-07 00:00:00,2023-11-12 00:00:00,,,,,2794,,,,,,,WTT Series,True
-,WTT Feeder Vila Nova de Gaia 2023,WTT Feeder,81,Portugal,Vila Nova de Gaia,europe,southern europe,2023-11-22 00:00:00,2023-11-25 00:00:00,,,,,2735,,,,,,,WTT Feeder Series,True
-,WTT Feeder Düsseldorf III 2023,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2023-11-27 00:00:00,2023-12-01 00:00:00,,5513.0,,,2755,,,,,,,WTT Feeder Series,True
-,ITTF Mixed Team World Cup 2023,World Mixed Team Championships,93,China,Chengdu,asia,east asia,2023-12-04 00:00:00,2023-12-10 00:00:00,,,,,2860,,,,,,,,True
-,2023 Pacific Cup,Continental Cups,82,New Zealand,Hamilton,oceania,australasia,2023-12-09 00:00:00,2023-12-10 00:00:00,,,,,2905,,,,,,,,True
-,2023 ITTF-Oceania Cup,Continental Cups,82,New Zealand,Hamilton,oceania,australasia,2023-12-09 11:00:00,2023-12-10 11:00:00,,,,,2714,,,,,,,,True
-,WTT Feeder Biella 2023,WTT Feeder,81,Italy,Biella,europe,southern europe,2023-12-12 00:00:00,2023-12-17 00:00:00,,,,,2732,,,,,,,WTT Feeder Series,True
-,WTT Finals Women Nagoya 2023,WTT Finals,75,Japan,Nagoya,asia,east asia,2023-12-15 00:00:00,2023-12-17 00:00:00,,,,,2776,,,,,,,WTT Series,True
-,WTT Finals Men Doha 2023,WTT Finals,75,Qatar,Doha,asia,west asia,2024-01-03 00:00:00,2024-01-05 00:00:00,,,,,2866,,,,,,,WTT Series,True
-,WTT Star Contender Doha 2024,WTT Star Contender,35,Qatar,Doha,asia,west asia,2024-01-08 00:00:00,2024-01-13 00:00:00,,,,,2862,,,,,,,WTT Series,True
-,WTT Contender Doha 2024,WTT Contender,34,Qatar,Doha,asia,west asia,2024-01-14 00:00:00,2024-01-20 00:00:00,,,,,2861,,,,,,,WTT Series,True
-,WTT Feeder Corpus Christi 2024,WTT Feeder,81,USA,Corpus Christi,americas,northern america,2024-01-15 00:00:00,2024-01-18 00:00:00,,,,,2878,,,,,,,WTT Feeder Series,True
-,2024 Pan American Cup,Continental Cups,82,USA,Corpus Christi,americas,northern america,2024-01-19 00:00:00,2024-01-21 00:00:00,,5066.0,,,2896,,,,,,,,True
-,WTT Star Contender Goa 2024,WTT Star Contender,35,India,Goa,asia,south asia,2024-01-23 00:00:00,2024-01-28 00:00:00,,,,,2863,,,,,,,WTT Series,True
-,WTT Feeder Manchester 2024,WTT Feeder,81,England,Manchester,europe,northern europe,2024-02-01 00:00:00,2024-02-04 00:00:00,,,,,2879,,,,,,,WTT Feeder Series,True
-,North Africa Regional Championships 2024,WTTC Finals Regional Qualifications,83,Tunisia,Rades,africa,north africa,2024-02-05 00:00:00,2024-02-07 00:00:00,,,,,2908,,,,,,,,True
-,ITTF World Team Table Tennis Championships Finals Busan 2024 Presented by BNK Busan Bank,World Championship,37,Korea Republic,Busan,asia,east asia,2024-02-16 00:00:00,2024-02-25 00:00:00,,,,,2751,,,,,,,,True
-,Singapore Smash 2024,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2024-03-07 00:00:00,2024-03-17 00:00:00,,,,,2904,,,,,,,WTT Series,True
-,WTT Feeder Beirut 2024,WTT Feeder,81,Lebanon,Beirut,asia,west asia,2024-03-19 00:00:00,2024-03-21 00:00:00,,,,,2893,,,,,,,WTT Feeder Series,True
-,WTT Feeder Beirut II 2024,WTT Feeder,81,Lebanon,Beirut,asia,west asia,2024-03-22 00:00:00,2024-03-24 00:00:00,,,,,2894,,,,,,,WTT Feeder Series,True
-,WTT Feeder Otocec 2024 Presented by I Feel Slovenia,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2024-03-26 00:00:00,2024-04-01 00:00:00,,,,,2880,,,,,,,WTT Feeder Series,True
-,WTT Champions Incheon 2024 Presented by Shinhan Bank,WTT Champions,65,Korea Republic,Incheon,asia,east asia,2024-03-27 00:00:00,2024-03-31 00:00:00,,,,,2899,,,,,,,WTT Series,True
-,WTT Feeder Varazdin 2024,WTT Feeder,81,Croatia,Varaždin,europe,southern europe,2024-04-02 00:00:00,2024-04-07 00:00:00,,,,,2882,,,,,,,WTT Feeder Series,True
-,WTT Feeder Düsseldorf 2024,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2024-04-08 00:00:00,2024-04-12 00:00:00,,,,,2881,,,,,,,WTT Feeder Series,True
-,World Mixed Doubles Olympic Qualification event,World Mixed Doubles Olympic Qualification Tournament,94,Czechia,Havirov,europe,eastern europe,2024-04-11 00:00:00,2024-04-12 00:00:00,,,,,2931,,,,,,,,True
-,WTT Feeder Havirov 2024,WTT Feeder,81,Czechia,Havirov,europe,eastern europe,2024-04-14 00:00:00,2024-04-17 00:00:00,,,,,2883,,,,,,,WTT Feeder Series,True
-,ITTF MEN'S AND WOMEN'S WORLD CUP MACAO 2024 PRESENTED BY GALAXY ENTERTAINMENT GROUP,World Cup,95,"Macao, China",Macao,asia,east asia,2024-04-15 00:00:00,2024-04-21 00:00:00,,,,,2937,,,,,,,,True
-,2024 Caribbean Championships,WTTC Finals Regional Qualifications,83,Dominican Republic,Santo Domingo ,americas,caribbean,2024-04-16 00:00:00,2024-04-21 00:00:00,,,,,2930,,,,,,,,True
-,2024 Central American Championships,WTTC Finals Regional Qualifications,83,El Salvador,San Salvador,americas,central america,2024-04-22 00:00:00,2024-04-27 00:00:00,,,,,2938,,,,,,,,True
-,Saudi Smash 2024,WTT Grand Smash,64,Saudi Arabia,Jeddah,asia,west asia,2024-05-01 00:00:00,2024-05-11 00:00:00,,,,,2932,,,,,,,WTT Series,True
-,2024 ITTF-Oceania Olympic Singles Qualification,Olympic Qualification,47,New Caledonia,Noumea,oceania,melanesia,2024-05-10 00:00:00,2024-05-10 00:00:00,,,,,2915,,,,,,,,True
-,2024 ITTF-Oceania Cup,Continental Cups,82,New Caledonia,Noumea,oceania,melanesia,2024-05-11 00:00:00,2024-05-12 00:00:00,,,,,2916,,,,,,,,True
-,2024 Pacific Cup,Continental Cups,82,New Caledonia,NOUMEA Nouvelle Calédonie,oceania,melanesia,2024-05-11 00:00:00,2024-05-12 00:00:00,,,,,2959,,,,,,,,True
-,ITTF Africa Cup 2024,Continental Cups,82,Rwanda,Kigali,africa,east africa,2024-05-12 00:00:00,2024-05-14 00:00:00,,5066.0,,,2944,,,,,,,,True
-,WTT Feeder Cappadocia 2024,WTT Feeder,81,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2024-05-13 00:00:00,2024-05-17 00:00:00,,,,,2911,,,,,,,WTT Feeder Series,True
-,ITTF Americas Olympic Qualification event,ITTF International Open,80,Peru,Lima,americas,south america,2024-05-14 00:00:00,2024-05-18 00:00:00,,,,,2935,,,,,,,,True
-,ITTF Africa Olympic Qualification event,ITTF International Open,80,Rwanda,Kigali,africa,east africa,2024-05-16 00:00:00,2024-05-18 00:00:00,,,,,2946,,,,,,,,True
-,WTT Contender Rio de Janeiro 2024,WTT Contender,34,Brazil,Rio De Janeiro,americas,south america,2024-05-20 00:00:00,2024-05-26 00:00:00,,,,,2867,,,,,,,WTT Series,True
-,WTT Contender Taiyuan 2024,WTT Contender,34,China,Taiyuan,asia,east asia,2024-05-21 00:00:00,2024-05-26 00:00:00,,,,,2865,,,,,,,WTT Series,True
-,WTT Contender Mendoza 2024,WTT Contender,34,Argentina,Mendoza,americas,south america,2024-05-27 00:00:00,2024-06-02 00:00:00,,,,,2934,,,,,,,WTT Series,True
-,WTT Champions Chongqing 2024 Presented by Changan,WTT Champions,65,China,Chongqing,asia,east asia,2024-05-30 00:00:00,2024-06-03 00:00:00,,,,,2941,,,,,,,WTT Series,True
-,WTT Contender Zagreb 2024,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2024-06-03 00:00:00,2024-06-09 00:00:00,,,,,2869,,,,,,,WTT Series,True
-,2024 South American Championships,WTTC Finals Regional Qualifications,83,Paraguay,Asunción,americas,south america,2024-06-10 00:00:00,2024-06-16 00:00:00,,,,,2960,,,,,,,,True
-,WTT Star Contender Ljubljana 2024 Presented by I Feel Slovenia,WTT Star Contender,35,Slovenia,Ljubljana,europe,southern europe,2024-06-11 00:00:00,2024-06-16 00:00:00,,,,,2870,,,,,,,WTT Series,True
-,WTT Contender Lagos 2024,WTT Contender,34,Nigeria,Lagos,africa,west africa,2024-06-19 00:00:00,2024-06-23 00:00:00,,,,,2868,,,,,,,WTT Series,True
-,WTT Contender Tunis 2024 Presented by KIA,WTT Contender,34,Tunisia,Tunis,africa,north africa,2024-06-25 00:00:00,2024-06-30 00:00:00,,,,,2871,,,,,,,WTT Series,True
-,WTT Star Contender Bangkok 2024,WTT Star Contender,35,Thailand,Bangkok,asia,south east asia,2024-07-02 00:00:00,2024-07-07 00:00:00,,,,,2900,,,,,,,WTT Series,True
-,Paris 2024 Olympic Games,Olympic Games,85,France,Paris,europe,western europe,2024-07-26 00:00:00,2024-08-11 00:00:00,,,,,2603,,,,,,,WTT Series,True
-,WTT Contender Lima 2024,WTT Contender,34,Peru,Lima,americas,south america,2024-08-21 00:00:00,2024-08-25 00:00:00,,,,,2872,,,,,,,WTT Series,True
-,WTT Feeder Olomouc 2024,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2024-08-21 00:00:00,2024-08-25 00:00:00,,,,,2884,,,,,,,WTT Feeder Series,True
-,WTT Feeder Muscat 2024,WTT Feeder,81,Oman,Muscat,asia,west asia,2024-08-29 00:00:00,2024-09-01 00:00:00,,,,,2965,,,,,,,WTT Feeder Series,True
-,WTT Contender Almaty 2024,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2024-09-03 00:00:00,2024-09-08 00:00:00,,,,,2873,,,,,,,WTT Series,True
-,WTT Champions Macao 2024 Presented by Galaxy Entertainment Group,WTT Champions,65,"Macao, China",Macao,asia,east asia,2024-09-09 00:00:00,2024-09-15 00:00:00,,,,,2983,,,,,,,WTT Series,True
-,WTT Feeder Panagyurishte 2024 Presented by Asarel,WTT Feeder,81,Bulgaria,Panagyurishte,europe,eastern europe,2024-09-11 00:00:00,2024-09-15 00:00:00,,,,,2885,,,,,,,WTT Feeder Series,True
-,WTT Feeder Halmstad 2024,WTT Feeder,81,Sweden,Halmstad,europe,northern europe,2024-09-16 00:00:00,2024-09-21 00:00:00,,,,,2886,,,,,,,WTT Feeder Series,True
-,China Smash 2024 Presented by Zhonghui Life,WTT Grand Smash,64,China,Beijing,asia,east asia,2024-09-26 00:00:00,2024-10-06 00:00:00,,,,,2942,,,,,,,WTT Series,True
-,WTT Feeder Doha 2024,WTT Feeder,81,Qatar,Doha,asia,west asia,2024-10-03 00:00:00,2024-10-06 00:00:00,,,,,2887,,,,,,,WTT Feeder Series,True
-https://asia.ittf.com/pages/43/attc%202024_7760,27th ITTF-Asian Table Tennis Championships 2024,Continental Championships,79,Kazakhstan,,asia,middle asia,2024-10-07 00:00:00,2024-10-13 00:00:00,,,,,2994,,,,,,,,True
-,ITTF-Africa Team Championships Addis Ababa 2024,WTTC Finals Continental Qualifications,89,Ethiopia,Tunis,africa,east africa,2024-10-12 00:00:00,2024-10-19 00:00:00,,5525.0,,,3104,,,,,,,,True
-,2024 ITTF-Africa Senior Championships,Continental Championships,79,Ethiopia,Rades,africa,east africa,2024-10-12 00:00:00,2024-10-19 00:00:00,,,,,2995,,,,,,,,True
-,2024 ITTF Pan American Championships,Continental Championships,79,El Salvador,San Salvador,americas,central america,2024-10-13 00:00:00,2024-10-20 00:00:00,,,,,2996,,,,,,,,True
-,ITTF-Oceania Senior Championships 2024,Continental Championships,79,New Zealand,"Auckland, 1023",oceania,australasia,2024-10-15 00:00:00,2024-10-18 00:00:00,,,,,2917,,,,,,,,True
-,WTT Feeder Cagliari 2024,WTT Feeder,81,Italy,Cagliari,europe,southern europe,2024-10-22 00:00:00,2024-10-27 00:00:00,,,,,2889,,,,,,,WTT Feeder Series,True
-,WTT Champions Montpellier 2024,WTT Champions,65,France,Montpellier,europe,western europe,2024-10-22 00:00:00,2024-10-27 00:00:00,,,,,2940,,,,,,,WTT Series,True
-,WTT Contender Muscat 2024,WTT Contender,34,Oman,Muscat,asia,west asia,2024-10-28 00:00:00,2024-11-02 00:00:00,,,,,2997,,,,,,,WTT Series,True
-,WTT Feeder Prishtina 2024,WTT Feeder,81,Kosovo,Pristina,europe,southern europe,2024-10-30 00:00:00,2024-11-01 00:00:00,,,,,2964,,,,,,,WTT Feeder Series,True
-,WTT Feeder Caracas 2024,WTT Feeder,81,Venezuela,Caracas,americas,south america,2024-10-31 00:00:00,2024-11-03 00:00:00,,,,,2912,,,,,,,WTT Feeder Series,True
-,WTT Champions Frankfurt 2024,WTT Champions,65,Germany,Frankfurt,europe,western europe,2024-11-03 00:00:00,2024-11-10 00:00:00,,,,,2877,,,,,,,WTT Series,True
-,WTT Feeder Düsseldorf II 2024,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2024-11-18 00:00:00,2024-11-22 00:00:00,,,,,2890,,,,,,,WTT Feeder Series,True
-,WTT Finals Fukuoka 2024,WTT Finals,75,Japan,Kitakyushu,asia,east asia,2024-11-20 00:00:00,2024-11-24 00:00:00,,,,,2947,,,,,,,WTT Series,True
-,WTT Feeder Vila Nova de Gaia 2024,WTT Feeder,81,Portugal,Vila Nova de Gaia,europe,southern europe,2024-11-23 00:00:00,2024-11-27 00:00:00,,,,,2891,,,,,,,WTT Feeder Series,True
-,ITTF Mixed Team World Cup Chengdu 2024 presented by CHINA TELECOM,World Mixed Team Championships,93,China,Chengdu,asia,east asia,2024-12-01 00:00:00,2024-12-08 00:00:00,,,,,2979,,,,,,,,True
-,WTT Star Contender Doha 2025,WTT Star Contender,35,Qatar,Doha,asia,west asia,2025-01-06 00:00:00,2025-01-11 00:00:00,,,,,3083,,,,,,,WTT Series,True
-,WTT Contender Muscat 2025,WTT Contender,34,Oman,Muscat,asia,west asia,2025-01-11 00:00:00,2025-01-17 00:00:00,,,,,3084,,,,,,,WTT Series,True
-,Singapore Smash 2025,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2025-01-30 00:00:00,2025-02-09 00:00:00,,,,,3085,,,,,,,WTT Series,True
-,WTT Feeder Doha 2025,WTT Feeder,81,Qatar,Doha,asia,west asia,2025-02-04 00:00:00,2025-02-08 00:00:00,,,,,3026,,,,,,,WTT Feeder Series,True
-,WTT Feeder Düsseldorf 2025,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2025-02-11 00:00:00,2025-02-14 00:00:00,,,,,3020,,,,,,,WTT Feeder Series,True
-,ITTF-Oceania Cup 2025,Continental Cups,82,Australia, Melbourne,oceania,australasia,2025-02-15 00:00:00,2025-02-16 00:00:00,,,,,3115,,,,,,,,True
-,WTT Feeder Cappadocia 2025,WTT Feeder,81,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2025-02-17 00:00:00,2025-02-21 00:00:00,,,,,3030,,,,,,,WTT Feeder Series,True
-,ITTF Pan American Cup 2025 presented By J.P. MORGAN,Continental Cups,82,USA,San Francisco,americas,northern america,2025-02-18 00:00:00,2025-02-23 00:00:00,,5066.0,,,3117,,,,,,,,True
-https://asia.ittf.com/pages/46/asian%20cup_4119,34th ITTF-ATTU Asian Cup 2025,Continental Cups,82,China,Shenzhen,asia,east asia,2025-02-19 00:00:00,2025-02-23 00:00:00,,,,,3122,,,,,,,,True
-,ITTF African Cup 2025,Continental Cups,82,Tunisia,Tunis,africa,north africa,2025-02-25 00:00:00,2025-02-27 00:00:00,,5066.0,,,3116,,,,,,,,True
-,WTT Champions Chongqing 2025 Presented by AITO,WTT Champions,65,China,Chongqing,asia,east asia,2025-03-11 00:00:00,2025-03-16 00:00:00,,,,,3086,,,,,,,WTT Series,True
-,WTT Star Contender Chennai 2025 Presented by IndianOil,WTT Star Contender,35,India,Chennai,asia,south asia,2025-03-25 00:00:00,2025-03-30 00:00:00,,,,,3133,,,,,,,WTT Series,True
-,WTT Feeder Otocec 2025 Presented by I Feel Slovenia ,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2025-03-25 00:00:00,2025-03-29 00:00:00,,,,,3024,,,,,,,WTT Feeder Series,True
-,WTT Feeder Otocec II 2025 Presented by I Feel Slovenia ,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2025-03-30 00:00:00,2025-04-03 00:00:00,,,,,3025,,,,,,,WTT Feeder Series,True
-,WTT Champions Incheon 2025,WTT Champions,65,Korea Republic,Incheon,asia,east asia,2025-04-01 00:00:00,2025-04-06 00:00:00,,,,,3087,,,,,,,WTT Series,True
-,Central American Championships 2025,WTTC Finals Regional Qualifications,83,Costa Rica,San Jose,americas,central america,2025-04-01 00:00:00,2025-04-06 00:00:00,,,,,3151,,,,,,,,True
-,WTT Feeder Havirov 2025,WTT Feeder,81,Czechia,Havirov,europe,eastern europe,2025-04-05 00:00:00,2025-04-09 00:00:00,,,,,3069,,,,,,,WTT Feeder Series,True
-,WTT Contender Taiyuan 2025,WTT Contender,34,China,Taiyuan,asia,east asia,2025-04-08 00:00:00,2025-04-13 00:00:00,,,,,3088,,,,,,,WTT Series,True
-,ITTF MEN'S AND WOMEN'S WORLD CUP MACAO 2025 PRESENTED BY GALAXY ENTERTAINMENT GROUP,World Cup,95,"Macao, China",,asia,east asia,2025-04-14 00:00:00,2025-04-20 00:00:00,,,,,3109,,,,,,,,True
-,WTT Contender Tunis 2025 Presented By Tunisie Telecom,WTT Contender,34,Tunisia,Tunis,africa,north africa,2025-04-22 00:00:00,2025-04-27 00:00:00,,,,,3089,,,,,,,WTT Series,True
-,WTT Feeder Manchester 2025,WTT Feeder,81,England,Manchester,europe,northern europe,2025-04-24 00:00:00,2025-04-27 00:00:00,,,,,3023,,,,,,,WTT Feeder Series,True
-,West Asian Regional Championships 2025,WTTC Finals Regional Qualifications,83,Saudi Arabia,Dammam,asia,west asia,2025-04-27 00:00:00,2025-04-28 00:00:00,,5524.0,,,3187,,,,,,,,True
-,North Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Tunisia,Tunis,africa,north africa,2025-04-28 00:00:00,2025-04-30 00:00:00,,,,,3135,,,,,,,,True
-,ITTF World Table Tennis Championships Finals Doha 2025,World Championship,37,Qatar,Doha,asia,west asia,2025-05-17 00:00:00,2025-05-25 00:00:00,,,,,3108,,,,,,,,True
-,East Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Madagascar,Antananarivo,africa,east africa,2025-05-28 00:00:00,2025-05-31 00:00:00,,,,,3139,,,,,,,,True
-,WTT Feeder Prishtina 2025,WTT Feeder,81,Kosovo,Prishtina,europe,southern europe,2025-06-03 00:00:00,2025-06-07 00:00:00,,,,,3058,,,,,,,WTT Feeder Series,True
-https://www.ittf.com/tournament/3147/ITTF%20Oceania%20Championships%202025/,ITTF Oceania Championships 2025,Continental Championships,79,New Zealand,Christchurch,oceania,australasia,2025-06-07 00:00:00,2025-06-11 00:00:00,,,,,3147,,,,,,,,True
-,WTT Contender Skopje 2025,WTT Contender,34,North Macedonia,Skopje,europe,southern europe,2025-06-09 00:00:00,2025-06-15 00:00:00,,,,,3090,,,,,,,WTT Series,True
-https://www.ittf.com/tournament/3147/ITTF%20Oceania%20Championships%202025/,ITTF Oceania Regional Championships 2025,WTTC Finals Regional Qualifications,83,New Zealand,Christchurch,oceania,australasia,2025-06-09 00:00:00,2025-06-10 00:00:00,,,,,3203,,,,,,,,True
-,Caribbean Regional Championships 2025,WTTC Finals Regional Qualifications,83,Barbados,Bridgetown,americas,caribbean,2025-06-16 00:00:00,2025-06-22 00:00:00,,,,,3168,,,,,,,,True
-,WTT Star Contender Ljubljana 2025 Presented by I Feel Slovenia,WTT Star Contender,35,Slovenia,Ljubljana,europe,southern europe,2025-06-17 00:00:00,2025-06-22 00:00:00,,,,,3091,,,,,,,WTT Series,True
-,South American Championships 2025,WTTC Finals Regional Qualifications,83,Peru,Lima,americas,south america,2025-06-23 00:00:00,2025-06-29 00:00:00,,,,,3155,,,,,,,,True
-,WTT Contender Zagreb 2025,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2025-06-24 00:00:00,2025-06-29 00:00:00,,,,,3092,,,,,,,WTT Series,True
-,Central Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Congo Brazzaville,Brazzaville,africa,central africa,2025-06-27 00:00:00,2025-06-29 00:00:00,,,,,3140,,,,,,,,True
-,Pacific Mini Games 2025,Multi-Sport Games,77,Palau,Koror,oceania,micronesia,2025-06-29 00:00:00,2025-07-09 00:00:00,,,,,3149,,,,,,,,True
-,United States Smash 2025,WTT Grand Smash,64,USA,Las Vegas,americas,northern america,2025-07-03 00:00:00,2025-07-13 00:00:00,,,,,3082,,,,,,,WTT Series,True
-,Central Asia Regional Team Championships 2025,WTTC Finals Regional Qualifications,83,Kazakhstan,Amalty,asia,middle asia,2025-07-14 00:00:00,2025-07-16 00:00:00,,5524.0,,,3208,,,,,,,,True
-,South Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Namibia,,africa,southern africa,2025-07-14 00:00:00,2025-07-17 00:00:00,,,,,3141,,,,,,,,True
-,West Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Nigeria,Lagos,africa,west africa,2025-07-16 00:00:00,2025-07-19 00:00:00,,,,,3142,,,,,,,,True
-,WTT Contender Lagos 2025,WTT Contender,34,Nigeria,Lagos,africa,west africa,2025-07-22 00:00:00,2025-07-26 00:00:00,,,,,3121,,,,,,,WTT Series,True
-,WTT Contender Buenos Aires 2025,WTT Contender,34,Argentina,Buenos Aires,americas,south america,2025-07-22 00:00:00,2025-07-27 00:00:00,,,,,3175,,,,,,,WTT Series,True
-,South Asian Regional Championships 2025,WTTC Finals Regional Qualifications,83,Nepal,Amalty,asia,south asia,2025-07-30 00:00:00,2025-07-31 00:00:00,,5524.0,,,3210,,,,,,,,True
-,WTT Star Contender Foz do Iguaçu 2025,WTT Star Contender,35,Brazil,Foz do Iguaçu,americas,south america,2025-07-30 00:00:00,2025-08-03 00:00:00,,,,,3093,,,,,,,WTT Series,True
-,WTT Feeder Spokane 2025,WTT Feeder,81,USA,Spokane ,americas,northern america,2025-08-05 00:00:00,2025-08-08 00:00:00,,,,,3177,,,,,,,WTT Feeder Series,True
-,WTT Champions Yokohama 2025,WTT Champions,65,Japan,,asia,east asia,2025-08-07 00:00:00,2025-08-11 00:00:00,,,,,3094,,,,,,,WTT Series,True
-,WTT Feeder Spokane II 2025,WTT Feeder,81,USA,Spokane ,americas,northern america,2025-08-09 00:00:00,2025-08-12 00:00:00,,,,,3178,,,,,,,WTT Feeder Series,True
-,WTT Feeder Vientiane 2025 Presented by ICBC Bank,WTT Feeder,81,Laos,,asia,south east asia,2025-08-11 00:00:00,2025-08-15 00:00:00,,,,,3131,,,,,,,WTT Feeder Series,True
-,Europe Smash - Sweden 2025,WTT Grand Smash,64,Sweden,Malmö,europe,northern europe,2025-08-14 00:00:00,2025-08-24 00:00:00,,,,,3128,,,,,,,WTT Series,True
-,WTT Feeder Panagyurishte 2025 Presented by Asarel,WTT Feeder,81,Bulgaria,Panagyurishte,europe,eastern europe,2025-08-21 00:00:00,2025-08-24 00:00:00,,,,,3027,,,,,,,WTT Feeder Series,True
-,WTT Feeder Olomouc 2025,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2025-08-28 00:00:00,2025-08-31 00:00:00,,,,,3028,,,,,,,WTT Feeder Series,True
-,WTT Contender Almaty 2025,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2025-09-02 00:00:00,2025-09-07 00:00:00,,,,,3096,,,,,,,WTT Series,True
-,WTT Champions Macao 2025 Presented by Galaxy Entertainment Group,WTT Champions,65,"Macao, China",Macao,asia,east asia,2025-09-09 00:00:00,2025-09-14 00:00:00,,,,,3097,,,,,,,WTT Series,True
-,WTT Feeder Istanbul 2025,WTT Feeder,81,Türkiye,Istanbul,europe,southern europe,2025-09-11 00:00:00,2025-09-15 00:00:00,,,,,3199,,,,,,,WTT Feeder Series,True
-,WTT Feeder Cappadocia II 2025,WTT Feeder,81,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2025-09-16 00:00:00,2025-09-20 00:00:00,,,,,3031,,,,,,,WTT Feeder Series,True
-,China Smash 2025 Presented by Beijing Shijingshan Culture & Tourism Group,WTT Grand Smash,64,China,Beijing,asia,east asia,2025-09-25 00:00:00,2025-10-05 00:00:00,,,,,3098,,,,,,,WTT Series,True
-https://asia.ittf.com/pages/43/attc%202024_7760,28th ITTF- ATTU Asian Table Tennis Team Championships 2025,Continental Championships,79,India,Bhubaneswar,asia,south asia,2025-10-11 00:00:00,2025-10-15 00:00:00,,,,,3166,,,,,,,,True
-,ITTF Pan American Championships 2025,Continental Championships,79,USA,Rock Hill,americas,northern america,2025-10-12 00:00:00,2025-10-19 00:00:00,,,,,3162,,,,,,,,True
-,WTT Star Contender London 2025,WTT Star Contender,35,England,London,europe,northern europe,2025-10-21 00:00:00,2025-10-26 00:00:00,,,,,3110,,,,,,,WTT Series,True
-,WTT Champions Montpellier 2025,WTT Champions,65,France,Montpellier,europe,western europe,2025-10-28 00:00:00,2025-11-02 00:00:00,,,,,3099,,,,,,,WTT Series,False
-,WTT Champions Frankfurt 2025,WTT Champions,65,Germany,Frankfurt,europe,western europe,2025-11-04 00:00:00,2025-11-09 00:00:00,,,,,3100,,,,,,,WTT Series,False
-,WTT Feeder Vila Nova de Gaia 2025,WTT Feeder,81,Portugal,Vila Nova de Gaia,europe,southern europe,2025-11-05 00:00:00,2025-11-09 00:00:00,,,,,3066,,,,,,,WTT Feeder Series,False
-,WTT Feeder Gdansk 2025,WTT Feeder,81,Poland,Gdansk,europe,eastern europe,2025-11-10 00:00:00,2025-11-14 00:00:00,,,,,3191,,,,,,,WTT Feeder Series,False
-,WTT Star Contender Muscat 2025,WTT Star Contender,35,Oman,Muscat,asia,west asia,2025-11-17 00:00:00,2025-11-22 00:00:00,,,,,3176,,,,,,,WTT Series,False
-,XX Bolivarian Games 2025,Multi-Sport Games,77,Peru,Lima,americas,south america,2025-11-22 00:00:00,2025-12-07 00:00:00,,,,,3164,,,,,,,,False
-,WTT Feeder Düsseldorf II 2025,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2025-11-24 00:00:00,2025-11-27 00:00:00,,,,,3065,,,,,,,WTT Feeder Series,False
-,WTT Feeder Parma 2025,WTT Feeder,81,Italy,Parma,europe,southern europe,2025-11-29 00:00:00,2025-12-03 00:00:00,,,,,3059,,,,,,,WTT Feeder Series,False
-,ITTF Mixed Team World Cup Chengdu 2025,World Mixed Team Championships,93,China,Chengdu,asia,east asia,2025-11-30 00:00:00,2025-12-07 00:00:00,,,,,3263,,,,,,,,False
-,WTT Finals Hong Kong 2025,WTT Finals,75,"Hong Kong, China",,asia,east asia,2025-12-10 00:00:00,2025-12-14 00:00:00,,,,,3112,,,,,,,WTT Series,False
+PageLink,EventName,EventType,EventTypeId,Country,City,ContinentCode,Subcontinent,StartDateTime,EndDateTime,Tags,EventCode,Comments,EventDateChangeId,eventId,FromStartDate,FromEndDate,ToStartDate,ToEndDate,ShowInCalendar,Type,Event_Tier_Name,EventStatus
+,ITTF World Team Qualification Tournament,World Team Qualification,57,Portugal,Gondomar,europe,southern europe,2020-01-22 00:00:00,2020-01-26 00:00:00,,5171.0,,,2237,,,,,,,,Completed
+,ITTF World Tour Platinum German Open,World Tour,12,Germany,Magdeburg,europe,western europe,2020-01-28 00:00:00,2020-02-02 00:00:00,,5139.0,,,2239,,,,,,,,Completed
+,ITTF Challenge Spanish Open,Challenge,10,Spain,Granada,europe,southern europe,2020-02-04 00:00:00,2020-02-08 00:00:00,,5158.0,,,2241,,,,,,,,Completed
+,Universal ITTF Pan America Cup,Continental Games,71,Puerto Rico,Guaynabo City,americas,caribbean,2020-02-07 00:00:00,2020-02-09 00:00:00,,5172.0,,,2243,,,,,,,,Completed
+,CCB 2020 ITTF Europe Top 16 Cup,Continental Games,71,Switzerland,Montreux,europe,western europe,2020-02-08 00:00:00,2020-02-09 00:00:00,,5173.0,,,2244,,,,,,,,Completed
+,ITTF Challenge Plus Portugal Open,Challenge Plus,11,Portugal,Lisbon,europe,southern europe,2020-02-12 00:00:00,2020-02-16 00:00:00,,5159.0,,,2245,,,,,,,,Completed
+,ITTF World Tour Hungarian Open,World Tour,12,Hungary,Budapest,europe,eastern europe,2020-02-18 00:00:00,2020-02-23 00:00:00,,5145.0,,,2247,,,,,,,,Completed
+,Western Asia Olympic Qualification Tournament,Olympic Qualification,47,Jordan,Amman,asia,west asia,2020-02-23 00:00:00,2020-02-26 00:00:00,,5259.0,,,2251,,,,,,,,Completed
+,ITTF-Africa Top 16 Cup,Continental Games,71,Tunisia,Tunisia,africa,north africa,2020-02-24 00:00:00,2020-02-26 00:00:00,,5236.0,,,2250,,,,,,,,Completed
+,African Singles and Mixed Doubles Olympic Qualification Tournament,Olympic Qualification,47,Tunisia,Tunisia,africa,north africa,2020-02-27 00:00:00,2020-02-29 00:00:00,,5237.0,,,2252,,,,,,,,Completed
+,ITTF-ATTU Asian Cup,Continental,36,China,Hainan,asia,east asia,2020-02-28 00:00:00,2020-03-01 00:00:00,,5175.0,,3.0,2099,2020-02-28T00:00:00,2020-03-01T00:00:00,,,True,Postponed,,Completed
+,ITTF World Tour Platinum Qatar Open,World Tour,12,Qatar,Doha,asia,west asia,2020-03-03 00:00:00,2020-03-08 00:00:00,,5146.0,,,2253,,,,,,,,Completed
+,North American Singles & Mixed Doubles Qualification Tournament,Qualification Tournament,23,Canada,Kitchener,americas,northern america,2020-03-07 00:00:00,2020-03-08 00:00:00,,20133.0,,,2258,,,,,,,,Completed
+,ITTF Challenge Plus Oman Open,Challenge Plus,11,Oman,Muscat,asia,west asia,2020-03-11 00:00:00,2020-03-15 00:00:00,,5160.0,,,2260,,,,,,,,Completed
+,ITTF Challenge Polish Open,Challenge,10,Poland,Gliwice,europe,eastern europe,2020-03-11 00:00:00,2020-03-15 00:00:00,,5161.0,Suspended with effect 13 March 2020,4.0,2261,2020-03-11T00:00:00,2020-03-15T00:00:00,,,True,Suspended,,Completed
+,Caribbean Senior Championships,Other Events and Multi Sport Games,39,Cuba,Havana,americas,caribbean,2020-04-03 00:00:00,2020-04-08 00:00:00,,5238.0,Postponed to 2021,6.0,2178,2020-04-03T00:00:00,2020-04-08T00:00:00,,,True,Postponed,,Completed
+,Asian Olympic Qualification Tournament,Olympic Games,38,Thailand,Bangkok,asia,south east asia,2020-04-06 00:00:00,2020-04-12 00:00:00,,5178.0,Postponed to 2021,7.0,2102,2020-04-06T00:00:00,2020-04-12T00:00:00,,,True,Postponed,,Completed
+,European Olympic Singles Qualification Tournament,Olympic Games,38,Russia,Moscow,europe,eastern europe,2020-04-08 00:00:00,2020-04-12 00:00:00,,5245.0,Postponed to 2021,9.0,2201,2020-04-08T00:00:00,2020-04-12T00:00:00,,,True,Postponed,,Completed
+,Latin American Singles and Mixed Qualification Tournament,Olympic Games,38,Argentina,Rosario,americas,south america,2020-04-15 00:00:00,2020-04-19 00:00:00,,5246.0,Postponed to 2021,10.0,2202,2020-04-15T00:00:00,2020-04-19T00:00:00,,,True,Postponed,,Completed
+,ITTF Oceania Singles/Mixed Doubles Qualification,Olympic Games,38,Australia,Brisbane Queensland,oceania,australasia,2020-04-19 00:00:00,2020-04-20 00:00:00,,5230.0,Postponed to 2021,11.0,2199,2020-04-19T00:00:00,2020-04-20T00:00:00,,,True,Postponed,,Completed
+,ITTF Oceania Championships,Continental,36,Australia,Brisbane Queensland,oceania,australasia,2020-04-21 00:00:00,2020-04-25 00:00:00,,5228.0,,13.0,2182,2020-04-21T00:00:00,2020-04-25T00:00:00,,,True,Postponed,,Completed
+,ITTF Challenge Slovenia Open,Challenge,10,Slovenia,Otocec,europe,southern europe,2020-04-22 00:00:00,2020-04-26 00:00:00,,5163.0,,14.0,2118,2020-04-22T00:00:00,2020-04-26T00:00:00,,,True,Postponed,,Completed
+,ITTF Challenge Croatia Open,Challenge,10,Croatia,Zagreb,europe,southern europe,2020-04-28 00:00:00,2020-05-02 00:00:00,,5164.0,,16.0,2119,2020-04-28T00:00:00,2020-05-02T00:00:00,,,True,Postponed,,Completed
+,ITTF Challenge Thailand Open,Challenge,10,Thailand,Bangkok,asia,south east asia,2020-04-29 00:00:00,2020-05-03 00:00:00,,5165.0,,17.0,2120,2020-04-29T00:00:00,2020-05-03T00:00:00,,,True,Postponed,,Completed
+,South American Championships,Continental,36,Colombia,Cucuta,americas,south america,2020-05-06 00:00:00,2020-05-10 00:00:00,,5240.0,Postponed to 2021,18.0,2179,2020-05-06T00:00:00,2020-05-10T00:00:00,,,True,Postponed,,Completed
+,ITTF World Tour Platinum China Open,World Tour,12,China,Shenzhen,asia,east asia,2020-05-12 00:00:00,2020-05-17 00:00:00,,5149.0,,19.0,2131,2020-05-12T00:00:00,2020-05-17T00:00:00,,,True,Postponed,,Completed
+,Central American Championships,Other Events and Multi Sport Games,39,Costa Rica,San Jose,americas,central america,2020-05-12 00:00:00,2020-05-16 00:00:00,,5241.0,Postponed to 2021,20.0,2185,2020-05-12T00:00:00,2020-05-16T00:00:00,,,True,Postponed,,Completed
+,ITTF World Singles Qualification Event,Olympic Games,38,Qatar,Doha,asia,west asia,2020-05-28 00:00:00,2020-05-31 00:00:00,,5179.0,Postponed to 2021,21.0,2103,2020-05-28T00:00:00,2020-05-31T00:00:00,,,True,Postponed,,Completed
+,2020 ITTF Oceania Cup,Continental,36,Papua New Guinea,Port Moresby,oceania,melanesia,2020-05-30 00:00:00,2020-05-31 00:00:00,,5231.0,,22.0,2181,2020-05-30T00:00:00,2020-05-31T00:00:00,,,True,Postponed,,Completed
+,ITTF Challenge Plus Belarus Open,Challenge,10,Belarus,Minsk,europe,eastern europe,2020-06-03 00:00:00,2020-06-07 00:00:00,,5166.0,,23.0,2121,2020-06-03T00:00:00,2020-06-07T00:00:00,,,True,Postponed,,Completed
+,South East Asian Qualification Tournament for AJCTTC,Other Events and Multi Sport Games,39,Indonesia,Solo,asia,south east asia,2020-06-09 00:00:00,2020-06-14 00:00:00,,5260.0,,24.0,2204,2020-06-09T00:00:00,2020-06-14T00:00:00,,,True,Postponed,,Completed
+,South Asia Qualification Tournament for AJCTTC,Other Events and Multi Sport Games,39,Bangladesh,TBD,asia,south asia,2020-06-15 00:00:00,2020-06-20 00:00:00,,5261.0,,25.0,2205,2020-06-15T00:00:00,2020-06-20T00:00:00,,,True,Postponed,,Completed
+,Pan American Championships,Pan American Championships,48,TBD,,oceania,australasia,2020-09-15 00:00:00,2020-09-20 00:00:00,,5243.0,Postponed to 2021,33.0,2184,2020-09-15T00:00:00,2020-09-20T00:00:00,,,True,Postponed,,Completed
+,LIEBHERR European Individual Championships,Continental,36,Poland,Warsaw,europe,eastern europe,2020-09-15 00:00:00,2020-09-20 00:00:00,,5182.0,,32.0,2106,2020-09-15T00:00:00,2020-09-20T00:00:00,,,True,Postponed,,Completed
+,ITTF-Africa Senior Championships,Continental,36,Cameroon,Yaounde,africa,central africa,2020-10-01 00:00:00,2020-10-07 00:00:00,,5244.0,Postponed to 2021,34.0,2180,2020-10-01T00:00:00,2020-10-07T00:00:00,,,True,Postponed,,Completed
+,First Commonwealth of Independent States Games,Special Games,25,Russia,Kazan ,europe,eastern europe,2020-10-01 00:00:00,2020-10-08 00:00:00,,,,125.0,2383,2020-10-01T00:00:00,2020-10-08T00:00:00,,,True,Postponed,,Completed
+,ITTF-Africa 2021 WTTC Continental Qualification,Continental,36,Cameroon,Yaounde ,africa,central africa,2020-10-09 00:00:00,2020-10-11 00:00:00,,,Postponed to 2021,131.0,2389,2020-10-09T00:00:00,2020-10-11T00:00:00,,,True,Postponed,,Completed
+,Dishang 2020 ITTF Women's World Cup,World Cup,29,China,Weihai,asia,east asia,2020-11-08 00:00:00,2020-11-10 00:00:00,,5186.0,,,2263,,,,,,,,Completed
+,Dishang 2020 ITTF Men's World Cup,World Cup,29,China,Weihai,asia,east asia,2020-11-13 00:00:00,2020-11-15 00:00:00,,5185.0,,,2265,,,,,,,,Completed
+,Bank of Communications 2020 ITTF Finals,ITTF Finals,63,China,Zhengzhou,asia,east asia,2020-11-19 00:00:00,2020-11-22 00:00:00,,5263.0,,,2266,,,,,,,,Completed
+test156,"WTT Macao Presented By Galaxy Entertainment Group, Macao, China",WTT Exhibition,60,"Macao, China",,asia,east asia,2020-11-23 20:30:00,2020-11-27 20:30:00,,20136.0,,,2267,,,,,,,WTT Series,Completed
+,WTT Contender Doha 2021,WTT Contender,34,Qatar,Doha,asia,west asia,2021-02-28 11:30:00,2021-03-06 23:59:59,"wtt2021,doha",0.0,,,2410,,,,,,,WTT Series,Completed
+,WTT Star Contender Doha 2021,WTT Star Contender,35,Qatar,Doha,asia,west asia,2021-03-05 19:30:00,2021-03-13 23:59:00,"wtt2021,doha",0.0,,,2411,,,,,,,WTT Series,Completed
+,World Singles Qualification Tournament,Olympic Qualification,47,Qatar,Doha ,asia,west asia,2021-03-14 00:00:00,2021-03-17 00:00:00,,5279.0,,,2210,,,,,,,,Completed
+,Asian Olympic Qualification Tournament,Olympic Qualification,47,Qatar,Doha ,asia,west asia,2021-03-18 00:00:00,2021-03-20 00:00:00,,0.0,,,2275,,,,,,,,Completed
+,2021 European Olympic Singles Qualification Tournament,Olympic Qualification,47,Portugal,Guimaraes ,europe,southern europe,2021-04-21 00:00:00,2021-04-25 00:00:00,,0.0,,87.0,2276,2021-02-10T00:00:00,2021-02-14T00:00:00,2021-04-21T00:00:00,2021-04-25T00:00:00,True,Postponed,,Completed
+,Caribbean Senior Championships,Continental,36,Cuba,Havana,americas,caribbean,2021-04-21 00:00:00,2021-04-25 00:00:00,,21001.0,Dates TBC,148.0,2207,2021-04-21T00:00:00,2021-04-25T00:00:00,,,True,Postponed,,Completed
+,Central American Championships,Continental,36,Costa Rica,San Jose ,americas,central america,2021-05-14 00:00:00,2021-05-19 00:00:00,,5268.0,,,2214,,,,,,,,Completed
+,Europe Top 16 Cup,Continental,36,Switzerland,Montreux ,europe,western europe,2021-05-22 00:00:00,2021-05-23 00:00:00,,21011.0,Dates TBC,151.0,2217,2021-05-22T00:00:00,2021-05-23T00:00:00,,,True,Postponed,,Completed
+,LIEBHERR 2020 ITTF European Individual Championships,Continental,36,Poland,Warsaw ,europe,eastern europe,2021-06-22 00:00:00,2021-06-27 00:00:00,,5299.0,,,2219,,,,,,,,Completed
+,Tokyo 2020 Olympic Games,Olympic Games,38,Japan,Tokyo ,asia,east asia,2021-07-23 00:00:00,2021-08-08 00:00:00,,0.0,,,2345,,,,,,,,Completed
+,WTT Contender Budapest 2021,WTT Contender,34,Hungary,Budapest,europe,eastern europe,2021-08-15 00:00:00,2021-08-20 00:00:00,,,,,2487,,,,,,,WTT Series,Completed
+,2021 ITTF Czech International Open,ITTF International Open,80,Czechia,Olomouc,europe,eastern europe,2021-08-21 00:00:00,2021-08-25 00:00:00,,,,,2480,,,,,,,,Completed
+,EuroMiniChamps,European Championships,58,France,Schiltigheim,europe,western europe,2021-08-27 00:00:00,2021-08-29 00:00:00,,20120.0,,,2228,,,,,,,,Completed
+,2021 ITTF African Championships,Continental Championships,79,Cameroon,Yaoundé,africa,central africa,2021-09-01 00:00:00,2021-09-07 00:00:00,,,,,2473,,,,,,,,Completed
+,First Commonwealth of Independent State Games,Other Events and Multi Sport Games,39,Russia,Kazan ,europe,eastern europe,2021-09-04 00:00:00,2021-09-11 00:00:00,,,,,2475,,,,,,,,Completed
+,World Parkinson Table Tennis Championships,World Championships,2,Germany,Berlin,europe,western europe,2021-09-09 00:00:00,2021-09-11 00:00:00,,,,,2514,,,,,,,,Completed
+,2021 ITTF Kazakhstan International Open,Other Events and Multi Sport Games,39,Kazakhstan,Karaganda,asia,middle asia,2021-09-15 00:00:00,2021-09-19 00:00:00,,,,,2484,,,,,,,,Completed
+,2021 Europe Top 16 Cup ,Other Events and Multi Sport Games,39,Greece,Thessaloniki,europe,southern europe,2021-09-18 00:00:00,2021-09-19 00:00:00,,,,,2488,,,,,,,,Completed
+,2021 Europe Top 16 Cup,European Cups,59,Greece,Thessaloniki,europe,southern europe,2021-09-18 00:00:00,2021-09-19 00:00:00,,5269.0,,,2781,,,,,,,,Completed
+,WTT Star Contender Doha 2021,WTT Star Contender,35,Qatar,Doha,asia,west asia,2021-09-20 00:00:00,2021-09-25 00:00:00,,,,,2489,,,,,,,WTT Series,Completed
+,ITTF-ATTU Asian Table Tennis Championships,Continental Championships,79,Qatar,Doha ,asia,west asia,2021-09-28 00:00:00,2021-10-05 00:00:00,,5324.0,,,2474,,,,,,,,Completed
+,2021 European Championships,Continental,36,Romania,Cluj-Napoca ,europe,eastern europe,2021-09-28 00:00:00,2021-10-03 00:00:00,,20124.0,,,2232,,,,,,,,Completed
+,WTT Contender Tunis 2021,WTT Contender,34,Tunisia,Tunis,africa,north africa,2021-10-24 00:00:00,2021-10-30 00:00:00,,,,,2502,,,,,,,WTT Series,Completed
+,WTT Contender Laško 2021 presented by I Feel Slovenia,WTT Contender,34,Slovenia,Laško,europe,southern europe,2021-11-01 00:00:00,2021-11-07 00:00:00,,,,,2503,,,,,,,WTT Series,Completed
+,2021 ITTF Ecuador International Open,ITTF International Open,80,Ecuador,Cuenca,americas,south america,2021-11-02 00:00:00,2021-11-06 00:00:00,,,,,2510,,,,,,,,Completed
+,WTT Contender Novo Mesto 2021 presented by I Feel Slovenia,WTT Contender,34,Slovenia,Laško,europe,southern europe,2021-11-08 00:00:00,2021-11-14 00:00:00,,,,,2504,,,,,,,WTT Series,Completed
+,2021 ITTF Pan American Championships,Continental,36,Peru,Lima,americas,south america,2021-11-13 00:00:00,2021-11-19 00:00:00,,0.0,,,2234,,,,,,,,Completed
+,2021 World Table Tennis Championships Finals,World Championship,37,USA,Houston,americas,northern america,2021-11-23 00:00:00,2021-11-29 00:00:00,,0.0,,,2346,,,,,,,,Completed
+,2021 ITTF Finlandia International Open,Other Events and Multi Sport Games,39,Finland,Lohja,europe,northern europe,2021-12-02 00:00:00,2021-12-05 00:00:00,,,,,2479,,,,,,,,Completed
+,WTT Cup Finals Singapore,WTT Finals,91,Singapore,Singapore,asia,south east asia,2021-12-04 00:00:00,2021-12-07 00:00:00,,,,,2516,,,,,,,WTT Series,Completed
+,WTT Feeder Düsseldorf,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2021-12-07 00:00:00,2021-12-10 00:00:00,,,,,2519,,,,,,,WTT Feeder Series,Completed
+,ITTF Copa Costa Rica 2021,Special Games,25,Costa Rica,San José de Costa Rica ,americas,central america,2021-12-10 00:00:00,2021-12-12 00:00:00,,0.0,,,2420,,,,,,,,Completed
+,2021  ITTF Argentina International Open,ITTF International Open,80,Argentina,Buenos Aires,americas,south america,2021-12-15 00:00:00,2021-12-18 00:00:00,,,,,2513,,,,,,,,Completed
+,WTT Feeder Düsseldorf I,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2022-01-12 00:00:00,2022-01-15 00:00:00,,,,,2521,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Düsseldorf II,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2022-01-17 00:00:00,2022-01-20 00:00:00,,,,,2522,,,,,,,WTT Feeder Series,Completed
+,WTT Macao,WTT Exhibition,60,"Macao, China",,asia,east asia,2022-01-19 00:00:00,2022-01-23 00:00:00,,20136.0,,,2537,,,,,,,WTT Series,Completed
+,WTT Contender Muscat 2022,WTT Contender,34,Oman,Muscat,asia,west asia,2022-02-27 00:00:00,2022-03-05 00:00:00,,,,,2531,,,,,,,WTT Series,Completed
+,2022 Caribbean Senior Championships,Multi-Sport Games,77,Cuba,Havana,americas,caribbean,2022-03-03 00:00:00,2022-03-08 00:00:00,,5344.0,,,2565,,,,,,,,Completed
+,Singapore Smash 2022,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2022-03-07 00:00:00,2022-03-20 00:00:00,,,,,2536,,,,,,,WTT Series,Completed
+,WTT Feeder Doha 2022,WTT Feeder,81,Qatar,Doha,asia,west asia,2022-03-13 00:00:00,2022-03-17 00:00:00,,,,,2534,,,,,,,WTT Feeder Series,Completed
+,WTT Contender Doha 2022,WTT Contender,34,Qatar,Doha,asia,west asia,2022-03-18 00:00:00,2022-03-24 00:00:00,,,,,2532,,,,,,,WTT Series,Completed
+,WTT Star Contender Doha 2022,WTT Star Contender,35,Qatar,Doha,asia,west asia,2022-03-25 00:00:00,2022-03-31 00:00:00,,,,,2533,,,,,,,WTT Series,Completed
+,2022 - Central American Championships,Continental Championships,79,Guatemala,Guatemala City,americas,central america,2022-05-03 00:00:00,2022-05-08 00:00:00,,5399.0,,,2783,,,,,,,,Completed
+,WTT Feeder Fremont 2022,WTT Feeder,81,USA,Fremont,americas,northern america,2022-05-05 00:00:00,2022-05-08 00:00:00,,,,,2569,,,,,,,WTT Feeder Series,Completed
+,Eastern Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,Ethiopia,,africa,east africa,2022-05-05 00:00:00,2022-05-08 00:00:00,,5407.0,,,2578,,,,,,,,Completed
+,Northern Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,Algeria,,africa,north africa,2022-05-06 00:00:00,2022-05-08 00:00:00,,5408.0,,,2577,,,,,,,,Completed
+,WTT Feeder Westchester 2022,WTT Feeder,81,USA,Pleasantville,americas,northern america,2022-05-11 00:00:00,2022-05-15 00:00:00,,,,,2570,,,,,,,WTT Feeder Series,Completed
+,Western Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,Nigeria,Lagos,africa,west africa,2022-05-19 00:00:00,2022-05-21 00:00:00,,5410.0,,,2579,,,,,,,,Completed
+,ITTF Africa Cup,Continental Cups,82,Nigeria,Lagos,africa,west africa,2022-05-26 00:00:00,2022-05-28 00:00:00,,5066.0,,,2576,,,,,,,,Completed
+,WTT Contender Zagreb 2022,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2022-06-13 00:00:00,2022-06-19 00:00:00,,,,,2539,,,,,,,WTT Series,Completed
+,WTT Contender Lima 2022,WTT Contender,34,Peru,Lima,americas,south america,2022-06-14 00:00:00,2022-06-19 00:00:00,,,,,2574,,,,,,,WTT Series,Completed
+,WTT Feeder Otocec 2022 Presented by I Feel Slovenia,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2022-06-20 00:00:00,2022-06-26 00:00:00,,,,,2540,,,,,,,WTT Feeder Series,Completed
+,12th South East Asian Table Tennis Championships,Continental Championships,79,Thailand,Bangkok,asia,south east asia,2022-06-23 00:00:00,2022-06-28 00:00:00,,,,,2598,,,,,,,,Completed
+,Mediterranean Games Oran 2022,Multi-Sport Games,77,Algeria,Oran,africa,north africa,2022-06-25 00:00:00,2022-07-05 00:00:00,,5413.0,,,2594,,,,,,,,Completed
+,Southern Africa WTTC Finals Qualification,WTTC Finals Regional Qualifications,83,South Africa,Lagos,africa,southern africa,2022-06-30 00:00:00,2022-07-03 00:00:00,,5429.0,,,2580,,,,,,,,Completed
+,West Asia Club Championships,Continental Championships,79,Jordan,Amman,asia,west asia,2022-07-01 00:00:00,2022-07-05 00:00:00,,,,,2601,,,,,,,,Completed
+,WTT Star Contender European Summer Series 2022,WTT Star Contender,35,Hungary,Budapest,europe,eastern europe,2022-07-11 00:00:00,2022-07-17 00:00:00,,,,,2591,,,,,,,WTT Series,Completed
+,WTT Champions European Summer Series 2022,WTT Champions,65,Hungary,Budapest,europe,eastern europe,2022-07-18 00:00:00,2022-07-23 00:00:00,,,,,2593,,,,,,,WTT Series,Completed
+,WTT Feeder European Summer Series 2022,WTT Feeder,81,Hungary,Budapest,europe,eastern europe,2022-07-18 00:00:00,2022-07-22 00:00:00,,,,,2592,,,,,,,WTT Feeder Series,Completed
+,2022 South American Championships,ITTF International Open,80,Colombia,Pereira,americas,south america,2022-07-21 00:00:00,2022-07-27 00:00:00,,5404.0,,,2608,,,,,,,,Completed
+,National Team West Asia Championships,Continental Championships,79,Jordan,Amman,asia,west asia,2022-07-26 00:00:00,2022-07-31 00:00:00,,,,,2600,,,,,,,,Completed
+,2022 Commonwealth Games,Multi-Sport Games,77,England,Birmingham,europe,northern europe,2022-07-28 00:00:00,2022-08-07 00:00:00,,5364.0,,,2614,,,,,,,,Completed
+,WTT Contender Tunis 2022,WTT Contender,34,Tunisia,Tunis,africa,north africa,2022-08-01 00:00:00,2022-08-06 00:00:00,,,,,2568,,,,,,,WTT Series,Completed
+,2022 European Championships,Continental Championships,79,Germany,Munich,europe,western europe,2022-08-13 00:00:00,2022-08-21 00:00:00,,5440.0,,,2617,,,,,,,,Completed
+,WTT Feeder Olomouc 2022,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2022-08-23 00:00:00,2022-08-28 00:00:00,,,,,2541,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Panagyurishte Presented by Asarel,WTT Feeder,81,Bulgaria,Panagyurishte,europe,eastern europe,2022-08-30 00:00:00,2022-09-04 00:00:00,,,,,2542,,,,,,,WTT Feeder Series,Completed
+,2022 ITTF-Africa Senior Championships,Continental Championships,79,Algeria,,africa,north africa,2022-09-03 00:00:00,2022-09-09 00:00:00,,,,,2609,,,,,,,,Completed
+,WTT Contender Muscat 2022,WTT Contender,34,Oman,Muscat,asia,west asia,2022-09-05 00:00:00,2022-09-10 00:00:00,,,,,2605,,,,,,,WTT Series,Completed
+,ITTF-Oceania Senior Championships,Continental Championships,79,Australia,Melbourne,oceania,australasia,2022-09-05 00:00:00,2022-09-10 00:00:00,,,,,2615,,,,,,,,Completed
+,WTT Contender Almaty 2022,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2022-09-13 00:00:00,2022-09-18 00:00:00,,,,,2606,,,,,,,WTT Series,Completed
+,2022 ITTF World Team Championships Finals Presented by China Telecom,World Championship,37,China,Chengdu,asia,east asia,2022-09-30 00:00:00,2022-10-09 00:00:00,,,,,2535,,,,,,,,Completed
+,WTT Champions Macao 2022 Presented by Galaxy Entertainment Group,WTT Champions,65,"Macao, China",Macao,asia,east asia,2022-10-19 00:00:00,2022-10-23 00:00:00,,,,,2619,,,,,,,WTT Series,Completed
+,WTT Cup Finals Xinxiang 2022 Presented by China Construction Bank,WTT Finals,91,China,Xinxiang,asia,east asia,2022-10-27 00:00:00,2022-10-30 00:00:00,,,,,2627,,,,,,,WTT Series,Completed
+,2022 ITTF Pan American Championships,Continental Championships,79,Chile,Santiago,americas,south america,2022-10-31 00:00:00,2022-11-06 00:00:00,,,,,2611,,,,,,,,Completed
+,WTT Contender Nova Gorica 2022 Presented by I Feel Slovenia,WTT Contender,34,Slovenia,Nova Gorica,europe,southern europe,2022-10-31 00:00:00,2022-11-06 00:00:00,,,,,2589,,,,,,,WTT Series,Completed
+https://asia.ittf.com/pages/29/2022%20asian%20cup_3880,33rd ITTF-ATTU Asian Cup 2022,Continental Cups,82,Thailand,,asia,south east asia,2022-11-17 00:00:00,2022-11-19 00:00:00,,,,,2974,,,,,,,,Completed
+,WTT Feeder Düsseldorf III 2022,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2022-11-22 00:00:00,2022-11-25 00:00:00,,,,,2658,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Fort Lauderdale 2022,WTT Feeder,81,USA,Fort Lauderdale,americas,northern america,2022-12-11 00:00:00,2022-12-14 00:00:00,,,,,2630,,,,,,,WTT Feeder Series,Completed
+,2022 ITTF-Oceania Cup,Continental Cups,82,Papua New Guinea,Port Moresby,oceania,melanesia,2022-12-17 00:00:00,2022-12-18 23:00:00,,,,,2670,,,,,,,,Completed
+,2022 Pacific Cup,Continental Cups,82,Papua New Guinea,Port Moresby,oceania,melanesia,2022-12-17 00:00:00,2022-12-18 23:00:00,,,,,2707,,,,,,,,Completed
+https://asia.ittf.com/pages/30/asia%20continental%20stage_2935,Asian WTTC Continental Stage,Other Events and Multi Sport Games,39,Qatar,Doha,asia,west asia,2023-01-07 12:30:00,2023-01-13 12:30:00,,5505.0,,,2708,,,,,,,,Completed
+,WTT Contender Durban 2023,WTT Contender,34,South Africa,Durban,africa,southern africa,2023-01-10 00:00:00,2023-01-15 00:00:00,,,,,2699,,,,,,,WTT Series,Completed
+,WTT Contender Doha 2023,WTT Contender,34,Qatar,Doha,asia,west asia,2023-01-15 00:00:00,2023-01-21 00:00:00,,,,,2698,,,,,,,WTT Series,Completed
+,WTT Feeder Doha 2023,WTT Feeder,81,Qatar,Doha,asia,west asia,2023-01-22 00:00:00,2023-01-26 00:00:00,,,,,2701,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Amman 2023,WTT Feeder,81,Jordan,Amman,asia,west asia,2023-02-01 00:00:00,2023-02-04 00:00:00,,,,,2700,,,,,,,WTT Feeder Series,Completed
+,WTT Contender Amman 2023,WTT Contender,34,Jordan,Amman,asia,west asia,2023-02-06 00:00:00,2023-02-12 00:00:00,,,,,2697,,,,,,,WTT Series,Completed
+,WTT Feeder Düsseldorf 2023,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2023-02-14 00:00:00,2023-02-17 00:00:00,,,,,2702,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Düsseldorf II 2023,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2023-02-21 00:00:00,2023-02-24 00:00:00,,,,,2703,,,,,,,WTT Feeder Series,Completed
+,WTT Star Contender Goa 2023,WTT Star Contender,35,India,Goa,asia,south asia,2023-02-27 00:00:00,2023-03-05 00:00:00,,,,,2696,,,,,,,WTT Series,Completed
+,Singapore Smash 2023,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2023-03-07 00:00:00,2023-03-19 00:00:00,,,,,2629,,,,,,,WTT Series,Completed
+,WTT Feeder Antalya 2023,WTT Feeder,81,Türkiye,Antalya,europe,southern europe,2023-03-27 00:00:00,2023-04-01 00:00:00,,,,,2704,,,,,,,WTT Feeder Series,Completed
+,WTT Champions Xinxiang 2023 Presented by Industrial and Commercial Bank of China,WTT Champions,65,China,Xinxiang,asia,east asia,2023-04-09 00:00:00,2023-04-15 00:00:00,,,,,2737,,,,,,,WTT Series,Completed
+,2023 Central American Championships,WTTC Finals Regional Qualifications,83,Mexico,Cancun,americas,central america,2023-04-17 00:00:00,2023-04-22 00:00:00,,,,,2747,,,,,,,,Completed
+,WTT Champions Macao 2023 Presented by Galaxy Entertainment Group,WTT Champions,65,"Macao, China",Macao,asia,east asia,2023-04-17 00:00:00,2023-04-23 00:00:00,,,,,2728,,,,,,,WTT Series,Completed
+,WTT Star Contender Bangkok 2023,WTT Star Contender,35,Thailand,Bangkok,asia,south east asia,2023-04-23 00:00:00,2023-04-29 00:00:00,,,,,2695,,,,,,,WTT Series,Completed
+,ITTF Africa Cup,Continental Cups,82,Kenya,Nairob,africa,east africa,2023-05-04 00:00:00,2023-05-06 00:00:00,,5066.0,,,2745,,,,,,,,Completed
+,2023 ITTF World Table Tennis Championships Finals,World Championship,37,South Africa,Durban,africa,southern africa,2023-05-20 00:00:00,2023-05-28 00:00:00,,,,,2660,,,,,,,,Completed
+,WTT Contender Lagos 2023,WTT Contender,34,Nigeria,Lagos,africa,west africa,2023-06-12 00:00:00,2023-06-18 00:00:00,,,,,2693,,,,,,,WTT Series,Completed
+,Special Teams qualification event – Pan American Games Santiago 2023,Other Events and Multi Sport Games,39,Peru,Lima,americas,south america,2023-06-13 00:00:00,2023-06-14 00:00:00,,,,,2762,,,,,,,,Completed
+,Special Singles qualification event – Pan American Games Santiago 2023,Other Events and Multi Sport Games,39,Peru,Lima,americas,south america,2023-06-15 00:00:00,2023-06-18 00:00:00,,,,,2763,,,,,,,,Completed
+,WTT Contender Tunis 2023 Presented by KIA,WTT Contender,34,Tunisia,Tunis,africa,north africa,2023-06-20 00:00:00,2023-06-25 00:00:00,,,,,2691,,,,,,,WTT Series,Completed
+,Central American & Caribbean Games 2023,Multi-Sport Games,77,El Salvador,San Salvador,americas,central america,2023-06-21 00:00:00,2023-06-27 00:00:00,,,,,2770,,,,,,,,Completed
+,WTT Contender Zagreb 2023,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2023-06-26 00:00:00,2023-07-02 00:00:00,,,,,2692,,,,,,,WTT Series,Completed
+,WTT Star Contender Ljubljana 2023 Presented by I Feel Slovenia,WTT Star Contender,35,Slovenia,Ljubljana,europe,southern europe,2023-07-03 00:00:00,2023-07-09 00:00:00,,,,,2694,,,,,,,WTT Series,Completed
+,WTT Feeder Havirov 2023,WTT Feeder,81,Czechia,Havirov,europe,eastern europe,2023-07-27 00:00:00,2023-07-30 00:00:00,,,,,2750,,,,,,,WTT Feeder Series,Completed
+,WTT Contender Lima 2023,WTT Contender,34,Peru,Lima,americas,south america,2023-07-31 00:00:00,2023-08-06 00:00:00,,,,,2721,,,,,,,WTT Series,Completed
+,WTT Contender Rio de Janeiro 2023,WTT Contender,34,Brazil,Rio De Janeiro,americas,south america,2023-08-07 00:00:00,2023-08-13 00:00:00,,,,,2722,,,,,,,WTT Series,Completed
+,WTT Feeder Olomouc 2023,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2023-08-22 00:00:00,2023-08-27 00:00:00,,,,,2724,,,,,,,WTT Feeder Series,Completed
+,WTT Contender Almaty 2023,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2023-08-29 00:00:00,2023-09-03 00:00:00,,,,,2739,,,,,,,WTT Series,Completed
+,WTT Feeder Panagyurishte 2023 presented by ASAREL ,WTT Feeder,81,Bulgaria,Panagyurishte,europe,eastern europe,2023-08-29 00:00:00,2023-09-03 00:00:00,,,,,2723,,,,,,,WTT Feeder Series,Completed
+,2023 ITTF-Oceania Olympic Team & Mixed Doubles Qualification,Olympic Games,85,Australia,,oceania,australasia,2023-09-02 00:00:00,2023-09-03 00:00:00,,,,,2717,,,,,,,WTT Series,Completed
+,WTT Feeder Bangkok 2023,WTT Feeder,81,Thailand,Bangkok,asia,south east asia,2023-09-04 00:00:00,2023-09-09 00:00:00,,,,,2740,,,,,,,WTT Feeder Series,Completed
+,2023 ITTF Pan American Championships,Continental Championships,79,Cuba,Havana,americas,caribbean,2023-09-10 00:00:00,2023-09-17 00:00:00,,,,,2789,,,,,,,,Completed
+,2023 ITTF-Africa Senior Championships,Continental Championships,79,Tunisia,Rades,africa,north africa,2023-09-11 00:00:00,2023-09-17 00:00:00,,,,,2787,,,,,,,,Completed
+,WTT Feeder Stockholm 2023,WTT Feeder,81,Sweden,Stockhom,europe,northern europe,2023-10-02 00:00:00,2023-10-07 00:00:00,,,,,2738,,,,,,,WTT Feeder Series,Completed
+,WTT Star Contender Lanzhou 2023 Presented by Huanchen Sports,WTT Star Contender,35,China,Lanzhou,asia,east asia,2023-10-02 00:00:00,2023-10-08 00:00:00,,,,,2777,,,,,,,WTT Series,Completed
+,WTT Contender Muscat 2023,WTT Contender,34,Oman,Muscat,asia,west asia,2023-10-08 00:00:00,2023-10-14 00:00:00,,,,,2775,,,,,,,WTT Series,Completed
+,WTT Contender Antalya 2023,WTT Contender,34,Türkiye,Antalya,europe,southern europe,2023-10-16 00:00:00,2023-10-22 00:00:00,,,,,2742,,,,,,,WTT Series,Completed
+,WTT Feeder Doha II 2023,WTT Feeder,81,Qatar,Doha,asia,west asia,2023-10-17 00:00:00,2023-10-19 00:00:00,,5507.0,,,2734,,,,,,,WTT Feeder Series,Completed
+,WTT Champions Frankfurt 2023,WTT Champions,65,Germany,Frankfurt,europe,western europe,2023-10-29 00:00:00,2023-11-05 00:00:00,,,,,2705,,,,,,,WTT Series,Completed
+,WTT Feeder Otocec 2023 presented by I Feel Slovenia,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2023-10-30 00:00:00,2023-11-05 00:00:00,,,,,2733,,,,,,,WTT Feeder Series,Completed
+,WTT Contender Taiyuan 2023,WTT Contender,34,China,Taiyuan,asia,east asia,2023-11-07 00:00:00,2023-11-12 00:00:00,,,,,2794,,,,,,,WTT Series,Completed
+,WTT Feeder Vila Nova de Gaia 2023,WTT Feeder,81,Portugal,Vila Nova de Gaia,europe,southern europe,2023-11-22 00:00:00,2023-11-25 00:00:00,,,,,2735,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Düsseldorf III 2023,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2023-11-27 00:00:00,2023-12-01 00:00:00,,5513.0,,,2755,,,,,,,WTT Feeder Series,Completed
+,ITTF Mixed Team World Cup 2023,World Mixed Team Championships,93,China,Chengdu,asia,east asia,2023-12-04 00:00:00,2023-12-10 00:00:00,,,,,2860,,,,,,,,Completed
+,2023 Pacific Cup,Continental Cups,82,New Zealand,Hamilton,oceania,australasia,2023-12-09 00:00:00,2023-12-10 00:00:00,,,,,2905,,,,,,,,Completed
+,2023 ITTF-Oceania Cup,Continental Cups,82,New Zealand,Hamilton,oceania,australasia,2023-12-09 11:00:00,2023-12-10 11:00:00,,,,,2714,,,,,,,,Completed
+,WTT Feeder Biella 2023,WTT Feeder,81,Italy,Biella,europe,southern europe,2023-12-12 00:00:00,2023-12-17 00:00:00,,,,,2732,,,,,,,WTT Feeder Series,Completed
+,WTT Finals Women Nagoya 2023,WTT Finals,75,Japan,Nagoya,asia,east asia,2023-12-15 00:00:00,2023-12-17 00:00:00,,,,,2776,,,,,,,WTT Series,Completed
+,WTT Finals Men Doha 2023,WTT Finals,75,Qatar,Doha,asia,west asia,2024-01-03 00:00:00,2024-01-05 00:00:00,,,,,2866,,,,,,,WTT Series,Completed
+,WTT Star Contender Doha 2024,WTT Star Contender,35,Qatar,Doha,asia,west asia,2024-01-08 00:00:00,2024-01-13 00:00:00,,,,,2862,,,,,,,WTT Series,Completed
+,WTT Contender Doha 2024,WTT Contender,34,Qatar,Doha,asia,west asia,2024-01-14 00:00:00,2024-01-20 00:00:00,,,,,2861,,,,,,,WTT Series,Completed
+,WTT Feeder Corpus Christi 2024,WTT Feeder,81,USA,Corpus Christi,americas,northern america,2024-01-15 00:00:00,2024-01-18 00:00:00,,,,,2878,,,,,,,WTT Feeder Series,Completed
+,2024 Pan American Cup,Continental Cups,82,USA,Corpus Christi,americas,northern america,2024-01-19 00:00:00,2024-01-21 00:00:00,,5066.0,,,2896,,,,,,,,Completed
+,WTT Star Contender Goa 2024,WTT Star Contender,35,India,Goa,asia,south asia,2024-01-23 00:00:00,2024-01-28 00:00:00,,,,,2863,,,,,,,WTT Series,Completed
+,WTT Feeder Manchester 2024,WTT Feeder,81,England,Manchester,europe,northern europe,2024-02-01 00:00:00,2024-02-04 00:00:00,,,,,2879,,,,,,,WTT Feeder Series,Completed
+,North Africa Regional Championships 2024,WTTC Finals Regional Qualifications,83,Tunisia,Rades,africa,north africa,2024-02-05 00:00:00,2024-02-07 00:00:00,,,,,2908,,,,,,,,Completed
+,ITTF World Team Table Tennis Championships Finals Busan 2024 Presented by BNK Busan Bank,World Championship,37,Korea Republic,Busan,asia,east asia,2024-02-16 00:00:00,2024-02-25 00:00:00,,,,,2751,,,,,,,,Completed
+,Singapore Smash 2024,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2024-03-07 00:00:00,2024-03-17 00:00:00,,,,,2904,,,,,,,WTT Series,Completed
+,WTT Feeder Beirut 2024,WTT Feeder,81,Lebanon,Beirut,asia,west asia,2024-03-19 00:00:00,2024-03-21 00:00:00,,,,,2893,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Beirut II 2024,WTT Feeder,81,Lebanon,Beirut,asia,west asia,2024-03-22 00:00:00,2024-03-24 00:00:00,,,,,2894,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Otocec 2024 Presented by I Feel Slovenia,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2024-03-26 00:00:00,2024-04-01 00:00:00,,,,,2880,,,,,,,WTT Feeder Series,Completed
+,WTT Champions Incheon 2024 Presented by Shinhan Bank,WTT Champions,65,Korea Republic,Incheon,asia,east asia,2024-03-27 00:00:00,2024-03-31 00:00:00,,,,,2899,,,,,,,WTT Series,Completed
+,WTT Feeder Varazdin 2024,WTT Feeder,81,Croatia,Varaždin,europe,southern europe,2024-04-02 00:00:00,2024-04-07 00:00:00,,,,,2882,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Düsseldorf 2024,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2024-04-08 00:00:00,2024-04-12 00:00:00,,,,,2881,,,,,,,WTT Feeder Series,Completed
+,World Mixed Doubles Olympic Qualification event,World Mixed Doubles Olympic Qualification Tournament,94,Czechia,Havirov,europe,eastern europe,2024-04-11 00:00:00,2024-04-12 00:00:00,,,,,2931,,,,,,,,Completed
+,WTT Feeder Havirov 2024,WTT Feeder,81,Czechia,Havirov,europe,eastern europe,2024-04-14 00:00:00,2024-04-17 00:00:00,,,,,2883,,,,,,,WTT Feeder Series,Completed
+,ITTF MEN'S AND WOMEN'S WORLD CUP MACAO 2024 PRESENTED BY GALAXY ENTERTAINMENT GROUP,World Cup,95,"Macao, China",Macao,asia,east asia,2024-04-15 00:00:00,2024-04-21 00:00:00,,,,,2937,,,,,,,,Completed
+,2024 Caribbean Championships,WTTC Finals Regional Qualifications,83,Dominican Republic,Santo Domingo ,americas,caribbean,2024-04-16 00:00:00,2024-04-21 00:00:00,,,,,2930,,,,,,,,Completed
+,2024 Central American Championships,WTTC Finals Regional Qualifications,83,El Salvador,San Salvador,americas,central america,2024-04-22 00:00:00,2024-04-27 00:00:00,,,,,2938,,,,,,,,Completed
+,Saudi Smash 2024,WTT Grand Smash,64,Saudi Arabia,Jeddah,asia,west asia,2024-05-01 00:00:00,2024-05-11 00:00:00,,,,,2932,,,,,,,WTT Series,Completed
+,2024 ITTF-Oceania Olympic Singles Qualification,Olympic Qualification,47,New Caledonia,Noumea,oceania,melanesia,2024-05-10 00:00:00,2024-05-10 00:00:00,,,,,2915,,,,,,,,Completed
+,2024 ITTF-Oceania Cup,Continental Cups,82,New Caledonia,Noumea,oceania,melanesia,2024-05-11 00:00:00,2024-05-12 00:00:00,,,,,2916,,,,,,,,Completed
+,2024 Pacific Cup,Continental Cups,82,New Caledonia,NOUMEA Nouvelle Calédonie,oceania,melanesia,2024-05-11 00:00:00,2024-05-12 00:00:00,,,,,2959,,,,,,,,Completed
+,ITTF Africa Cup 2024,Continental Cups,82,Rwanda,Kigali,africa,east africa,2024-05-12 00:00:00,2024-05-14 00:00:00,,5066.0,,,2944,,,,,,,,Completed
+,WTT Feeder Cappadocia 2024,WTT Feeder,81,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2024-05-13 00:00:00,2024-05-17 00:00:00,,,,,2911,,,,,,,WTT Feeder Series,Completed
+,ITTF Americas Olympic Qualification event,ITTF International Open,80,Peru,Lima,americas,south america,2024-05-14 00:00:00,2024-05-18 00:00:00,,,,,2935,,,,,,,,Completed
+,ITTF Africa Olympic Qualification event,ITTF International Open,80,Rwanda,Kigali,africa,east africa,2024-05-16 00:00:00,2024-05-18 00:00:00,,,,,2946,,,,,,,,Completed
+,WTT Contender Rio de Janeiro 2024,WTT Contender,34,Brazil,Rio De Janeiro,americas,south america,2024-05-20 00:00:00,2024-05-26 00:00:00,,,,,2867,,,,,,,WTT Series,Completed
+,WTT Contender Taiyuan 2024,WTT Contender,34,China,Taiyuan,asia,east asia,2024-05-21 00:00:00,2024-05-26 00:00:00,,,,,2865,,,,,,,WTT Series,Completed
+,WTT Contender Mendoza 2024,WTT Contender,34,Argentina,Mendoza,americas,south america,2024-05-27 00:00:00,2024-06-02 00:00:00,,,,,2934,,,,,,,WTT Series,Completed
+,WTT Champions Chongqing 2024 Presented by Changan,WTT Champions,65,China,Chongqing,asia,east asia,2024-05-30 00:00:00,2024-06-03 00:00:00,,,,,2941,,,,,,,WTT Series,Completed
+,WTT Contender Zagreb 2024,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2024-06-03 00:00:00,2024-06-09 00:00:00,,,,,2869,,,,,,,WTT Series,Completed
+,2024 South American Championships,WTTC Finals Regional Qualifications,83,Paraguay,Asunción,americas,south america,2024-06-10 00:00:00,2024-06-16 00:00:00,,,,,2960,,,,,,,,Completed
+,WTT Star Contender Ljubljana 2024 Presented by I Feel Slovenia,WTT Star Contender,35,Slovenia,Ljubljana,europe,southern europe,2024-06-11 00:00:00,2024-06-16 00:00:00,,,,,2870,,,,,,,WTT Series,Completed
+,WTT Contender Lagos 2024,WTT Contender,34,Nigeria,Lagos,africa,west africa,2024-06-19 00:00:00,2024-06-23 00:00:00,,,,,2868,,,,,,,WTT Series,Completed
+,WTT Contender Tunis 2024 Presented by KIA,WTT Contender,34,Tunisia,Tunis,africa,north africa,2024-06-25 00:00:00,2024-06-30 00:00:00,,,,,2871,,,,,,,WTT Series,Completed
+,WTT Star Contender Bangkok 2024,WTT Star Contender,35,Thailand,Bangkok,asia,south east asia,2024-07-02 00:00:00,2024-07-07 00:00:00,,,,,2900,,,,,,,WTT Series,Completed
+,Paris 2024 Olympic Games,Olympic Games,85,France,Paris,europe,western europe,2024-07-26 00:00:00,2024-08-11 00:00:00,,,,,2603,,,,,,,WTT Series,Completed
+,WTT Contender Lima 2024,WTT Contender,34,Peru,Lima,americas,south america,2024-08-21 00:00:00,2024-08-25 00:00:00,,,,,2872,,,,,,,WTT Series,Completed
+,WTT Feeder Olomouc 2024,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2024-08-21 00:00:00,2024-08-25 00:00:00,,,,,2884,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Muscat 2024,WTT Feeder,81,Oman,Muscat,asia,west asia,2024-08-29 00:00:00,2024-09-01 00:00:00,,,,,2965,,,,,,,WTT Feeder Series,Completed
+,WTT Contender Almaty 2024,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2024-09-03 00:00:00,2024-09-08 00:00:00,,,,,2873,,,,,,,WTT Series,Completed
+,WTT Champions Macao 2024 Presented by Galaxy Entertainment Group,WTT Champions,65,"Macao, China",Macao,asia,east asia,2024-09-09 00:00:00,2024-09-15 00:00:00,,,,,2983,,,,,,,WTT Series,Completed
+,WTT Feeder Panagyurishte 2024 Presented by Asarel,WTT Feeder,81,Bulgaria,Panagyurishte,europe,eastern europe,2024-09-11 00:00:00,2024-09-15 00:00:00,,,,,2885,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Halmstad 2024,WTT Feeder,81,Sweden,Halmstad,europe,northern europe,2024-09-16 00:00:00,2024-09-21 00:00:00,,,,,2886,,,,,,,WTT Feeder Series,Completed
+,China Smash 2024 Presented by Zhonghui Life,WTT Grand Smash,64,China,Beijing,asia,east asia,2024-09-26 00:00:00,2024-10-06 00:00:00,,,,,2942,,,,,,,WTT Series,Completed
+,WTT Feeder Doha 2024,WTT Feeder,81,Qatar,Doha,asia,west asia,2024-10-03 00:00:00,2024-10-06 00:00:00,,,,,2887,,,,,,,WTT Feeder Series,Completed
+https://asia.ittf.com/pages/43/attc%202024_7760,27th ITTF-Asian Table Tennis Championships 2024,Continental Championships,79,Kazakhstan,,asia,middle asia,2024-10-07 00:00:00,2024-10-13 00:00:00,,,,,2994,,,,,,,,Completed
+,ITTF-Africa Team Championships Addis Ababa 2024,WTTC Finals Continental Qualifications,89,Ethiopia,Tunis,africa,east africa,2024-10-12 00:00:00,2024-10-19 00:00:00,,5525.0,,,3104,,,,,,,,Completed
+,2024 ITTF-Africa Senior Championships,Continental Championships,79,Ethiopia,Rades,africa,east africa,2024-10-12 00:00:00,2024-10-19 00:00:00,,,,,2995,,,,,,,,Completed
+,2024 ITTF Pan American Championships,Continental Championships,79,El Salvador,San Salvador,americas,central america,2024-10-13 00:00:00,2024-10-20 00:00:00,,,,,2996,,,,,,,,Completed
+,ITTF-Oceania Senior Championships 2024,Continental Championships,79,New Zealand,"Auckland, 1023",oceania,australasia,2024-10-15 00:00:00,2024-10-18 00:00:00,,,,,2917,,,,,,,,Completed
+,WTT Feeder Cagliari 2024,WTT Feeder,81,Italy,Cagliari,europe,southern europe,2024-10-22 00:00:00,2024-10-27 00:00:00,,,,,2889,,,,,,,WTT Feeder Series,Completed
+,WTT Champions Montpellier 2024,WTT Champions,65,France,Montpellier,europe,western europe,2024-10-22 00:00:00,2024-10-27 00:00:00,,,,,2940,,,,,,,WTT Series,Completed
+,WTT Contender Muscat 2024,WTT Contender,34,Oman,Muscat,asia,west asia,2024-10-28 00:00:00,2024-11-02 00:00:00,,,,,2997,,,,,,,WTT Series,Completed
+,WTT Feeder Prishtina 2024,WTT Feeder,81,Kosovo,Pristina,europe,southern europe,2024-10-30 00:00:00,2024-11-01 00:00:00,,,,,2964,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Caracas 2024,WTT Feeder,81,Venezuela,Caracas,americas,south america,2024-10-31 00:00:00,2024-11-03 00:00:00,,,,,2912,,,,,,,WTT Feeder Series,Completed
+,WTT Champions Frankfurt 2024,WTT Champions,65,Germany,Frankfurt,europe,western europe,2024-11-03 00:00:00,2024-11-10 00:00:00,,,,,2877,,,,,,,WTT Series,Completed
+,WTT Feeder Düsseldorf II 2024,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2024-11-18 00:00:00,2024-11-22 00:00:00,,,,,2890,,,,,,,WTT Feeder Series,Completed
+,WTT Finals Fukuoka 2024,WTT Finals,75,Japan,Kitakyushu,asia,east asia,2024-11-20 00:00:00,2024-11-24 00:00:00,,,,,2947,,,,,,,WTT Series,Completed
+,WTT Feeder Vila Nova de Gaia 2024,WTT Feeder,81,Portugal,Vila Nova de Gaia,europe,southern europe,2024-11-23 00:00:00,2024-11-27 00:00:00,,,,,2891,,,,,,,WTT Feeder Series,Completed
+,ITTF Mixed Team World Cup Chengdu 2024 presented by CHINA TELECOM,World Mixed Team Championships,93,China,Chengdu,asia,east asia,2024-12-01 00:00:00,2024-12-08 00:00:00,,,,,2979,,,,,,,,Completed
+,WTT Star Contender Doha 2025,WTT Star Contender,35,Qatar,Doha,asia,west asia,2025-01-06 00:00:00,2025-01-11 00:00:00,,,,,3083,,,,,,,WTT Series,Completed
+,WTT Contender Muscat 2025,WTT Contender,34,Oman,Muscat,asia,west asia,2025-01-11 00:00:00,2025-01-17 00:00:00,,,,,3084,,,,,,,WTT Series,Completed
+,Singapore Smash 2025,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2025-01-30 00:00:00,2025-02-09 00:00:00,,,,,3085,,,,,,,WTT Series,Completed
+,WTT Feeder Doha 2025,WTT Feeder,81,Qatar,Doha,asia,west asia,2025-02-04 00:00:00,2025-02-08 00:00:00,,,,,3026,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Düsseldorf 2025,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2025-02-11 00:00:00,2025-02-14 00:00:00,,,,,3020,,,,,,,WTT Feeder Series,Completed
+,ITTF-Oceania Cup 2025,Continental Cups,82,Australia, Melbourne,oceania,australasia,2025-02-15 00:00:00,2025-02-16 00:00:00,,,,,3115,,,,,,,,Completed
+,WTT Feeder Cappadocia 2025,WTT Feeder,81,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2025-02-17 00:00:00,2025-02-21 00:00:00,,,,,3030,,,,,,,WTT Feeder Series,Completed
+,ITTF Pan American Cup 2025 presented By J.P. MORGAN,Continental Cups,82,USA,San Francisco,americas,northern america,2025-02-18 00:00:00,2025-02-23 00:00:00,,5066.0,,,3117,,,,,,,,Completed
+https://asia.ittf.com/pages/46/asian%20cup_4119,34th ITTF-ATTU Asian Cup 2025,Continental Cups,82,China,Shenzhen,asia,east asia,2025-02-19 00:00:00,2025-02-23 00:00:00,,,,,3122,,,,,,,,Completed
+,ITTF African Cup 2025,Continental Cups,82,Tunisia,Tunis,africa,north africa,2025-02-25 00:00:00,2025-02-27 00:00:00,,5066.0,,,3116,,,,,,,,Completed
+,WTT Champions Chongqing 2025 Presented by AITO,WTT Champions,65,China,Chongqing,asia,east asia,2025-03-11 00:00:00,2025-03-16 00:00:00,,,,,3086,,,,,,,WTT Series,Completed
+,WTT Star Contender Chennai 2025 Presented by IndianOil,WTT Star Contender,35,India,Chennai,asia,south asia,2025-03-25 00:00:00,2025-03-30 00:00:00,,,,,3133,,,,,,,WTT Series,Completed
+,WTT Feeder Otocec 2025 Presented by I Feel Slovenia ,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2025-03-25 00:00:00,2025-03-29 00:00:00,,,,,3024,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Otocec II 2025 Presented by I Feel Slovenia ,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2025-03-30 00:00:00,2025-04-03 00:00:00,,,,,3025,,,,,,,WTT Feeder Series,Completed
+,WTT Champions Incheon 2025,WTT Champions,65,Korea Republic,Incheon,asia,east asia,2025-04-01 00:00:00,2025-04-06 00:00:00,,,,,3087,,,,,,,WTT Series,Completed
+,Central American Championships 2025,WTTC Finals Regional Qualifications,83,Costa Rica,San Jose,americas,central america,2025-04-01 00:00:00,2025-04-06 00:00:00,,,,,3151,,,,,,,,Completed
+,WTT Feeder Havirov 2025,WTT Feeder,81,Czechia,Havirov,europe,eastern europe,2025-04-05 00:00:00,2025-04-09 00:00:00,,,,,3069,,,,,,,WTT Feeder Series,Completed
+,WTT Contender Taiyuan 2025,WTT Contender,34,China,Taiyuan,asia,east asia,2025-04-08 00:00:00,2025-04-13 00:00:00,,,,,3088,,,,,,,WTT Series,Completed
+,ITTF MEN'S AND WOMEN'S WORLD CUP MACAO 2025 PRESENTED BY GALAXY ENTERTAINMENT GROUP,World Cup,95,"Macao, China",,asia,east asia,2025-04-14 00:00:00,2025-04-20 00:00:00,,,,,3109,,,,,,,,Completed
+,WTT Contender Tunis 2025 Presented By Tunisie Telecom,WTT Contender,34,Tunisia,Tunis,africa,north africa,2025-04-22 00:00:00,2025-04-27 00:00:00,,,,,3089,,,,,,,WTT Series,Completed
+,WTT Feeder Manchester 2025,WTT Feeder,81,England,Manchester,europe,northern europe,2025-04-24 00:00:00,2025-04-27 00:00:00,,,,,3023,,,,,,,WTT Feeder Series,Completed
+,West Asian Regional Championships 2025,WTTC Finals Regional Qualifications,83,Saudi Arabia,Dammam,asia,west asia,2025-04-27 00:00:00,2025-04-28 00:00:00,,5524.0,,,3187,,,,,,,,Completed
+,North Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Tunisia,Tunis,africa,north africa,2025-04-28 00:00:00,2025-04-30 00:00:00,,,,,3135,,,,,,,,Completed
+,ITTF World Table Tennis Championships Finals Doha 2025,World Championship,37,Qatar,Doha,asia,west asia,2025-05-17 00:00:00,2025-05-25 00:00:00,,,,,3108,,,,,,,,Completed
+,East Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Madagascar,Antananarivo,africa,east africa,2025-05-28 00:00:00,2025-05-31 00:00:00,,,,,3139,,,,,,,,Completed
+,WTT Feeder Prishtina 2025,WTT Feeder,81,Kosovo,Prishtina,europe,southern europe,2025-06-03 00:00:00,2025-06-07 00:00:00,,,,,3058,,,,,,,WTT Feeder Series,Completed
+https://www.ittf.com/tournament/3147/ITTF%20Oceania%20Championships%202025/,ITTF Oceania Championships 2025,Continental Championships,79,New Zealand,Christchurch,oceania,australasia,2025-06-07 00:00:00,2025-06-11 00:00:00,,,,,3147,,,,,,,,Completed
+,WTT Contender Skopje 2025,WTT Contender,34,North Macedonia,Skopje,europe,southern europe,2025-06-09 00:00:00,2025-06-15 00:00:00,,,,,3090,,,,,,,WTT Series,Completed
+https://www.ittf.com/tournament/3147/ITTF%20Oceania%20Championships%202025/,ITTF Oceania Regional Championships 2025,WTTC Finals Regional Qualifications,83,New Zealand,Christchurch,oceania,australasia,2025-06-09 00:00:00,2025-06-10 00:00:00,,,,,3203,,,,,,,,Completed
+,Caribbean Regional Championships 2025,WTTC Finals Regional Qualifications,83,Barbados,Bridgetown,americas,caribbean,2025-06-16 00:00:00,2025-06-22 00:00:00,,,,,3168,,,,,,,,Completed
+,WTT Star Contender Ljubljana 2025 Presented by I Feel Slovenia,WTT Star Contender,35,Slovenia,Ljubljana,europe,southern europe,2025-06-17 00:00:00,2025-06-22 00:00:00,,,,,3091,,,,,,,WTT Series,Completed
+,South American Championships 2025,WTTC Finals Regional Qualifications,83,Peru,Lima,americas,south america,2025-06-23 00:00:00,2025-06-29 00:00:00,,,,,3155,,,,,,,,Completed
+,WTT Contender Zagreb 2025,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2025-06-24 00:00:00,2025-06-29 00:00:00,,,,,3092,,,,,,,WTT Series,Completed
+,Central Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Congo Brazzaville,Brazzaville,africa,central africa,2025-06-27 00:00:00,2025-06-29 00:00:00,,,,,3140,,,,,,,,Completed
+,Pacific Mini Games 2025,Multi-Sport Games,77,Palau,Koror,oceania,micronesia,2025-06-29 00:00:00,2025-07-09 00:00:00,,,,,3149,,,,,,,,Completed
+,United States Smash 2025,WTT Grand Smash,64,USA,Las Vegas,americas,northern america,2025-07-03 00:00:00,2025-07-13 00:00:00,,,,,3082,,,,,,,WTT Series,Completed
+,Central Asia Regional Team Championships 2025,WTTC Finals Regional Qualifications,83,Kazakhstan,Amalty,asia,middle asia,2025-07-14 00:00:00,2025-07-16 00:00:00,,5524.0,,,3208,,,,,,,,Completed
+,South Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Namibia,,africa,southern africa,2025-07-14 00:00:00,2025-07-17 00:00:00,,,,,3141,,,,,,,,Completed
+,West Africa Regional Championships 2025,WTTC Finals Regional Qualifications,83,Nigeria,Lagos,africa,west africa,2025-07-16 00:00:00,2025-07-19 00:00:00,,,,,3142,,,,,,,,Completed
+,WTT Contender Lagos 2025,WTT Contender,34,Nigeria,Lagos,africa,west africa,2025-07-22 00:00:00,2025-07-26 00:00:00,,,,,3121,,,,,,,WTT Series,Completed
+,WTT Contender Buenos Aires 2025,WTT Contender,34,Argentina,Buenos Aires,americas,south america,2025-07-22 00:00:00,2025-07-27 00:00:00,,,,,3175,,,,,,,WTT Series,Completed
+,South Asian Regional Championships 2025,WTTC Finals Regional Qualifications,83,Nepal,Amalty,asia,south asia,2025-07-30 00:00:00,2025-07-31 00:00:00,,5524.0,,,3210,,,,,,,,Completed
+,WTT Star Contender Foz do Iguaçu 2025,WTT Star Contender,35,Brazil,Foz do Iguaçu,americas,south america,2025-07-30 00:00:00,2025-08-03 00:00:00,,,,,3093,,,,,,,WTT Series,Completed
+,WTT Feeder Spokane 2025,WTT Feeder,81,USA,Spokane ,americas,northern america,2025-08-05 00:00:00,2025-08-08 00:00:00,,,,,3177,,,,,,,WTT Feeder Series,Completed
+,WTT Champions Yokohama 2025,WTT Champions,65,Japan,,asia,east asia,2025-08-07 00:00:00,2025-08-11 00:00:00,,,,,3094,,,,,,,WTT Series,Completed
+,WTT Feeder Spokane II 2025,WTT Feeder,81,USA,Spokane ,americas,northern america,2025-08-09 00:00:00,2025-08-12 00:00:00,,,,,3178,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Vientiane 2025 Presented by ICBC Bank,WTT Feeder,81,Laos,,asia,south east asia,2025-08-11 00:00:00,2025-08-15 00:00:00,,,,,3131,,,,,,,WTT Feeder Series,Completed
+,Europe Smash - Sweden 2025,WTT Grand Smash,64,Sweden,Malmö,europe,northern europe,2025-08-14 00:00:00,2025-08-24 00:00:00,,,,,3128,,,,,,,WTT Series,Completed
+,WTT Feeder Panagyurishte 2025 Presented by Asarel,WTT Feeder,81,Bulgaria,Panagyurishte,europe,eastern europe,2025-08-21 00:00:00,2025-08-24 00:00:00,,,,,3027,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Olomouc 2025,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2025-08-28 00:00:00,2025-08-31 00:00:00,,,,,3028,,,,,,,WTT Feeder Series,Completed
+,WTT Contender Almaty 2025,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2025-09-02 00:00:00,2025-09-07 00:00:00,,,,,3096,,,,,,,WTT Series,Completed
+,WTT Champions Macao 2025 Presented by Galaxy Entertainment Group,WTT Champions,65,"Macao, China",Macao,asia,east asia,2025-09-09 00:00:00,2025-09-14 00:00:00,,,,,3097,,,,,,,WTT Series,Completed
+,WTT Feeder Istanbul 2025,WTT Feeder,81,Türkiye,Istanbul,europe,southern europe,2025-09-11 00:00:00,2025-09-15 00:00:00,,,,,3199,,,,,,,WTT Feeder Series,Completed
+,WTT Feeder Cappadocia II 2025,WTT Feeder,81,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2025-09-16 00:00:00,2025-09-20 00:00:00,,,,,3031,,,,,,,WTT Feeder Series,Completed
+,China Smash 2025 Presented by Beijing Shijingshan Culture & Tourism Group,WTT Grand Smash,64,China,Beijing,asia,east asia,2025-09-25 00:00:00,2025-10-05 00:00:00,,,,,3098,,,,,,,WTT Series,Completed
+https://asia.ittf.com/pages/43/attc%202024_7760,28th ITTF- ATTU Asian Table Tennis Team Championships 2025,Continental Championships,79,India,Bhubaneswar,asia,south asia,2025-10-11 00:00:00,2025-10-15 00:00:00,,,,,3166,,,,,,,,Completed
+,ITTF Pan American Championships 2025,Continental Championships,79,USA,Rock Hill,americas,northern america,2025-10-12 00:00:00,2025-10-19 00:00:00,,,,,3162,,,,,,,,Completed
+,WTT Star Contender London 2025,WTT Star Contender,35,England,London,europe,northern europe,2025-10-21 00:00:00,2025-10-26 00:00:00,,,,,3110,,,,,,,WTT Series,Completed
+,WTT Champions Montpellier 2025,WTT Champions,65,France,Montpellier,europe,western europe,2025-10-28 00:00:00,2025-11-02 00:00:00,,,,,3099,,,,,,,WTT Series,Ongoing
+,WTT Champions Frankfurt 2025,WTT Champions,65,Germany,Frankfurt,europe,western europe,2025-11-04 00:00:00,2025-11-09 00:00:00,,,,,3100,,,,,,,WTT Series,Future
+,WTT Feeder Vila Nova de Gaia 2025,WTT Feeder,81,Portugal,Vila Nova de Gaia,europe,southern europe,2025-11-05 00:00:00,2025-11-09 00:00:00,,,,,3066,,,,,,,WTT Feeder Series,Future
+,WTT Feeder Gdansk 2025,WTT Feeder,81,Poland,Gdansk,europe,eastern europe,2025-11-10 00:00:00,2025-11-14 00:00:00,,,,,3191,,,,,,,WTT Feeder Series,Future
+,WTT Star Contender Muscat 2025,WTT Star Contender,35,Oman,Muscat,asia,west asia,2025-11-17 00:00:00,2025-11-22 00:00:00,,,,,3176,,,,,,,WTT Series,Future
+,XX Bolivarian Games 2025,Multi-Sport Games,77,Peru,Lima,americas,south america,2025-11-22 00:00:00,2025-12-07 00:00:00,,,,,3164,,,,,,,,Future
+,WTT Feeder Düsseldorf II 2025,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2025-11-24 00:00:00,2025-11-27 00:00:00,,,,,3065,,,,,,,WTT Feeder Series,Future
+,WTT Feeder Parma 2025,WTT Feeder,81,Italy,Parma,europe,southern europe,2025-11-29 00:00:00,2025-12-03 00:00:00,,,,,3059,,,,,,,WTT Feeder Series,Future
+,ITTF Mixed Team World Cup Chengdu 2025,World Mixed Team Championships,93,China,Chengdu,asia,east asia,2025-11-30 00:00:00,2025-12-07 00:00:00,,,,,3263,,,,,,,,Future
+,WTT Finals Hong Kong 2025,WTT Finals,75,"Hong Kong, China",,asia,east asia,2025-12-10 00:00:00,2025-12-14 00:00:00,,,,,3112,,,,,,,WTT Series,Future

@@ -1,0 +1,184 @@
+EventName,EventType,Country,City,eventId,Completed,StartDate,EndDate,BallSponsor,TableSponsor
+WTT Contender Doha 2021,WTT Contender,Qatar,Doha,2410,True,2021-02-28,2021-03-06,DHS,Double Fish
+WTT Star Contender Doha 2021,WTT Star Contender,Qatar,Doha,2411,True,2021-03-05,2021-03-13,DHS,Double Fish
+Tokyo 2020 Olympic Games,Olympic Games,Japan,Tokyo ,2345,True,2021-07-23,2021-08-08,DHS,San-Ei
+WTT Contender Budapest 2021,WTT Contender,Hungary,Budapest,2487,True,2021-08-15,2021-08-20,DHS,Joola
+2021 ITTF Czech International Open,ITTF International Open,Czechia,Olomouc,2480,True,2021-08-21,2021-08-25,DHS,
+2021 ITTF African Championships,Continental Championships,Cameroon,Yaoundé,2473,True,2021-09-01,2021-09-07,Butterfly,Butterfly
+2021 ITTF Kazakhstan International Open,Other Events and Multi Sport Games,Kazakhstan,Karaganda,2484,True,2021-09-15,2021-09-19,DHS,
+WTT Star Contender Doha 2021,WTT Star Contender,Qatar,Doha,2489,True,2021-09-20,2021-09-25,DHS,
+WTT Contender Tunis 2021,WTT Contender,Tunisia,Tunis,2502,True,2021-10-24,2021-10-30,DHS,
+WTT Contender Laško 2021 presented by I Feel Slovenia,WTT Contender,Slovenia,Laško,2503,True,2021-11-01,2021-11-07,DHS,
+2021 ITTF Ecuador International Open,ITTF International Open,Ecuador,Cuenca,2510,True,2021-11-02,2021-11-06,DHS,
+WTT Contender Novo Mesto 2021 presented by I Feel Slovenia,WTT Contender,Slovenia,Laško,2504,True,2021-11-08,2021-11-14,DHS,
+2021 ITTF Pan American Championships,Continental,Peru,Lima,2234,True,2021-11-13,2021-11-19,,
+2021 World Table Tennis Championships Finals,World Championship,USA,Houston,2346,True,2021-11-23,2021-11-29,Butterfly,DHS
+2021 ITTF Finlandia International Open,Other Events and Multi Sport Games,Finland,Lohja,2479,True,2021-12-02,2021-12-05,,
+WTT Cup Finals Singapore,WTT Finals,Singapore,Singapore,2516,True,2021-12-04,2021-12-07,Double Fish,DHS
+WTT Feeder Düsseldorf,WTT Feeder,Germany,Düsseldorf,2519,True,2021-12-07,2021-12-10,,
+WTT Feeder Düsseldorf I,WTT Feeder,Germany,Düsseldorf,2521,True,2022-01-12,2022-01-15,DHS,
+WTT Feeder Düsseldorf II,WTT Feeder,Germany,Düsseldorf,2522,True,2022-01-17,2022-01-20,DHS,
+WTT Macao,WTT Exhibition,"Macao, China",,2537,True,2022-01-19,2022-01-23,,DHS
+WTT Contender Muscat 2022,WTT Contender,Oman,Muscat,2531,True,2022-02-27,2022-03-05,DHS,Stag
+Singapore Smash 2022,WTT Grand Smash,Singapore,Singapore,2536,True,2022-03-07,2022-03-20,Double Fish,DHS
+WTT Feeder Doha 2022,WTT Feeder,Qatar,Doha,2534,True,2022-03-13,2022-03-17,DHS,
+WTT Contender Doha 2022,WTT Contender,Qatar,Doha,2532,True,2022-03-18,2022-03-24,DHS,
+WTT Star Contender Doha 2022,WTT Star Contender,Qatar,Doha,2533,True,2022-03-25,2022-03-31,DHS,
+WTT Feeder Fremont 2022,WTT Feeder,USA,Fremont,2569,True,2022-05-05,2022-05-08,Double Fish,
+WTT Feeder Westchester 2022,WTT Feeder,USA,Pleasantville,2570,True,2022-05-11,2022-05-15,Double Fish,
+ITTF Africa Cup,Continental Cups,Nigeria,Lagos,2576,True,2022-05-26,2022-05-28,,
+WTT Contender Zagreb 2022,WTT Contender,Croatia,Zagreb,2539,True,2022-06-13,2022-06-19,DHS,
+WTT Contender Lima 2022,WTT Contender,Peru,Lima,2574,True,2022-06-14,2022-06-19,DHS,
+WTT Feeder Otocec 2022 Presented by I Feel Slovenia,WTT Feeder,Slovenia,Otocec,2540,True,2022-06-20,2022-06-26,Double Fish,
+WTT Star Contender European Summer Series 2022,WTT Star Contender,Hungary,Budapest,2591,True,2022-07-11,2022-07-17,,
+WTT Champions European Summer Series 2022,WTT Champions,Hungary,Budapest,2593,True,2022-07-18,2022-07-23,Double Fish,DHS
+WTT Feeder European Summer Series 2022,WTT Feeder,Hungary,Budapest,2592,True,2022-07-18,2022-07-22,Double Fish,
+WTT Contender Tunis 2022,WTT Contender,Tunisia,Tunis,2568,True,2022-08-01,2022-08-06,DHS,
+WTT Feeder Olomouc 2022,WTT Feeder,Czechia,Olomouc,2541,True,2022-08-23,2022-08-28,Double Fish,
+WTT Feeder Panagyurishte Presented by Asarel,WTT Feeder,Bulgaria,Panagyurishte,2542,True,2022-08-30,2022-09-04,Double Fish,
+2022 ITTF-Africa Senior Championships,Continental Championships,Algeria,,2609,True,2022-09-03,2022-09-09,,
+WTT Contender Muscat 2022,WTT Contender,Oman,Muscat,2605,True,2022-09-05,2022-09-10,DHS,Stag
+ITTF-Oceania Senior Championships,Continental Championships,Australia,Melbourne,2615,True,2022-09-05,2022-09-10,,
+WTT Contender Almaty 2022,WTT Contender,Kazakhstan,Almaty,2606,True,2022-09-13,2022-09-18,DHS,
+2022 ITTF World Team Championships Finals Presented by China Telecom,World Championship,China,Chengdu,2535,True,2022-09-30,2022-10-09,Double Fish,DHS
+WTT Champions Macao 2022 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,2619,True,2022-10-19,2022-10-23,Double Fish,DHS
+WTT Cup Finals Xinxiang 2022 Presented by China Construction Bank,WTT Finals,China,Xinxiang,2627,True,2022-10-27,2022-10-30,DHS,Double Fish
+2022 ITTF Pan American Championships,Continental Championships,Chile,Santiago,2611,True,2022-10-31,2022-11-06,,
+WTT Contender Nova Gorica 2022 Presented by I Feel Slovenia,WTT Contender,Slovenia,Nova Gorica,2589,True,2022-10-31,2022-11-06,DHS,
+WTT Feeder Düsseldorf III 2022,WTT Feeder,Germany,Düsseldorf,2658,True,2022-11-22,2022-11-25,,
+WTT Feeder Fort Lauderdale 2022,WTT Feeder,USA,Fort Lauderdale,2630,True,2022-12-11,2022-12-14,Double Fish,
+2022 ITTF-Oceania Cup,Continental Cups,Papua New Guinea,Port Moresby,2670,True,2022-12-17,2022-12-18,,
+2022 Pacific Cup,Continental Cups,Papua New Guinea,Port Moresby,2707,True,2022-12-17,2022-12-18,,
+WTT Contender Durban 2023,WTT Contender,South Africa,Durban,2699,True,2023-01-10,2023-01-15,DHS,
+WTT Contender Doha 2023,WTT Contender,Qatar,Doha,2698,True,2023-01-15,2023-01-21,DHS,Stag
+WTT Feeder Doha 2023,WTT Feeder,Qatar,Doha,2701,True,2023-01-22,2023-01-26,Double Fish,
+WTT Feeder Amman 2023,WTT Feeder,Jordan,Amman,2700,True,2023-02-01,2023-02-04,Double Fish,
+WTT Contender Amman 2023,WTT Contender,Jordan,Amman,2697,True,2023-02-06,2023-02-12,DHS,Stag
+WTT Feeder Düsseldorf 2023,WTT Feeder,Germany,Düsseldorf,2702,True,2023-02-14,2023-02-17,Double Fish,Donic
+WTT Feeder Düsseldorf II 2023,WTT Feeder,Germany,Düsseldorf,2703,True,2023-02-21,2023-02-24,Double Fish,Donic
+WTT Star Contender Goa 2023,WTT Star Contender,India,Goa,2696,True,2023-02-27,2023-03-05,DHS,
+Singapore Smash 2023,WTT Grand Smash,Singapore,Singapore,2629,True,2023-03-07,2023-03-19,Double Fish,DHS
+WTT Feeder Antalya 2023,WTT Feeder,Türkiye,Antalya,2704,True,2023-03-27,2023-04-01,Double Fish,
+WTT Champions Xinxiang 2023 Presented by Industrial and Commercial Bank of China,WTT Champions,China,Xinxiang,2737,True,2023-04-09,2023-04-15,DHS,Double Fish
+WTT Champions Macao 2023 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,2728,True,2023-04-17,2023-04-23,Double Fish,DHS
+WTT Star Contender Bangkok 2023,WTT Star Contender,Thailand,Bangkok,2695,True,2023-04-23,2023-04-29,DHS,
+ITTF Africa Cup,Continental Cups,Kenya,Nairob,2745,True,2023-05-04,2023-05-06,,
+2023 ITTF World Table Tennis Championships Finals,World Championship,South Africa,Durban,2660,True,2023-05-20,2023-05-28,Double Fish,DHS
+WTT Contender Lagos 2023,WTT Contender,Nigeria,Lagos,2693,True,2023-06-12,2023-06-18,DHS,
+WTT Contender Tunis 2023 Presented by KIA,WTT Contender,Tunisia,Tunis,2691,True,2023-06-20,2023-06-25,DHS,
+WTT Contender Zagreb 2023,WTT Contender,Croatia,Zagreb,2692,True,2023-06-26,2023-07-02,DHS,Tibhar
+WTT Star Contender Ljubljana 2023 Presented by I Feel Slovenia,WTT Star Contender,Slovenia,Ljubljana,2694,True,2023-07-03,2023-07-09,DHS,Tibhar
+WTT Feeder Havirov 2023,WTT Feeder,Czechia,Havirov,2750,True,2023-07-27,2023-07-30,Double Fish,
+WTT Contender Lima 2023,WTT Contender,Peru,Lima,2721,True,2023-07-31,2023-08-06,DHS,Donic
+WTT Contender Rio de Janeiro 2023,WTT Contender,Brazil,Rio De Janeiro,2722,True,2023-08-07,2023-08-13,DHS,Tibhar
+WTT Feeder Olomouc 2023,WTT Feeder,Czechia,Olomouc,2724,True,2023-08-22,2023-08-27,Double Fish,
+WTT Contender Almaty 2023,WTT Contender,Kazakhstan,Almaty,2739,True,2023-08-29,2023-09-03,DHS,
+WTT Feeder Panagyurishte 2023 presented by ASAREL ,WTT Feeder,Bulgaria,Panagyurishte,2723,True,2023-08-29,2023-09-03,Double Fish,
+2023 ITTF-Oceania Olympic Team & Mixed Doubles Qualification,Olympic Games,Australia,,2717,True,2023-09-02,2023-09-03,,
+WTT Feeder Bangkok 2023,WTT Feeder,Thailand,Bangkok,2740,True,2023-09-04,2023-09-09,Double Fish,
+2023 ITTF Pan American Championships,Continental Championships,Cuba,Havana,2789,True,2023-09-10,2023-09-17,,
+2023 ITTF-Africa Senior Championships,Continental Championships,Tunisia,Rades,2787,True,2023-09-11,2023-09-17,,
+WTT Feeder Stockholm 2023,WTT Feeder,Sweden,Stockhom,2738,True,2023-10-02,2023-10-07,Double Fish,
+WTT Star Contender Lanzhou 2023 Presented by Huanchen Sports,WTT Star Contender,China,Lanzhou,2777,True,2023-10-02,2023-10-08,DHS,Stiga
+WTT Contender Muscat 2023,WTT Contender,Oman,Muscat,2775,True,2023-10-08,2023-10-14,DHS,Stag
+WTT Contender Antalya 2023,WTT Contender,Türkiye,Antalya,2742,True,2023-10-16,2023-10-22,DHS,
+WTT Feeder Doha II 2023,WTT Feeder,Qatar,Doha,2734,True,2023-10-17,2023-10-19,Double Fish,
+WTT Champions Frankfurt 2023,WTT Champions,Germany,Frankfurt,2705,True,2023-10-29,2023-11-05,DHS,Double Fish
+WTT Feeder Otocec 2023 presented by I Feel Slovenia,WTT Feeder,Slovenia,Otocec,2733,True,2023-10-30,2023-11-05,Double Fish,
+WTT Contender Taiyuan 2023,WTT Contender,China,Taiyuan,2794,True,2023-11-07,2023-11-12,DHS,Stiga
+WTT Feeder Vila Nova de Gaia 2023,WTT Feeder,Portugal,Vila Nova de Gaia,2735,True,2023-11-22,2023-11-25,Double Fish,
+WTT Feeder Düsseldorf III 2023,WTT Feeder,Germany,Düsseldorf,2755,True,2023-11-27,2023-12-01,Double Fish,Donic
+ITTF Mixed Team World Cup 2023,World Mixed Team Championships,China,Chengdu,2860,True,2023-12-04,2023-12-10,Ownwin,DHS
+2023 Pacific Cup,Continental Cups,New Zealand,Hamilton,2905,True,2023-12-09,2023-12-10,,
+2023 ITTF-Oceania Cup,Continental Cups,New Zealand,Hamilton,2714,True,2023-12-09,2023-12-10,,
+WTT Feeder Biella 2023,WTT Feeder,Italy,Biella,2732,True,2023-12-12,2023-12-17,Double Fish,
+WTT Finals Women Nagoya 2023,WTT Finals,Japan,Nagoya,2776,True,2023-12-15,2023-12-17,DHS,Double Fish
+WTT Finals Men Doha 2023,WTT Finals,Qatar,Doha,2866,True,2024-01-03,2024-01-05,DHS,DHS
+WTT Star Contender Doha 2024,WTT Star Contender,Qatar,Doha,2862,True,2024-01-08,2024-01-13,DHS,
+WTT Contender Doha 2024,WTT Contender,Qatar,Doha,2861,True,2024-01-14,2024-01-20,DHS,
+WTT Feeder Corpus Christi 2024,WTT Feeder,USA,Corpus Christi,2878,True,2024-01-15,2024-01-18,Double Fish,
+WTT Star Contender Goa 2024,WTT Star Contender,India,Goa,2863,True,2024-01-23,2024-01-28,DHS,
+WTT Feeder Manchester 2024,WTT Feeder,England,Manchester,2879,True,2024-02-01,2024-02-04,Double Fish,
+ITTF World Team Table Tennis Championships Finals Busan 2024 Presented by BNK Busan Bank,World Championship,Korea Republic,Busan,2751,True,2024-02-16,2024-02-25,Butterfly,DHS
+Singapore Smash 2024,WTT Grand Smash,Singapore,Singapore,2904,True,2024-03-07,2024-03-17,Yinhe,DHS
+WTT Feeder Beirut 2024,WTT Feeder,Lebanon,Beirut,2893,True,2024-03-19,2024-03-21,Double Fish,
+WTT Feeder Beirut II 2024,WTT Feeder,Lebanon,Beirut,2894,True,2024-03-22,2024-03-24,Double Fish,
+WTT Feeder Otocec 2024 Presented by I Feel Slovenia,WTT Feeder,Slovenia,Otocec,2880,True,2024-03-26,2024-04-01,Double Fish,Tibhar
+WTT Champions Incheon 2024 Presented by Shinhan Bank,WTT Champions,Korea Republic,Incheon,2899,True,2024-03-27,2024-03-31,DHS,Double Fish
+WTT Feeder Varazdin 2024,WTT Feeder,Croatia,Varaždin,2882,True,2024-04-02,2024-04-07,Double Fish,
+WTT Feeder Düsseldorf 2024,WTT Feeder,Germany,Düsseldorf,2881,True,2024-04-08,2024-04-12,Double Fish,Andro
+WTT Feeder Havirov 2024,WTT Feeder,Czechia,Havirov,2883,True,2024-04-14,2024-04-17,Double Fish,
+ITTF MEN'S AND WOMEN'S WORLD CUP MACAO 2024 PRESENTED BY GALAXY ENTERTAINMENT GROUP,World Cup,"Macao, China",Macao,2937,True,2024-04-15,2024-04-21,,
+Saudi Smash 2024,WTT Grand Smash,Saudi Arabia,Jeddah,2932,True,2024-05-01,2024-05-11,Double Fish,DHS
+2024 ITTF-Oceania Olympic Singles Qualification,Olympic Qualification,New Caledonia,Noumea,2915,True,2024-05-10,2024-05-10,,
+2024 ITTF-Oceania Cup,Continental Cups,New Caledonia,Noumea,2916,True,2024-05-11,2024-05-12,,
+2024 Pacific Cup,Continental Cups,New Caledonia,NOUMEA Nouvelle Calédonie,2959,True,2024-05-11,2024-05-12,,
+WTT Feeder Cappadocia 2024,WTT Feeder,Türkiye,Cappadocia - Nevsehir,2911,True,2024-05-13,2024-05-17,Double Fish,
+WTT Contender Rio de Janeiro 2024,WTT Contender,Brazil,Rio De Janeiro,2867,True,2024-05-20,2024-05-26,DHS,Tibhar
+WTT Contender Taiyuan 2024,WTT Contender,China,Taiyuan,2865,True,2024-05-21,2024-05-26,DHS,
+WTT Contender Mendoza 2024,WTT Contender,Argentina,Mendoza,2934,True,2024-05-27,2024-06-02,DHS,
+WTT Champions Chongqing 2024 Presented by Changan,WTT Champions,China,Chongqing,2941,True,2024-05-30,2024-06-03,Double Fish,DHS
+WTT Contender Zagreb 2024,WTT Contender,Croatia,Zagreb,2869,True,2024-06-03,2024-06-09,DHS,Tibhar
+WTT Star Contender Ljubljana 2024 Presented by I Feel Slovenia,WTT Star Contender,Slovenia,Ljubljana,2870,True,2024-06-11,2024-06-16,DHS,Tibhar
+WTT Contender Lagos 2024,WTT Contender,Nigeria,Lagos,2868,True,2024-06-19,2024-06-23,DHS,
+WTT Contender Tunis 2024 Presented by KIA,WTT Contender,Tunisia,Tunis,2871,True,2024-06-25,2024-06-30,DHS,DHS
+WTT Star Contender Bangkok 2024,WTT Star Contender,Thailand,Bangkok,2900,True,2024-07-02,2024-07-07,DHS,Yinhe
+Paris 2024 Olympic Games,Olympic Games,France,Paris,2603,True,2024-07-26,2024-08-11,,
+WTT Contender Lima 2024,WTT Contender,Peru,Lima,2872,True,2024-08-21,2024-08-25,DHS,
+WTT Feeder Olomouc 2024,WTT Feeder,Czechia,Olomouc,2884,True,2024-08-21,2024-08-25,Double Fish,
+WTT Feeder Muscat 2024,WTT Feeder,Oman,Muscat,2965,True,2024-08-29,2024-09-01,Double Fish,
+WTT Contender Almaty 2024,WTT Contender,Kazakhstan,Almaty,2873,True,2024-09-03,2024-09-08,DHS,
+WTT Champions Macao 2024 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,2983,True,2024-09-09,2024-09-15,Double Fish,DHS
+WTT Feeder Panagyurishte 2024 Presented by Asarel,WTT Feeder,Bulgaria,Panagyurishte,2885,True,2024-09-11,2024-09-15,Double Fish,
+WTT Feeder Halmstad 2024,WTT Feeder,Sweden,Halmstad,2886,True,2024-09-16,2024-09-21,Double Fish,
+China Smash 2024 Presented by Zhonghui Life,WTT Grand Smash,China,Beijing,2942,True,2024-09-26,2024-10-06,Double Fish,DHS
+WTT Feeder Doha 2024,WTT Feeder,Qatar,Doha,2887,True,2024-10-03,2024-10-06,Double Fish,
+ITTF-Oceania Senior Championships 2024,Continental Championships,New Zealand,"Auckland, 1023",2917,True,2024-10-15,2024-10-18,,
+WTT Feeder Cagliari 2024,WTT Feeder,Italy,Cagliari,2889,True,2024-10-22,2024-10-27,Double Fish,
+WTT Champions Montpellier 2024,WTT Champions,France,Montpellier,2940,True,2024-10-22,2024-10-27,Tibhar,Tibhar
+WTT Contender Muscat 2024,WTT Contender,Oman,Muscat,2997,True,2024-10-28,2024-11-02,DHS,
+WTT Feeder Prishtina 2024,WTT Feeder,Kosovo,Pristina,2964,True,2024-10-30,2024-11-01,Double Fish,
+WTT Feeder Caracas 2024,WTT Feeder,Venezuela,Caracas,2912,True,2024-10-31,2024-11-03,Double Fish,
+WTT Champions Frankfurt 2024,WTT Champions,Germany,Frankfurt,2877,True,2024-11-03,2024-11-10,DHS,Double Fish
+WTT Feeder Düsseldorf II 2024,WTT Feeder,Germany,Düsseldorf,2890,True,2024-11-18,2024-11-22,Double Fish,
+WTT Finals Fukuoka 2024,WTT Finals,Japan,Kitakyushu,2947,True,2024-11-20,2024-11-24,DHS,Double Fish
+WTT Feeder Vila Nova de Gaia 2024,WTT Feeder,Portugal,Vila Nova de Gaia,2891,True,2024-11-23,2024-11-27,Double Fish,
+ITTF Mixed Team World Cup Chengdu 2024 presented by CHINA TELECOM,World Mixed Team Championships,China,Chengdu,2979,True,2024-12-01,2024-12-08,Ownwin,DHS
+WTT Star Contender Doha 2025,WTT Star Contender,Qatar,Doha,3083,True,2025-01-06,2025-01-11,DHS,
+WTT Contender Muscat 2025,WTT Contender,Oman,Muscat,3084,True,2025-01-11,2025-01-17,DHS,
+Singapore Smash 2025,WTT Grand Smash,Singapore,Singapore,3085,True,2025-01-30,2025-02-09,Yinhe,DHS
+WTT Feeder Doha 2025,WTT Feeder,Qatar,Doha,3026,True,2025-02-04,2025-02-08,Yinhe,
+WTT Feeder Düsseldorf 2025,WTT Feeder,Germany,Düsseldorf,3020,True,2025-02-11,2025-02-14,Yinhe,
+WTT Feeder Cappadocia 2025,WTT Feeder,Türkiye,Cappadocia - Nevsehir,3030,True,2025-02-17,2025-02-21,Yinhe,
+WTT Champions Chongqing 2025 Presented by AITO,WTT Champions,China,Chongqing,3086,True,2025-03-11,2025-03-16,Double Fish,DHS
+WTT Star Contender Chennai 2025 Presented by IndianOil,WTT Star Contender,India,Chennai,3133,True,2025-03-25,2025-03-30,DHS,
+WTT Feeder Otocec 2025 Presented by I Feel Slovenia ,WTT Feeder,Slovenia,Otocec,3024,True,2025-03-25,2025-03-29,Yinhe,Tibhar
+WTT Feeder Otocec II 2025 Presented by I Feel Slovenia ,WTT Feeder,Slovenia,Otocec,3025,True,2025-03-30,2025-04-03,Yinhe,Tibhar
+WTT Champions Incheon 2025,WTT Champions,Korea Republic,Incheon,3087,True,2025-04-01,2025-04-06,Yinhe,DHS
+WTT Feeder Havirov 2025,WTT Feeder,Czechia,Havirov,3069,True,2025-04-05,2025-04-09,Yinhe,
+WTT Contender Taiyuan 2025,WTT Contender,China,Taiyuan,3088,True,2025-04-08,2025-04-13,DHS,Stiga
+ITTF MEN'S AND WOMEN'S WORLD CUP MACAO 2025 PRESENTED BY GALAXY ENTERTAINMENT GROUP,World Cup,"Macao, China",,3109,True,2025-04-14,2025-04-20,,
+WTT Contender Tunis 2025 Presented By Tunisie Telecom,WTT Contender,Tunisia,Tunis,3089,True,2025-04-22,2025-04-27,DHS,
+WTT Feeder Manchester 2025,WTT Feeder,England,Manchester,3023,True,2025-04-24,2025-04-27,Yinhe,
+ITTF World Table Tennis Championships Finals Doha 2025,World Championship,Qatar,Doha,3108,True,2025-05-17,2025-05-25,Butterfly,DHS
+WTT Feeder Prishtina 2025,WTT Feeder,Kosovo,Prishtina,3058,True,2025-06-03,2025-06-07,Yinhe,
+WTT Contender Skopje 2025,WTT Contender,North Macedonia,Skopje,3090,True,2025-06-09,2025-06-15,DHS,
+WTT Star Contender Ljubljana 2025 Presented by I Feel Slovenia,WTT Star Contender,Slovenia,Ljubljana,3091,True,2025-06-17,2025-06-22,DHS,
+WTT Contender Zagreb 2025,WTT Contender,Croatia,Zagreb,3092,True,2025-06-24,2025-06-29,DHS,Tibhar
+United States Smash 2025,WTT Grand Smash,USA,Las Vegas,3082,True,2025-07-03,2025-07-13,DHS,Joola
+WTT Contender Lagos 2025,WTT Contender,Nigeria,Lagos,3121,True,2025-07-22,2025-07-26,DHS,
+WTT Contender Buenos Aires 2025,WTT Contender,Argentina,Buenos Aires,3175,True,2025-07-22,2025-07-27,DHS,
+WTT Star Contender Foz do Iguaçu 2025,WTT Star Contender,Brazil,Foz do Iguaçu,3093,True,2025-07-30,2025-08-03,DHS,
+WTT Feeder Spokane 2025,WTT Feeder,USA,Spokane ,3177,True,2025-08-05,2025-08-08,Double Fish,
+WTT Champions Yokohama 2025,WTT Champions,Japan,,3094,True,2025-08-07,2025-08-11,Nittaku,Nittaku
+WTT Feeder Spokane II 2025,WTT Feeder,USA,Spokane ,3178,True,2025-08-09,2025-08-12,Double Fish,
+WTT Feeder Vientiane 2025 Presented by ICBC Bank,WTT Feeder,Laos,,3131,True,2025-08-11,2025-08-15,Yinhe,
+Europe Smash - Sweden 2025,WTT Grand Smash,Sweden,Malmö,3128,True,2025-08-14,2025-08-24,DHS,Double Fish
+WTT Feeder Panagyurishte 2025 Presented by Asarel,WTT Feeder,Bulgaria,Panagyurishte,3027,True,2025-08-21,2025-08-24,Yinhe,
+WTT Feeder Olomouc 2025,WTT Feeder,Czechia,Olomouc,3028,True,2025-08-28,2025-08-31,Yinhe,
+WTT Contender Almaty 2025,WTT Contender,Kazakhstan,Almaty,3096,True,2025-09-02,2025-09-07,DHS,
+WTT Champions Macao 2025 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,3097,True,2025-09-09,2025-09-14,Double Fish,DHS
+WTT Feeder Istanbul 2025,WTT Feeder,Türkiye,Istanbul,3199,True,2025-09-11,2025-09-15,Yinhe,
+WTT Feeder Cappadocia II 2025,WTT Feeder,Türkiye,Cappadocia - Nevsehir,3031,True,2025-09-16,2025-09-20,Yinhe,
+China Smash 2025 Presented by Beijing Shijingshan Culture & Tourism Group,WTT Grand Smash,China,Beijing,3098,True,2025-09-25,2025-10-05,Double Fish,DHS
+WTT Star Contender London 2025,WTT Star Contender,England,London,3110,True,2025-10-21,2025-10-26,DHS,Donic
