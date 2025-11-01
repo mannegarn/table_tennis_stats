@@ -1,0 +1,667 @@
+[
+    {
+        "eventId": "2707",
+        "documentCode": "TTEMSINGLES-----------SFNL000200----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Semifinal - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": false
+        },
+        "venueName": "Butuka Academy",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "202989",
+                "competitiorName": "ZHANG Bei Yan",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "202989",
+                        "playerName": "ZHANG Bei Yan",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "7,1,7,5,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "122814",
+                "competitiorName": "LOI Geoffrey",
+                "competitiorOrg": "PNG",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "122814",
+                        "playerName": "LOI Geoffrey",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PNG",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "7-11,1-11,7-11,5-11,0-0,0-0,0-0",
+        "resultsGameScores": "7-11,1-11,7-11,5-11,0-0,0-0,0-0",
+        "overallScores": "0-4",
+        "resultOverallScores": "0-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "202989",
+            "serverReceiver": "122814",
+            "serverNext": "202989",
+            "serverCompetitor": "202989",
+            "receiverNext": "122814"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:29:05",
+            "startDateLocal": "12/17/2022 09:40:00",
+            "startDateUTC": "12/16/2022 23:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "173",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0",
+        "matchStartTimeUTC": null
+    },
+    {
+        "eventId": "2707",
+        "documentCode": "TTEWSINGLES-----------SFNL000200----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Semifinal - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": false
+        },
+        "venueName": "Butuka Academy",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "112619",
+                "competitiorName": "PAUL Anais",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "112619",
+                        "playerName": "PAUL Anais",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "4,7,5,3,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123938",
+                "competitiorName": "YEE Grace Rosi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123938",
+                        "playerName": "YEE Grace Rosi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "4-11,7-11,5-11,3-11,0-0,0-0,0-0",
+        "resultsGameScores": "4-11,7-11,5-11,3-11,0-0,0-0,0-0",
+        "overallScores": "0-4",
+        "resultOverallScores": "0-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "112619",
+            "serverReceiver": "123938",
+            "serverNext": "112619",
+            "serverCompetitor": "112619",
+            "receiverNext": "123938"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:26:06",
+            "startDateLocal": "12/17/2022 10:20:00",
+            "startDateUTC": "12/17/2022 00:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "270",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0",
+        "matchStartTimeUTC": null
+    },
+    {
+        "eventId": "2707",
+        "documentCode": "TTEMSINGLES-----------SFNL000100----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Semifinal - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": false
+        },
+        "venueName": "Butuka Academy",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "102213",
+                "competitiorName": "DEY Jeremy",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "102213",
+                        "playerName": "DEY Jeremy",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,7,11,11,11,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123935",
+                "competitiorName": "WU Vicky",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123935",
+                        "playerName": "WU Vicky",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "3,11,9,2,8,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "11-3,7-11,11-9,11-2,11-8,0-0,0-0",
+        "resultsGameScores": "11-3,7-11,11-9,11-2,11-8,0-0,0-0",
+        "overallScores": "4-1",
+        "resultOverallScores": "4-1",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "102213",
+            "serverReceiver": "123935",
+            "serverNext": "102213",
+            "serverCompetitor": "102213",
+            "receiverNext": "123935"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:37:07",
+            "startDateLocal": "12/17/2022 09:40:00",
+            "startDateUTC": "12/16/2022 23:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "217",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0",
+        "matchStartTimeUTC": null
+    },
+    {
+        "eventId": "2707",
+        "documentCode": "TTEWSINGLES-----------SFNL000100----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Semifinal - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": false
+        },
+        "venueName": "Butuka Academy",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "112591",
+                "competitiorName": "LI Carolyn",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "112591",
+                        "playerName": "LI Carolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "7,11,6,8,8,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "109952",
+                "competitiorName": "WANEGUI Julie",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "109952",
+                        "playerName": "WANEGUI Julie",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,8,11,11,11,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "7-11,11-8,6-11,8-11,8-11,0-0,0-0",
+        "resultsGameScores": "7-11,11-8,6-11,8-11,8-11,0-0,0-0",
+        "overallScores": "1-4",
+        "resultOverallScores": "1-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "109952",
+            "serverReceiver": "112591",
+            "serverNext": "109952",
+            "serverCompetitor": "109952",
+            "receiverNext": "112591"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:35:47",
+            "startDateLocal": "12/17/2022 10:20:00",
+            "startDateUTC": "12/17/2022 00:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "248",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0",
+        "matchStartTimeUTC": null
+    },
+    {
+        "eventId": "2707",
+        "documentCode": "TTEWSINGLES-----------QFNL000300----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Quarterfinal - Match 3",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": false
+        },
+        "venueName": "Butuka Academy",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "112619",
+                "competitiorName": "PAUL Anais",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "112619",
+                        "playerName": "PAUL Anais",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,6,11,11,11,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "119376",
+                "competitiorName": "HANE Maryanne",
+                "competitiorOrg": "PNG",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "1",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "119376",
+                        "playerName": "HANE Maryanne",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PNG",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "6,11,8,3,4,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "11-6,6-11,11-8,11-3,11-4,0-0,0-0",
+        "resultsGameScores": "11-6,6-11,11-8,11-3,11-4,0-0,0-0",
+        "overallScores": "4-1",
+        "resultOverallScores": "4-1",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "112619",
+            "serverReceiver": "119376",
+            "serverNext": "112619",
+            "serverCompetitor": "112619",
+            "receiverNext": "119376"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:37:51",
+            "startDateLocal": "12/17/2022 09:00:00",
+            "startDateUTC": "12/16/2022 23:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "222",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0",
+        "matchStartTimeUTC": null
+    },
+    {
+        "eventId": "2707",
+        "documentCode": "TTEWSINGLES-----------FNL-000100----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Final - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": false
+        },
+        "venueName": "Butuka Academy",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "109952",
+                "competitiorName": "WANEGUI Julie",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "1",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "109952",
+                        "playerName": "WANEGUI Julie",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "9,10,7,11,11,4,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123938",
+                "competitiorName": "YEE Grace Rosi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123938",
+                        "playerName": "YEE Grace Rosi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,12,11,9,6,11,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 6,
+        "full_msg": null,
+        "gameScores": "9-11,10-12,7-11,11-9,11-6,4-11,0-0",
+        "resultsGameScores": "9-11,10-12,7-11,11-9,11-6,4-11,0-0",
+        "overallScores": "2-4",
+        "resultOverallScores": "2-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "109952",
+            "serverReceiver": "123938",
+            "serverNext": "109952",
+            "serverCompetitor": "109952",
+            "receiverNext": "123938"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "10:21:00",
+            "startDateLocal": "12/18/2022 14:30:00",
+            "startDateUTC": "12/18/2022 04:30:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "339",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0",
+        "matchStartTimeUTC": null
+    },
+    {
+        "eventId": "2707",
+        "documentCode": "TTEMSINGLES-----------FNL-000100----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Final - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": false
+        },
+        "venueName": "Butuka Academy",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "102213",
+                "competitiorName": "DEY Jeremy",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "1",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "102213",
+                        "playerName": "DEY Jeremy",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "3,10,12,11,5,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "122814",
+                "competitiorName": "LOI Geoffrey",
+                "competitiorOrg": "PNG",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "1",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "122814",
+                        "playerName": "LOI Geoffrey",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PNG",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,12,14,7,11,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "3-11,10-12,12-14,11-7,5-11,0-0,0-0",
+        "resultsGameScores": "3-11,10-12,12-14,11-7,5-11,0-0,0-0",
+        "overallScores": "1-4",
+        "resultOverallScores": "1-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "122814",
+            "serverReceiver": "102213",
+            "serverNext": "122814",
+            "serverCompetitor": "122814",
+            "receiverNext": "102213"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "09:41:00",
+            "startDateLocal": "12/18/2022 15:10:00",
+            "startDateUTC": "12/18/2022 05:10:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "273",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0",
+        "matchStartTimeUTC": null
+    }
+]

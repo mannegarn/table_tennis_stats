@@ -1,0 +1,1882 @@
+[
+    {
+        "eventId": "2915",
+        "documentCode": "TTEWSINGLES-----------GP01000700----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 7",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "123938",
+                "competitiorName": "YEE Grace Rosi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123938",
+                        "playerName": "YEE Grace Rosi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,7,7,5,9,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "105603",
+                "competitiorName": "LULU Anolyn",
+                "competitiorOrg": "VAN",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "105603",
+                        "playerName": "LULU Anolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "VAN",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "7,11,11,11,11,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "11-7,7-11,7-11,5-11,9-11,0-0,0-0",
+        "resultsGameScores": "11-7,7-11,7-11,5-11,9-11,0-0,0-0",
+        "overallScores": "1-4",
+        "resultOverallScores": "1-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "105603",
+            "serverReceiver": "123938",
+            "serverNext": "105603",
+            "serverCompetitor": "105603",
+            "receiverNext": "105603"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 15:10:00",
+            "startDateUTC": "05/10/2024 04:10:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEMSINGLES-----------GP01000100----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "107611",
+                "competitiorName": "WANG Qi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "107611",
+                        "playerName": "WANG Qi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "7,9,5,0,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "136202",
+                "competitiorName": "CHOI Timothy",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "136202",
+                        "playerName": "CHOI Timothy",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "7-11,9-11,5-11,0-11,0-0,0-0,0-0",
+        "resultsGameScores": "7-11,9-11,5-11,0-11,0-0,0-0,0-0",
+        "overallScores": "0-4",
+        "resultOverallScores": "0-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "136202",
+            "serverReceiver": "107611",
+            "serverNext": "136202",
+            "serverCompetitor": "136202",
+            "receiverNext": "136202"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 10:40:00",
+            "startDateUTC": "05/09/2024 23:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEWSINGLES-----------GP01000600----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 6",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "200205",
+                "competitiorName": "GEAR Lisa",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "200205",
+                        "playerName": "GEAR Lisa",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "8,11,7,11,11,11,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "105603",
+                "competitiorName": "LULU Anolyn",
+                "competitiorOrg": "VAN",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "105603",
+                        "playerName": "LULU Anolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "VAN",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,3,11,5,4,9,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 6,
+        "full_msg": null,
+        "gameScores": "8-11,11-3,7-11,11-5,11-4,11-9,0-0",
+        "resultsGameScores": "8-11,11-3,7-11,11-5,11-4,11-9,0-0",
+        "overallScores": "4-2",
+        "resultOverallScores": "4-2",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "105603",
+            "serverReceiver": "200205",
+            "serverNext": "105603",
+            "serverCompetitor": "105603",
+            "receiverNext": "105603"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 12:40:00",
+            "startDateUTC": "05/10/2024 01:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEWSINGLES-----------GP01001000----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 10",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "109480",
+                "competitiorName": "TOMMY Priscila",
+                "competitiorOrg": "VAN",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "109480",
+                        "playerName": "TOMMY Priscila",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "VAN",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "112591",
+                "competitiorName": "LI Carolyn",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "112591",
+                        "playerName": "LI Carolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "6,4,7,9,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-6,11-4,11-7,11-9,0-0,0-0,0-0",
+        "resultsGameScores": "11-6,11-4,11-7,11-9,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "112591",
+            "serverReceiver": "109480",
+            "serverNext": "112591",
+            "serverCompetitor": "112591",
+            "receiverNext": "112591"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 16:30:00",
+            "startDateUTC": "05/10/2024 05:30:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEWSINGLES-----------GP01000200----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "109480",
+                "competitiorName": "TOMMY Priscila",
+                "competitiorOrg": "VAN",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "109480",
+                        "playerName": "TOMMY Priscila",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "VAN",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "8,11,11,11,11,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "200205",
+                "competitiorName": "GEAR Lisa",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "200205",
+                        "playerName": "GEAR Lisa",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,5,8,6,7,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "8-11,11-5,11-8,11-6,11-7,0-0,0-0",
+        "resultsGameScores": "8-11,11-5,11-8,11-6,11-7,0-0,0-0",
+        "overallScores": "4-1",
+        "resultOverallScores": "4-1",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "200205",
+            "serverReceiver": "109480",
+            "serverNext": "200205",
+            "serverCompetitor": "200205",
+            "receiverNext": "200205"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 10:00:00",
+            "startDateUTC": "05/09/2024 23:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEMSINGLES-----------GP01000500----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 5",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "120698",
+                "competitiorName": "DELA PENA Alfred",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "120698",
+                        "playerName": "DELA PENA Alfred",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "135693",
+                "competitiorName": "YEE Joshua",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "135693",
+                        "playerName": "YEE Joshua",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "7,2,6,8,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-7,11-2,11-6,11-8,0-0,0-0,0-0",
+        "resultsGameScores": "11-7,11-2,11-6,11-8,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "135693",
+            "serverReceiver": "120698",
+            "serverNext": "135693",
+            "serverCompetitor": "135693",
+            "receiverNext": "135693"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 14:30:00",
+            "startDateUTC": "05/10/2024 03:30:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEMSINGLES-----------GP01000900----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 9",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "123935",
+                "competitiorName": "WU Vicky",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123935",
+                        "playerName": "WU Vicky",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "8,11,11,5,9,11,12",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "135693",
+                "competitiorName": "YEE Joshua",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "135693",
+                        "playerName": "YEE Joshua",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,8,9,11,11,9,14",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 7,
+        "full_msg": null,
+        "gameScores": "8-11,11-8,11-9,5-11,9-11,11-9,12-14",
+        "resultsGameScores": "8-11,11-8,11-9,5-11,9-11,11-9,12-14",
+        "overallScores": "3-4",
+        "resultOverallScores": "3-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "135693",
+            "serverReceiver": "123935",
+            "serverNext": "135693",
+            "serverCompetitor": "135693",
+            "receiverNext": "135693"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 17:10:00",
+            "startDateUTC": "05/10/2024 06:10:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEWSINGLES-----------GP01000300----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 3",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "109480",
+                "competitiorName": "TOMMY Priscila",
+                "competitiorOrg": "VAN",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "109480",
+                        "playerName": "TOMMY Priscila",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "VAN",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,12,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "105603",
+                "competitiorName": "LULU Anolyn",
+                "competitiorOrg": "VAN",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "105603",
+                        "playerName": "LULU Anolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "VAN",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "4,6,6,10,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-4,11-6,11-6,12-10,0-0,0-0,0-0",
+        "resultsGameScores": "11-4,11-6,11-6,12-10,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "105603",
+            "serverReceiver": "109480",
+            "serverNext": "105603",
+            "serverCompetitor": "105603",
+            "receiverNext": "105603"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 11:20:00",
+            "startDateUTC": "05/10/2024 00:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEWSINGLES-----------GP01000900----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 9",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "200205",
+                "competitiorName": "GEAR Lisa",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "200205",
+                        "playerName": "GEAR Lisa",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "7,13,10,9,6,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123938",
+                "competitiorName": "YEE Grace Rosi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123938",
+                        "playerName": "YEE Grace Rosi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,11,12,11,11,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "7-11,13-11,10-12,9-11,6-11,0-0,0-0",
+        "resultsGameScores": "7-11,13-11,10-12,9-11,6-11,0-0,0-0",
+        "overallScores": "1-4",
+        "resultOverallScores": "1-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "123938",
+            "serverReceiver": "200205",
+            "serverNext": "123938",
+            "serverCompetitor": "123938",
+            "receiverNext": "123938"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 16:30:00",
+            "startDateUTC": "05/10/2024 05:30:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEWSINGLES-----------GP01000800----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 8",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "112591",
+                "competitiorName": "LI Carolyn",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "112591",
+                        "playerName": "LI Carolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "12,8,7,8,11,9,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "200205",
+                "competitiorName": "GEAR Lisa",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "200205",
+                        "playerName": "GEAR Lisa",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "10,11,11,11,8,11,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 6,
+        "full_msg": null,
+        "gameScores": "12-10,8-11,7-11,8-11,11-8,9-11,0-0",
+        "resultsGameScores": "12-10,8-11,7-11,8-11,11-8,9-11,0-0",
+        "overallScores": "2-4",
+        "resultOverallScores": "2-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "200205",
+            "serverReceiver": "112591",
+            "serverNext": "200205",
+            "serverCompetitor": "200205",
+            "receiverNext": "200205"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 15:10:00",
+            "startDateUTC": "05/10/2024 04:10:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEMSINGLES-----------GP01001000----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 10",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "120698",
+                "competitiorName": "DELA PENA Alfred",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "120698",
+                        "playerName": "DELA PENA Alfred",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "8,7,11,11,11,11,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "136202",
+                "competitiorName": "CHOI Timothy",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "136202",
+                        "playerName": "CHOI Timothy",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,11,7,8,6,9,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 6,
+        "full_msg": null,
+        "gameScores": "8-11,7-11,11-7,11-8,11-6,11-9,0-0",
+        "resultsGameScores": "8-11,7-11,11-7,11-8,11-6,11-9,0-0",
+        "overallScores": "4-2",
+        "resultOverallScores": "4-2",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "136202",
+            "serverReceiver": "120698",
+            "serverNext": "136202",
+            "serverCompetitor": "136202",
+            "receiverNext": "136202"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 17:10:00",
+            "startDateUTC": "05/10/2024 06:10:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEMSINGLES-----------GP01000700----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 7",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "135693",
+                "competitiorName": "YEE Joshua",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "135693",
+                        "playerName": "YEE Joshua",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,7,8,11,6,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "107611",
+                "competitiorName": "WANG Qi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "107611",
+                        "playerName": "WANG Qi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "8,11,11,13,11,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "11-8,7-11,8-11,11-13,6-11,0-0,0-0",
+        "resultsGameScores": "11-8,7-11,8-11,11-13,6-11,0-0,0-0",
+        "overallScores": "1-4",
+        "resultOverallScores": "1-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "107611",
+            "serverReceiver": "135693",
+            "serverNext": "107611",
+            "serverCompetitor": "107611",
+            "receiverNext": "107611"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 15:50:00",
+            "startDateUTC": "05/10/2024 04:50:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEWSINGLES-----------GP01000400----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 4",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "123938",
+                "competitiorName": "YEE Grace Rosi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123938",
+                        "playerName": "YEE Grace Rosi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "9,11,11,11,8,11,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "112591",
+                "competitiorName": "LI Carolyn",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "112591",
+                        "playerName": "LI Carolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,9,8,9,11,5,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 6,
+        "full_msg": null,
+        "gameScores": "9-11,11-9,11-8,11-9,8-11,11-5,0-0",
+        "resultsGameScores": "9-11,11-9,11-8,11-9,8-11,11-5,0-0",
+        "overallScores": "4-2",
+        "resultOverallScores": "4-2",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "112591",
+            "serverReceiver": "123938",
+            "serverNext": "112591",
+            "serverCompetitor": "112591",
+            "receiverNext": "112591"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 11:20:00",
+            "startDateUTC": "05/10/2024 00:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEWSINGLES-----------GP01000500----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 5",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "109480",
+                "competitiorName": "TOMMY Priscila",
+                "competitiorOrg": "VAN",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "109480",
+                        "playerName": "TOMMY Priscila",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "VAN",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123938",
+                "competitiorName": "YEE Grace Rosi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123938",
+                        "playerName": "YEE Grace Rosi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "6,1,4,5,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-6,11-1,11-4,11-5,0-0,0-0,0-0",
+        "resultsGameScores": "11-6,11-1,11-4,11-5,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "123938",
+            "serverReceiver": "109480",
+            "serverNext": "123938",
+            "serverCompetitor": "123938",
+            "receiverNext": "123938"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 12:40:00",
+            "startDateUTC": "05/10/2024 01:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEMSINGLES-----------GP01000200----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "120698",
+                "competitiorName": "DELA PENA Alfred",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "120698",
+                        "playerName": "DELA PENA Alfred",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123935",
+                "competitiorName": "WU Vicky",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123935",
+                        "playerName": "WU Vicky",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "7,8,2,5,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-7,11-8,11-2,11-5,0-0,0-0,0-0",
+        "resultsGameScores": "11-7,11-8,11-2,11-5,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "123935",
+            "serverReceiver": "120698",
+            "serverNext": "123935",
+            "serverCompetitor": "123935",
+            "receiverNext": "123935"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 10:40:00",
+            "startDateUTC": "05/09/2024 23:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEWSINGLES-----------GP01000100----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "105603",
+                "competitiorName": "LULU Anolyn",
+                "competitiorOrg": "VAN",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "105603",
+                        "playerName": "LULU Anolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "VAN",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "16,11,11,11,10,11,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "112591",
+                "competitiorName": "LI Carolyn",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "112591",
+                        "playerName": "LI Carolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "14,2,13,7,12,7,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 6,
+        "full_msg": null,
+        "gameScores": "16-14,11-2,11-13,11-7,10-12,11-7,0-0",
+        "resultsGameScores": "16-14,11-2,11-13,11-7,10-12,11-7,0-0",
+        "overallScores": "4-2",
+        "resultOverallScores": "4-2",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "112591",
+            "serverReceiver": "105603",
+            "serverNext": "112591",
+            "serverCompetitor": "112591",
+            "receiverNext": "112591"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 10:00:00",
+            "startDateUTC": "05/09/2024 23:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEMSINGLES-----------GP01000800----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 8",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "136202",
+                "competitiorName": "CHOI Timothy",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "136202",
+                        "playerName": "CHOI Timothy",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,13,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123935",
+                "competitiorName": "WU Vicky",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123935",
+                        "playerName": "WU Vicky",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "7,5,5,11,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-7,11-5,11-5,13-11,0-0,0-0,0-0",
+        "resultsGameScores": "11-7,11-5,11-5,13-11,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "123935",
+            "serverReceiver": "136202",
+            "serverNext": "123935",
+            "serverCompetitor": "123935",
+            "receiverNext": "123935"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 15:50:00",
+            "startDateUTC": "05/10/2024 04:50:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEMSINGLES-----------GP01000400----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 4",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "135693",
+                "competitiorName": "YEE Joshua",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "135693",
+                        "playerName": "YEE Joshua",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "6,5,6,6,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "136202",
+                "competitiorName": "CHOI Timothy",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "136202",
+                        "playerName": "CHOI Timothy",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "6-11,5-11,6-11,6-11,0-0,0-0,0-0",
+        "resultsGameScores": "6-11,5-11,6-11,6-11,0-0,0-0,0-0",
+        "overallScores": "0-4",
+        "resultOverallScores": "0-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "136202",
+            "serverReceiver": "135693",
+            "serverNext": "136202",
+            "serverCompetitor": "136202",
+            "receiverNext": "136202"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 12:00:00",
+            "startDateUTC": "05/10/2024 01:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEMSINGLES-----------GP01000300----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 3",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "120698",
+                "competitiorName": "DELA PENA Alfred",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "120698",
+                        "playerName": "DELA PENA Alfred",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "107611",
+                "competitiorName": "WANG Qi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "107611",
+                        "playerName": "WANG Qi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "6,6,4,5,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-6,11-6,11-4,11-5,0-0,0-0,0-0",
+        "resultsGameScores": "11-6,11-6,11-4,11-5,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "107611",
+            "serverReceiver": "120698",
+            "serverNext": "107611",
+            "serverCompetitor": "107611",
+            "receiverNext": "107611"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 12:00:00",
+            "startDateUTC": "05/10/2024 01:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2915",
+        "documentCode": "TTEMSINGLES-----------GP01000600----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 6",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Jean Noyant",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "123935",
+                "competitiorName": "WU Vicky",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123935",
+                        "playerName": "WU Vicky",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,7,8,11,16,17,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "107611",
+                "competitiorName": "WANG Qi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "107611",
+                        "playerName": "WANG Qi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "6,11,11,3,14,15,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 6,
+        "full_msg": null,
+        "gameScores": "11-6,7-11,8-11,11-3,16-14,17-15,0-0",
+        "resultsGameScores": "11-6,7-11,8-11,11-3,16-14,17-15,0-0",
+        "overallScores": "4-2",
+        "resultOverallScores": "4-2",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "107611",
+            "serverReceiver": "123935",
+            "serverNext": "107611",
+            "serverCompetitor": "107611",
+            "receiverNext": "107611"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "05/10/2024 14:30:00",
+            "startDateUTC": "05/10/2024 03:30:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    }
+]

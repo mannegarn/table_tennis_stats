@@ -1,0 +1,3386 @@
+[
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP01000600----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 6",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "131798",
+                "competitiorName": "LUU Finn",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "131798",
+                        "playerName": "LUU Finn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,14,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "120698",
+                "competitiorName": "DELA PENA Alfred",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "120698",
+                        "playerName": "DELA PENA Alfred",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "3,6,12,5,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-3,11-6,14-12,11-5,0-0,0-0,0-0",
+        "resultsGameScores": "11-3,11-6,14-12,11-5,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "120698",
+            "serverReceiver": "131798",
+            "serverNext": "120698",
+            "serverCompetitor": "120698",
+            "receiverNext": "120698"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 18:40:00",
+            "startDateUTC": "12/09/2023 05:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------SFNL000200----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Semifinal - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "134800",
+                "competitiorName": "LUM Nicholas",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "134800",
+                        "playerName": "LUM Nicholas",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,12,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "201504",
+                "competitiorName": "SAREEN Aditya",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "201504",
+                        "playerName": "SAREEN Aditya",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "8,5,7,10,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-8,11-5,11-7,12-10,0-0,0-0,0-0",
+        "resultsGameScores": "11-8,11-5,11-7,12-10,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "201504",
+            "serverReceiver": "134800",
+            "serverNext": "201504",
+            "serverCompetitor": "201504",
+            "receiverNext": "201504"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 13:45:00",
+            "startDateUTC": "12/10/2023 00:45:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP02000100----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 2 - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "201504",
+                "competitiorName": "SAREEN Aditya",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "201504",
+                        "playerName": "SAREEN Aditya",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "13,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "101040",
+                "competitiorName": "BELROSE Ocean",
+                "competitiorOrg": "PYF",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "101040",
+                        "playerName": "BELROSE Ocean",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PYF",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,7,7,7,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "13-11,11-7,11-7,11-7,0-0,0-0,0-0",
+        "resultsGameScores": "13-11,11-7,11-7,11-7,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "101040",
+            "serverReceiver": "201504",
+            "serverNext": "101040",
+            "serverCompetitor": "101040",
+            "receiverNext": "101040"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 12:00:00",
+            "startDateUTC": "12/08/2023 23:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP01000400----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 4",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "202861",
+                "competitiorName": "TEHAHETUA Kelley",
+                "competitiorOrg": "PYF",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "202861",
+                        "playerName": "TEHAHETUA Kelley",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PYF",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "8,11,9,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "200210",
+                "competitiorName": "LAM Jocelyn",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "200210",
+                        "playerName": "LAM Jocelyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,13,11,13,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "8-11,11-13,9-11,11-13,0-0,0-0,0-0",
+        "resultsGameScores": "8-11,11-13,9-11,11-13,0-0,0-0,0-0",
+        "overallScores": "0-4",
+        "resultOverallScores": "0-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "200210",
+            "serverReceiver": "202861",
+            "serverNext": "200210",
+            "serverCompetitor": "200210",
+            "receiverNext": "200210"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 14:20:00",
+            "startDateUTC": "12/09/2023 01:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------QFNL000200----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Quarterfinal - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "120698",
+                "competitiorName": "DELA PENA Alfred",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "120698",
+                        "playerName": "DELA PENA Alfred",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "10,6,12,5,12,11,6",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "101040",
+                "competitiorName": "BELROSE Ocean",
+                "competitiorOrg": "PYF",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "101040",
+                        "playerName": "BELROSE Ocean",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PYF",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "12,11,10,11,10,9,11",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 7,
+        "full_msg": null,
+        "gameScores": "10-12,6-11,12-10,5-11,12-10,11-9,6-11",
+        "resultsGameScores": "10-12,6-11,12-10,5-11,12-10,11-9,6-11",
+        "overallScores": "3-4",
+        "resultOverallScores": "3-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "101040",
+            "serverReceiver": "120698",
+            "serverNext": "101040",
+            "serverCompetitor": "101040",
+            "receiverNext": "101040"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 10:00:00",
+            "startDateUTC": "12/09/2023 21:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP02000300----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 2 - Match 3",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "104092",
+                "competitiorName": "JEE  Minhyung",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "104092",
+                        "playerName": "JEE  Minhyung",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123938",
+                "competitiorName": "YEE Grace Rosi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123938",
+                        "playerName": "YEE Grace Rosi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "8,3,4,3,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-8,11-3,11-4,11-3,0-0,0-0,0-0",
+        "resultsGameScores": "11-8,11-3,11-4,11-3,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "123938",
+            "serverReceiver": "104092",
+            "serverNext": "123938",
+            "serverCompetitor": "123938",
+            "receiverNext": "123938"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 16:20:00",
+            "startDateUTC": "12/09/2023 03:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP01000200----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "131798",
+                "competitiorName": "LUU Finn",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "131798",
+                        "playerName": "LUU Finn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123935",
+                "competitiorName": "WU Vicky",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123935",
+                        "playerName": "WU Vicky",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "7,2,3,6,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-7,11-2,11-3,11-6,0-0,0-0,0-0",
+        "resultsGameScores": "11-7,11-2,11-3,11-6,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "123935",
+            "serverReceiver": "131798",
+            "serverNext": "123935",
+            "serverCompetitor": "123935",
+            "receiverNext": "123935"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 10:00:00",
+            "startDateUTC": "12/08/2023 21:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP02000500----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 2 - Match 5",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "201504",
+                "competitiorName": "SAREEN Aditya",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "201504",
+                        "playerName": "SAREEN Aditya",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "120696",
+                "competitiorName": "AMOR Kelsey",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "120696",
+                        "playerName": "AMOR Kelsey",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "5,9,5,2,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-5,11-9,11-5,11-2,0-0,0-0,0-0",
+        "resultsGameScores": "11-5,11-9,11-5,11-2,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "120696",
+            "serverReceiver": "201504",
+            "serverNext": "120696",
+            "serverCompetitor": "120696",
+            "receiverNext": "120696"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 19:20:00",
+            "startDateUTC": "12/09/2023 06:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP02000400----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 2 - Match 4",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "101040",
+                "competitiorName": "BELROSE Ocean",
+                "competitiorOrg": "PYF",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "101040",
+                        "playerName": "BELROSE Ocean",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PYF",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,13,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "120696",
+                "competitiorName": "AMOR Kelsey",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "120696",
+                        "playerName": "AMOR Kelsey",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "5,8,9,11,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-5,11-8,11-9,13-11,0-0,0-0,0-0",
+        "resultsGameScores": "11-5,11-8,11-9,13-11,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "120696",
+            "serverReceiver": "101040",
+            "serverNext": "120696",
+            "serverCompetitor": "120696",
+            "receiverNext": "120696"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 16:20:00",
+            "startDateUTC": "12/09/2023 03:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------FNL-000100----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Final - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "131798",
+                "competitiorName": "LUU Finn",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "131798",
+                        "playerName": "LUU Finn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "6,12,6,11,10,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "134800",
+                "competitiorName": "LUM Nicholas",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "134800",
+                        "playerName": "LUM Nicholas",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,14,11,9,12,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "6-11,12-14,6-11,11-9,10-12,0-0,0-0",
+        "resultsGameScores": "6-11,12-14,6-11,11-9,10-12,0-0,0-0",
+        "overallScores": "1-4",
+        "resultOverallScores": "1-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "134800",
+            "serverReceiver": "131798",
+            "serverNext": "134800",
+            "serverCompetitor": "134800",
+            "receiverNext": "134800"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 18:15:00",
+            "startDateUTC": "12/10/2023 05:15:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP01000400----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 4",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "120698",
+                "competitiorName": "DELA PENA Alfred",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "120698",
+                        "playerName": "DELA PENA Alfred",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "9,11,11,11,11,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123935",
+                "competitiorName": "WU Vicky",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123935",
+                        "playerName": "WU Vicky",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,4,5,3,4,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "9-11,11-4,11-5,11-3,11-4,0-0,0-0",
+        "resultsGameScores": "9-11,11-4,11-5,11-3,11-4,0-0,0-0",
+        "overallScores": "4-1",
+        "resultOverallScores": "4-1",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "123935",
+            "serverReceiver": "120698",
+            "serverNext": "123935",
+            "serverCompetitor": "123935",
+            "receiverNext": "123935"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 14:20:00",
+            "startDateUTC": "12/09/2023 01:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------SFNL000100----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Semifinal - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "131798",
+                "competitiorName": "LUU Finn",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "131798",
+                        "playerName": "LUU Finn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "101040",
+                "competitiorName": "BELROSE Ocean",
+                "competitiorOrg": "PYF",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "101040",
+                        "playerName": "BELROSE Ocean",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PYF",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "3,8,5,9,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-3,11-8,11-5,11-9,0-0,0-0,0-0",
+        "resultsGameScores": "11-3,11-8,11-5,11-9,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "101040",
+            "serverReceiver": "131798",
+            "serverNext": "101040",
+            "serverCompetitor": "101040",
+            "receiverNext": "101040"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 12:15:00",
+            "startDateUTC": "12/09/2023 23:15:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP02000400----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 2 - Match 4",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "109952",
+                "competitiorName": "WANEGUI Julie",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "109952",
+                        "playerName": "WANEGUI Julie",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,4,10,2,11,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "136653",
+                "competitiorName": "YANG  Zhehan Joanna",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "136653",
+                        "playerName": "YANG  Zhehan Joanna",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "7,11,12,11,13,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "11-7,4-11,10-12,2-11,11-13,0-0,0-0",
+        "resultsGameScores": "11-7,4-11,10-12,2-11,11-13,0-0,0-0",
+        "overallScores": "1-4",
+        "resultOverallScores": "1-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "136653",
+            "serverReceiver": "109952",
+            "serverNext": "136653",
+            "serverCompetitor": "136653",
+            "receiverNext": "136653"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 15:40:00",
+            "startDateUTC": "12/09/2023 02:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP02000600----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 2 - Match 6",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "102213",
+                "competitiorName": "DEY Jeremy",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "102213",
+                        "playerName": "DEY Jeremy",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,9,12,5,6,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "101040",
+                "competitiorName": "BELROSE Ocean",
+                "competitiorOrg": "PYF",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "101040",
+                        "playerName": "BELROSE Ocean",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PYF",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "7,11,14,11,11,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "11-7,9-11,12-14,5-11,6-11,0-0,0-0",
+        "resultsGameScores": "11-7,9-11,12-14,5-11,6-11,0-0,0-0",
+        "overallScores": "1-4",
+        "resultOverallScores": "1-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "101040",
+            "serverReceiver": "102213",
+            "serverNext": "101040",
+            "serverCompetitor": "101040",
+            "receiverNext": "101040"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 20:00:00",
+            "startDateUTC": "12/09/2023 07:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------SFNL000100----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Semifinal - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "137627",
+                "competitiorName": "LIU Yangzi",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "137627",
+                        "playerName": "LIU Yangzi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "136653",
+                "competitiorName": "YANG  Zhehan Joanna",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "136653",
+                        "playerName": "YANG  Zhehan Joanna",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "5,2,3,3,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-5,11-2,11-3,11-3,0-0,0-0,0-0",
+        "resultsGameScores": "11-5,11-2,11-3,11-3,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "136653",
+            "serverReceiver": "137627",
+            "serverNext": "136653",
+            "serverCompetitor": "136653",
+            "receiverNext": "136653"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 11:30:00",
+            "startDateUTC": "12/09/2023 22:30:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP01000500----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 5",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "137627",
+                "competitiorName": "LIU Yangzi",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "137627",
+                        "playerName": "LIU Yangzi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "200210",
+                "competitiorName": "LAM Jocelyn",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "200210",
+                        "playerName": "LAM Jocelyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "8,5,1,4,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-8,11-5,11-1,11-4,0-0,0-0,0-0",
+        "resultsGameScores": "11-8,11-5,11-1,11-4,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "200210",
+            "serverReceiver": "137627",
+            "serverNext": "200210",
+            "serverCompetitor": "200210",
+            "receiverNext": "200210"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 18:40:00",
+            "startDateUTC": "12/09/2023 05:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP02000100----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 2 - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "104092",
+                "competitiorName": "JEE  Minhyung",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "104092",
+                        "playerName": "JEE  Minhyung",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "109952",
+                "competitiorName": "WANEGUI Julie",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "109952",
+                        "playerName": "WANEGUI Julie",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "3,3,1,4,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-3,11-3,11-1,11-4,0-0,0-0,0-0",
+        "resultsGameScores": "11-3,11-3,11-1,11-4,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "109952",
+            "serverReceiver": "104092",
+            "serverNext": "109952",
+            "serverCompetitor": "109952",
+            "receiverNext": "109952"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 12:00:00",
+            "startDateUTC": "12/08/2023 23:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP02000300----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 2 - Match 3",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "201504",
+                "competitiorName": "SAREEN Aditya",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "201504",
+                        "playerName": "SAREEN Aditya",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "102213",
+                "competitiorName": "DEY Jeremy",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "102213",
+                        "playerName": "DEY Jeremy",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "3,4,6,4,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-3,11-4,11-6,11-4,0-0,0-0,0-0",
+        "resultsGameScores": "11-3,11-4,11-6,11-4,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "102213",
+            "serverReceiver": "201504",
+            "serverNext": "102213",
+            "serverCompetitor": "102213",
+            "receiverNext": "102213"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 15:40:00",
+            "startDateUTC": "12/09/2023 02:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------QFNL000200----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Quarterfinal - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "112591",
+                "competitiorName": "LI Carolyn",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "112591",
+                        "playerName": "LI Carolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "3,4,7,4,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "136653",
+                "competitiorName": "YANG  Zhehan Joanna",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "136653",
+                        "playerName": "YANG  Zhehan Joanna",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "3-11,4-11,7-11,4-11,0-0,0-0,0-0",
+        "resultsGameScores": "3-11,4-11,7-11,4-11,0-0,0-0,0-0",
+        "overallScores": "0-4",
+        "resultOverallScores": "0-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "136653",
+            "serverReceiver": "112591",
+            "serverNext": "136653",
+            "serverCompetitor": "136653",
+            "receiverNext": "136653"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 10:00:00",
+            "startDateUTC": "12/09/2023 21:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP02000500----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 2 - Match 5",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "104092",
+                "competitiorName": "JEE  Minhyung",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "104092",
+                        "playerName": "JEE  Minhyung",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "136653",
+                "competitiorName": "YANG  Zhehan Joanna",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "136653",
+                        "playerName": "YANG  Zhehan Joanna",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "9,7,8,5,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-9,11-7,11-8,11-5,0-0,0-0,0-0",
+        "resultsGameScores": "11-9,11-7,11-8,11-5,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "136653",
+            "serverReceiver": "104092",
+            "serverNext": "136653",
+            "serverCompetitor": "136653",
+            "receiverNext": "136653"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 19:20:00",
+            "startDateUTC": "12/09/2023 06:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP01000100----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "134800",
+                "competitiorName": "LUM Nicholas",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "134800",
+                        "playerName": "LUM Nicholas",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "120698",
+                "competitiorName": "DELA PENA Alfred",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "120698",
+                        "playerName": "DELA PENA Alfred",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "6,4,3,4,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-6,11-4,11-3,11-4,0-0,0-0,0-0",
+        "resultsGameScores": "11-6,11-4,11-3,11-4,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "120698",
+            "serverReceiver": "134800",
+            "serverNext": "120698",
+            "serverCompetitor": "120698",
+            "receiverNext": "120698"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 10:40:00",
+            "startDateUTC": "12/08/2023 21:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP01000500----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 5",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "134800",
+                "competitiorName": "LUM Nicholas",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "134800",
+                        "playerName": "LUM Nicholas",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123935",
+                "competitiorName": "WU Vicky",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123935",
+                        "playerName": "WU Vicky",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "2,4,7,7,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-2,11-4,11-7,11-7,0-0,0-0,0-0",
+        "resultsGameScores": "11-2,11-4,11-7,11-7,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "123935",
+            "serverReceiver": "134800",
+            "serverNext": "123935",
+            "serverCompetitor": "123935",
+            "receiverNext": "123935"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 18:00:00",
+            "startDateUTC": "12/09/2023 05:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------FNL-000100----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Final - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "137627",
+                "competitiorName": "LIU Yangzi",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "137627",
+                        "playerName": "LIU Yangzi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "104092",
+                "competitiorName": "JEE  Minhyung",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "104092",
+                        "playerName": "JEE  Minhyung",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "7,7,5,4,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-7,11-7,11-5,11-4,0-0,0-0,0-0",
+        "resultsGameScores": "11-7,11-7,11-5,11-4,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "104092",
+            "serverReceiver": "137627",
+            "serverNext": "104092",
+            "serverCompetitor": "104092",
+            "receiverNext": "104092"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 17:30:00",
+            "startDateUTC": "12/10/2023 04:30:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP02000600----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 2 - Match 6",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "123938",
+                "competitiorName": "YEE Grace Rosi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123938",
+                        "playerName": "YEE Grace Rosi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "9,8,11,8,11,11,11",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "109952",
+                "competitiorName": "WANEGUI Julie",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "109952",
+                        "playerName": "WANEGUI Julie",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,11,5,11,6,1,4",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 7,
+        "full_msg": null,
+        "gameScores": "9-11,8-11,11-5,8-11,11-6,11-1,11-4",
+        "resultsGameScores": "9-11,8-11,11-5,8-11,11-6,11-1,11-4",
+        "overallScores": "4-3",
+        "resultOverallScores": "4-3",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "109952",
+            "serverReceiver": "123938",
+            "serverNext": "109952",
+            "serverCompetitor": "109952",
+            "receiverNext": "109952"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 20:00:00",
+            "startDateUTC": "12/09/2023 07:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP01000100----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "137627",
+                "competitiorName": "LIU Yangzi",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "137627",
+                        "playerName": "LIU Yangzi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "202861",
+                "competitiorName": "TEHAHETUA Kelley",
+                "competitiorOrg": "PYF",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "202861",
+                        "playerName": "TEHAHETUA Kelley",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PYF",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "4,2,6,6,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-4,11-2,11-6,11-6,0-0,0-0,0-0",
+        "resultsGameScores": "11-4,11-2,11-6,11-6,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "202861",
+            "serverReceiver": "137627",
+            "serverNext": "202861",
+            "serverCompetitor": "202861",
+            "receiverNext": "202861"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 10:40:00",
+            "startDateUTC": "12/08/2023 21:40:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP01000300----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 1 - Match 3",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "134800",
+                "competitiorName": "LUM Nicholas",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "134800",
+                        "playerName": "LUM Nicholas",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,9,11,11,6,11,6",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "131798",
+                "competitiorName": "LUU Finn",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "131798",
+                        "playerName": "LUU Finn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "7,11,4,13,11,9,11",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 7,
+        "full_msg": null,
+        "gameScores": "11-7,9-11,11-4,11-13,6-11,11-9,6-11",
+        "resultsGameScores": "11-7,9-11,11-4,11-13,6-11,11-9,6-11",
+        "overallScores": "3-4",
+        "resultOverallScores": "3-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "131798",
+            "serverReceiver": "134800",
+            "serverNext": "131798",
+            "serverCompetitor": "131798",
+            "receiverNext": "131798"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 15:00:00",
+            "startDateUTC": "12/09/2023 02:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP01000600----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 6",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "112591",
+                "competitiorName": "LI Carolyn",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "112591",
+                        "playerName": "LI Carolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "12,13,14,9,1,16,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "202861",
+                "competitiorName": "TEHAHETUA Kelley",
+                "competitiorOrg": "PYF",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "202861",
+                        "playerName": "TEHAHETUA Kelley",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PYF",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "10,11,12,11,11,14,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 6,
+        "full_msg": null,
+        "gameScores": "12-10,13-11,14-12,9-11,1-11,16-14,0-0",
+        "resultsGameScores": "12-10,13-11,14-12,9-11,1-11,16-14,0-0",
+        "overallScores": "4-2",
+        "resultOverallScores": "4-2",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "202861",
+            "serverReceiver": "112591",
+            "serverNext": "202861",
+            "serverCompetitor": "202861",
+            "receiverNext": "202861"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 18:00:00",
+            "startDateUTC": "12/09/2023 05:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP01000300----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 3",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "137627",
+                "competitiorName": "LIU Yangzi",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "137627",
+                        "playerName": "LIU Yangzi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "112591",
+                "competitiorName": "LI Carolyn",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "112591",
+                        "playerName": "LI Carolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "8,1,1,2,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-8,11-1,11-1,11-2,0-0,0-0,0-0",
+        "resultsGameScores": "11-8,11-1,11-1,11-2,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "112591",
+            "serverReceiver": "137627",
+            "serverNext": "112591",
+            "serverCompetitor": "112591",
+            "receiverNext": "112591"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 15:00:00",
+            "startDateUTC": "12/09/2023 02:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------SFNL000200----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Semifinal - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "200210",
+                "competitiorName": "LAM Jocelyn",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "200210",
+                        "playerName": "LAM Jocelyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "2,4,3,4,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "104092",
+                "competitiorName": "JEE  Minhyung",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "104092",
+                        "playerName": "JEE  Minhyung",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "2-11,4-11,3-11,4-11,0-0,0-0,0-0",
+        "resultsGameScores": "2-11,4-11,3-11,4-11,0-0,0-0,0-0",
+        "overallScores": "0-4",
+        "resultOverallScores": "0-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "104092",
+            "serverReceiver": "200210",
+            "serverNext": "104092",
+            "serverCompetitor": "104092",
+            "receiverNext": "104092"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 13:00:00",
+            "startDateUTC": "12/10/2023 00:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------QFNL000300----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Quarterfinal - Match 3",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "134800",
+                "competitiorName": "LUM Nicholas",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "134800",
+                        "playerName": "LUM Nicholas",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "102213",
+                "competitiorName": "DEY Jeremy",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "102213",
+                        "playerName": "DEY Jeremy",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "6,9,4,4,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-6,11-9,11-4,11-4,0-0,0-0,0-0",
+        "resultsGameScores": "11-6,11-9,11-4,11-4,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "102213",
+            "serverReceiver": "134800",
+            "serverNext": "102213",
+            "serverCompetitor": "102213",
+            "receiverNext": "102213"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 10:45:00",
+            "startDateUTC": "12/09/2023 21:45:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------GP02000200----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Group 2 - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T02",
+        "tableName": "Table 2",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "102213",
+                "competitiorName": "DEY Jeremy",
+                "competitiorOrg": "NCL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "102213",
+                        "playerName": "DEY Jeremy",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NCL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "10,11,11,11,11,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "120696",
+                "competitiorName": "AMOR Kelsey",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "120696",
+                        "playerName": "AMOR Kelsey",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "12,9,8,6,5,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "10-12,11-9,11-8,11-6,11-5,0-0,0-0",
+        "resultsGameScores": "10-12,11-9,11-8,11-6,11-5,0-0,0-0",
+        "overallScores": "4-1",
+        "resultOverallScores": "4-1",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "120696",
+            "serverReceiver": "102213",
+            "serverNext": "120696",
+            "serverCompetitor": "120696",
+            "receiverNext": "120696"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 11:20:00",
+            "startDateUTC": "12/08/2023 22:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------34--000100----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Pos. 3-4 - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "136653",
+                "competitiorName": "YANG  Zhehan Joanna",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "136653",
+                        "playerName": "YANG  Zhehan Joanna",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,13,11,14,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "200210",
+                "competitiorName": "LAM Jocelyn",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "200210",
+                        "playerName": "LAM Jocelyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "6,11,6,12,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "11-6,13-11,11-6,14-12,0-0,0-0,0-0",
+        "resultsGameScores": "11-6,13-11,11-6,14-12,0-0,0-0,0-0",
+        "overallScores": "4-0",
+        "resultOverallScores": "4-0",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "200210",
+            "serverReceiver": "136653",
+            "serverNext": "200210",
+            "serverCompetitor": "200210",
+            "receiverNext": "200210"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 16:00:00",
+            "startDateUTC": "12/10/2023 03:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP01000200----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 1 - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "112591",
+                "competitiorName": "LI Carolyn",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "112591",
+                        "playerName": "LI Carolyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "9,10,11,11,14,5,5",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "200210",
+                "competitiorName": "LAM Jocelyn",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "200210",
+                        "playerName": "LAM Jocelyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,12,5,6,12,11,11",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 7,
+        "full_msg": null,
+        "gameScores": "9-11,10-12,11-5,11-6,14-12,5-11,5-11",
+        "resultsGameScores": "9-11,10-12,11-5,11-6,14-12,5-11,5-11",
+        "overallScores": "3-4",
+        "resultOverallScores": "3-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "200210",
+            "serverReceiver": "112591",
+            "serverNext": "200210",
+            "serverCompetitor": "200210",
+            "receiverNext": "200210"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 10:00:00",
+            "startDateUTC": "12/08/2023 21:00:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEMSINGLES-----------34--000100----------",
+        "subEventName": "Men's Singles",
+        "subEventDescription": "Men's Singles - Pos. 3-4 - Match 1",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "101040",
+                "competitiorName": "BELROSE Ocean",
+                "competitiorOrg": "PYF",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "101040",
+                        "playerName": "BELROSE Ocean",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "PYF",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "4,5,4,5,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "201504",
+                "competitiorName": "SAREEN Aditya",
+                "competitiorOrg": "AUS",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "201504",
+                        "playerName": "SAREEN Aditya",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "AUS",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "4-11,5-11,4-11,5-11,0-0,0-0,0-0",
+        "resultsGameScores": "4-11,5-11,4-11,5-11,0-0,0-0,0-0",
+        "overallScores": "0-4",
+        "resultOverallScores": "0-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "201504",
+            "serverReceiver": "101040",
+            "serverNext": "201504",
+            "serverCompetitor": "201504",
+            "receiverNext": "201504"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 16:45:00",
+            "startDateUTC": "12/10/2023 03:45:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------QFNL000300----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Quarterfinal - Match 3",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "200210",
+                "competitiorName": "LAM Jocelyn",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "200210",
+                        "playerName": "LAM Jocelyn",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "11,9,11,11,11,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "123938",
+                "competitiorName": "YEE Grace Rosi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123938",
+                        "playerName": "YEE Grace Rosi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "7,11,8,9,7,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 5,
+        "full_msg": null,
+        "gameScores": "11-7,9-11,11-8,11-9,11-7,0-0,0-0",
+        "resultsGameScores": "11-7,9-11,11-8,11-9,11-7,0-0,0-0",
+        "overallScores": "4-1",
+        "resultOverallScores": "4-1",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "123938",
+            "serverReceiver": "200210",
+            "serverNext": "123938",
+            "serverCompetitor": "123938",
+            "receiverNext": "123938"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/10/2023 10:45:00",
+            "startDateUTC": "12/09/2023 21:45:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    },
+    {
+        "eventId": "2714",
+        "documentCode": "TTEWSINGLES-----------GP02000200----------",
+        "subEventName": "Women's Singles",
+        "subEventDescription": "Women's Singles - Group 2 - Match 2",
+        "matchConfig": {
+            "bestOfXGames": 7,
+            "maxPointsPerGame": 11,
+            "advantagePerGame": 2,
+            "suddenDeathPoint": 99,
+            "maxChallengesPerCompetitor": 2,
+            "yellowCard": true,
+            "yellowRed1": true,
+            "yellowRed2": true,
+            "tTRReview": true
+        },
+        "venueName": "Waikato Table Tennis Association",
+        "tableNumber": "T01",
+        "tableName": "Table 1",
+        "competitiors": [
+            {
+                "competitorType": "H",
+                "competitiorId": "123938",
+                "competitiorName": "YEE Grace Rosi",
+                "competitiorOrg": "FIJ",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "123938",
+                        "playerName": "YEE Grace Rosi",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "FIJ",
+                        "playerPosition": 1
+                    }
+                ],
+                "scores": "9,7,4,3,0,0,0",
+                "irm": null
+            },
+            {
+                "competitorType": "A",
+                "competitiorId": "136653",
+                "competitiorName": "YANG  Zhehan Joanna",
+                "competitiorOrg": "NZL",
+                "compCardY": "0",
+                "compCardYR1": "0",
+                "compCardYR2": "0",
+                "compTimeout": "0",
+                "compMedicalTimeout": "",
+                "players": [
+                    {
+                        "playerId": "136653",
+                        "playerName": "YANG  Zhehan Joanna",
+                        "playerGivenName": null,
+                        "playerFamilyName": null,
+                        "playerOrgCode": "NZL",
+                        "playerPosition": 2
+                    }
+                ],
+                "scores": "11,11,11,11,0,0,0",
+                "irm": null
+            }
+        ],
+        "currentGameNumber": 4,
+        "full_msg": null,
+        "gameScores": "9-11,7-11,4-11,3-11,0-0,0-0,0-0",
+        "resultsGameScores": "9-11,7-11,4-11,3-11,0-0,0-0,0-0",
+        "overallScores": "0-4",
+        "resultOverallScores": "0-4",
+        "resultStatus": "OFFICIAL",
+        "action": {
+            "actionType": "OF",
+            "serverPlayer": "136653",
+            "serverReceiver": "123938",
+            "serverNext": "136653",
+            "serverCompetitor": "136653",
+            "receiverNext": "136653"
+        },
+        "resultSet": null,
+        "matchDateTime": {
+            "duration": "00:00:00",
+            "startDateLocal": "12/09/2023 11:20:00",
+            "startDateUTC": "12/08/2023 22:20:00"
+        },
+        "teamParentData": null,
+        "playByPlaySequenceNumber": "2",
+        "teamMatchNo": "0",
+        "teamMatchScores": "0-0,0-0,0-0,0-0,0-0",
+        "teamMatchScoresSummary": "0"
+    }
+]
