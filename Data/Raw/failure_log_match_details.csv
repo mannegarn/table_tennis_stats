@@ -1,2 +1,2 @@
 eventId,matchCode,failureReason
-2410,TTEMSINGLES-----------RND2001100----------,Error: ValidationError
+2410,TTEMSINGLES-----------RND2001100----------,Task failed with error: Validation Error (Field 'competitiors.0.competitiorID' missing)
