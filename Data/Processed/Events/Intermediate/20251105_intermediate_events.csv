@@ -1,0 +1,187 @@
+EventName,EventType,Country,City,ContinentCode,eventId,EventStatus,StartDate,EndDate,BallSponsor,TableSponsor
+WTT Contender Doha 2021,WTT Contender,Qatar,Doha,asia,2410,Completed,2021-02-28,2021-03-06,TBC,TBC
+WTT Star Contender Doha 2021 (Mar 2021),WTT Star Contender,Qatar,Doha,asia,2411,Completed,2021-03-05,2021-03-13,TBC,TBC
+Tokyo 2020 Olympic Games,Olympic Games,Japan,Tokyo ,asia,2345,Completed,2021-07-23,2021-08-08,TBC,TBC
+WTT Contender Budapest 2021,WTT Contender,Hungary,Budapest,europe,2487,Completed,2021-08-15,2021-08-20,TBC,TBC
+2021 ITTF Czech International Open,ITTF International Open,Czechia,Olomouc,europe,2480,Completed,2021-08-21,2021-08-25,TBC,TBC
+2021 ITTF African Championships,Continental Championships,Cameroon,Yaoundé,africa,2473,Completed,2021-09-01,2021-09-07,TBC,TBC
+2021 ITTF Kazakhstan International Open,Other Events and Multi Sport Games,Kazakhstan,Karaganda,asia,2484,Completed,2021-09-15,2021-09-19,TBC,TBC
+WTT Star Contender Doha 2021 (Sep 2021),WTT Star Contender,Qatar,Doha,asia,2489,Completed,2021-09-20,2021-09-25,TBC,TBC
+WTT Contender Tunis 2021,WTT Contender,Tunisia,Tunis,africa,2502,Completed,2021-10-24,2021-10-30,TBC,TBC
+WTT Contender Laško 2021 presented by I Feel Slovenia,WTT Contender,Slovenia,Laško,europe,2503,Completed,2021-11-01,2021-11-07,TBC,TBC
+2021 ITTF Ecuador International Open,ITTF International Open,Ecuador,Cuenca,americas,2510,Completed,2021-11-02,2021-11-06,TBC,TBC
+WTT Contender Novo Mesto 2021 presented by I Feel Slovenia,WTT Contender,Slovenia,Laško,europe,2504,Completed,2021-11-08,2021-11-14,TBC,TBC
+2021 ITTF Pan American Championships,Continental,Peru,Lima,americas,2234,Completed,2021-11-13,2021-11-19,TBC,TBC
+2021 World Table Tennis Championships Finals,World Championship,USA,Houston,americas,2346,Completed,2021-11-23,2021-11-29,TBC,TBC
+2021 ITTF Finlandia International Open,Other Events and Multi Sport Games,Finland,Lohja,europe,2479,Completed,2021-12-02,2021-12-05,TBC,TBC
+WTT Cup Finals Singapore,WTT Finals,Singapore,Singapore,asia,2516,Completed,2021-12-04,2021-12-07,TBC,TBC
+WTT Feeder Düsseldorf,WTT Feeder,Germany,Düsseldorf,europe,2519,Completed,2021-12-07,2021-12-10,TBC,TBC
+WTT Feeder Düsseldorf I,WTT Feeder,Germany,Düsseldorf,europe,2521,Completed,2022-01-12,2022-01-15,TBC,TBC
+WTT Feeder Düsseldorf II,WTT Feeder,Germany,Düsseldorf,europe,2522,Completed,2022-01-17,2022-01-20,TBC,TBC
+WTT Macao,WTT Exhibition,"Macao, China",,asia,2537,Completed,2022-01-19,2022-01-23,TBC,TBC
+WTT Contender Muscat 2022 (Feb 2022),WTT Contender,Oman,Muscat,asia,2531,Completed,2022-02-27,2022-03-05,TBC,TBC
+Singapore Smash 2022,WTT Grand Smash,Singapore,Singapore,asia,2536,Completed,2022-03-07,2022-03-20,TBC,TBC
+WTT Feeder Doha 2022,WTT Feeder,Qatar,Doha,asia,2534,Completed,2022-03-13,2022-03-17,TBC,TBC
+WTT Contender Doha 2022,WTT Contender,Qatar,Doha,asia,2532,Completed,2022-03-18,2022-03-24,TBC,TBC
+WTT Star Contender Doha 2022,WTT Star Contender,Qatar,Doha,asia,2533,Completed,2022-03-25,2022-03-31,TBC,TBC
+WTT Feeder Fremont 2022,WTT Feeder,USA,Fremont,americas,2569,Completed,2022-05-05,2022-05-08,TBC,TBC
+WTT Feeder Westchester 2022,WTT Feeder,USA,Pleasantville,americas,2570,Completed,2022-05-11,2022-05-15,TBC,TBC
+ITTF Africa Cup (May 2022),Continental Cups,Nigeria,Lagos,africa,2576,Completed,2022-05-26,2022-05-28,TBC,TBC
+WTT Contender Zagreb 2022,WTT Contender,Croatia,Zagreb,europe,2539,Completed,2022-06-13,2022-06-19,TBC,TBC
+WTT Contender Lima 2022,WTT Contender,Peru,Lima,americas,2574,Completed,2022-06-14,2022-06-19,TBC,TBC
+WTT Feeder Otocec 2022 Presented by I Feel Slovenia,WTT Feeder,Slovenia,Otocec,europe,2540,Completed,2022-06-20,2022-06-26,TBC,TBC
+WTT Star Contender European Summer Series 2022,WTT Star Contender,Hungary,Budapest,europe,2591,Completed,2022-07-11,2022-07-17,TBC,TBC
+WTT Champions European Summer Series 2022,WTT Champions,Hungary,Budapest,europe,2593,Completed,2022-07-18,2022-07-23,TBC,TBC
+WTT Feeder European Summer Series 2022,WTT Feeder,Hungary,Budapest,europe,2592,Completed,2022-07-18,2022-07-22,TBC,TBC
+WTT Contender Tunis 2022,WTT Contender,Tunisia,Tunis,africa,2568,Completed,2022-08-01,2022-08-06,TBC,TBC
+WTT Feeder Olomouc 2022,WTT Feeder,Czechia,Olomouc,europe,2541,Completed,2022-08-23,2022-08-28,TBC,TBC
+WTT Feeder Panagyurishte Presented by Asarel,WTT Feeder,Bulgaria,Panagyurishte,europe,2542,Completed,2022-08-30,2022-09-04,TBC,TBC
+2022 ITTF-Africa Senior Championships,Continental Championships,Algeria,,africa,2609,Completed,2022-09-03,2022-09-09,TBC,TBC
+WTT Contender Muscat 2022 (Sep 2022),WTT Contender,Oman,Muscat,asia,2605,Completed,2022-09-05,2022-09-10,TBC,TBC
+ITTF-Oceania Senior Championships,Continental Championships,Australia,Melbourne,oceania,2615,Completed,2022-09-05,2022-09-10,TBC,TBC
+WTT Contender Almaty 2022,WTT Contender,Kazakhstan,Almaty,asia,2606,Completed,2022-09-13,2022-09-18,TBC,TBC
+2022 ITTF World Team Championships Finals Presented by China Telecom,World Championship,China,Chengdu,asia,2535,Completed,2022-09-30,2022-10-09,TBC,TBC
+WTT Champions Macao 2022 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,asia,2619,Completed,2022-10-19,2022-10-23,TBC,TBC
+WTT Cup Finals Xinxiang 2022 Presented by China Construction Bank,WTT Finals,China,Xinxiang,asia,2627,Completed,2022-10-27,2022-10-30,TBC,TBC
+2022 ITTF Pan American Championships,Continental Championships,Chile,Santiago,americas,2611,Completed,2022-10-31,2022-11-06,TBC,TBC
+WTT Contender Nova Gorica 2022 Presented by I Feel Slovenia,WTT Contender,Slovenia,Nova Gorica,europe,2589,Completed,2022-10-31,2022-11-06,TBC,TBC
+WTT Feeder Düsseldorf III 2022,WTT Feeder,Germany,Düsseldorf,europe,2658,Completed,2022-11-22,2022-11-25,TBC,TBC
+WTT Feeder Fort Lauderdale 2022,WTT Feeder,USA,Fort Lauderdale,americas,2630,Completed,2022-12-11,2022-12-14,TBC,TBC
+2022 ITTF-Oceania Cup,Continental Cups,Papua New Guinea,Port Moresby,oceania,2670,Completed,2022-12-17,2022-12-18,TBC,TBC
+2022 Pacific Cup,Continental Cups,Papua New Guinea,Port Moresby,oceania,2707,Completed,2022-12-17,2022-12-18,TBC,TBC
+WTT Contender Durban 2023,WTT Contender,South Africa,Durban,africa,2699,Completed,2023-01-10,2023-01-15,TBC,TBC
+WTT Contender Doha 2023,WTT Contender,Qatar,Doha,asia,2698,Completed,2023-01-15,2023-01-21,TBC,TBC
+WTT Feeder Doha 2023,WTT Feeder,Qatar,Doha,asia,2701,Completed,2023-01-22,2023-01-26,TBC,TBC
+WTT Feeder Amman 2023,WTT Feeder,Jordan,Amman,asia,2700,Completed,2023-02-01,2023-02-04,TBC,TBC
+WTT Contender Amman 2023,WTT Contender,Jordan,Amman,asia,2697,Completed,2023-02-06,2023-02-12,TBC,TBC
+WTT Feeder Düsseldorf 2023,WTT Feeder,Germany,Düsseldorf,europe,2702,Completed,2023-02-14,2023-02-17,TBC,TBC
+WTT Feeder Düsseldorf II 2023,WTT Feeder,Germany,Düsseldorf,europe,2703,Completed,2023-02-21,2023-02-24,TBC,TBC
+WTT Star Contender Goa 2023,WTT Star Contender,India,Goa,asia,2696,Completed,2023-02-27,2023-03-05,TBC,TBC
+Singapore Smash 2023,WTT Grand Smash,Singapore,Singapore,asia,2629,Completed,2023-03-07,2023-03-19,TBC,TBC
+WTT Feeder Antalya 2023,WTT Feeder,Türkiye,Antalya,europe,2704,Completed,2023-03-27,2023-04-01,TBC,TBC
+WTT Champions Xinxiang 2023 Presented by Industrial and Commercial Bank of China,WTT Champions,China,Xinxiang,asia,2737,Completed,2023-04-09,2023-04-15,TBC,TBC
+WTT Champions Macao 2023 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,asia,2728,Completed,2023-04-17,2023-04-23,TBC,TBC
+WTT Star Contender Bangkok 2023,WTT Star Contender,Thailand,Bangkok,asia,2695,Completed,2023-04-23,2023-04-29,TBC,TBC
+ITTF Africa Cup (May 2023),Continental Cups,Kenya,Nairob,africa,2745,Completed,2023-05-04,2023-05-06,TBC,TBC
+2023 ITTF World Table Tennis Championships Finals,World Championship,South Africa,Durban,africa,2660,Completed,2023-05-20,2023-05-28,TBC,TBC
+WTT Contender Lagos 2023,WTT Contender,Nigeria,Lagos,africa,2693,Completed,2023-06-12,2023-06-18,TBC,TBC
+WTT Contender Tunis 2023 Presented by KIA,WTT Contender,Tunisia,Tunis,africa,2691,Completed,2023-06-20,2023-06-25,TBC,TBC
+WTT Contender Zagreb 2023,WTT Contender,Croatia,Zagreb,europe,2692,Completed,2023-06-26,2023-07-02,TBC,TBC
+WTT Star Contender Ljubljana 2023 Presented by I Feel Slovenia,WTT Star Contender,Slovenia,Ljubljana,europe,2694,Completed,2023-07-03,2023-07-09,TBC,TBC
+WTT Feeder Havirov 2023,WTT Feeder,Czechia,Havirov,europe,2750,Completed,2023-07-27,2023-07-30,TBC,TBC
+WTT Contender Lima 2023,WTT Contender,Peru,Lima,americas,2721,Completed,2023-07-31,2023-08-06,TBC,TBC
+WTT Contender Rio de Janeiro 2023,WTT Contender,Brazil,Rio De Janeiro,americas,2722,Completed,2023-08-07,2023-08-13,TBC,TBC
+WTT Feeder Olomouc 2023,WTT Feeder,Czechia,Olomouc,europe,2724,Completed,2023-08-22,2023-08-27,TBC,TBC
+WTT Contender Almaty 2023,WTT Contender,Kazakhstan,Almaty,asia,2739,Completed,2023-08-29,2023-09-03,TBC,TBC
+WTT Feeder Panagyurishte 2023 presented by ASAREL ,WTT Feeder,Bulgaria,Panagyurishte,europe,2723,Completed,2023-08-29,2023-09-03,TBC,TBC
+2023 ITTF-Oceania Olympic Team & Mixed Doubles Qualification,Olympic Games,Australia,,oceania,2717,Completed,2023-09-02,2023-09-03,TBC,TBC
+WTT Feeder Bangkok 2023,WTT Feeder,Thailand,Bangkok,asia,2740,Completed,2023-09-04,2023-09-09,TBC,TBC
+2023 ITTF Pan American Championships,Continental Championships,Cuba,Havana,americas,2789,Completed,2023-09-10,2023-09-17,TBC,TBC
+2023 ITTF-Africa Senior Championships,Continental Championships,Tunisia,Rades,africa,2787,Completed,2023-09-11,2023-09-17,TBC,TBC
+WTT Feeder Stockholm 2023,WTT Feeder,Sweden,Stockhom,europe,2738,Completed,2023-10-02,2023-10-07,TBC,TBC
+WTT Star Contender Lanzhou 2023 Presented by Huanchen Sports,WTT Star Contender,China,Lanzhou,asia,2777,Completed,2023-10-02,2023-10-08,TBC,TBC
+WTT Contender Muscat 2023,WTT Contender,Oman,Muscat,asia,2775,Completed,2023-10-08,2023-10-14,TBC,TBC
+WTT Contender Antalya 2023,WTT Contender,Türkiye,Antalya,europe,2742,Completed,2023-10-16,2023-10-22,TBC,TBC
+WTT Feeder Doha II 2023,WTT Feeder,Qatar,Doha,asia,2734,Completed,2023-10-17,2023-10-19,TBC,TBC
+WTT Champions Frankfurt 2023,WTT Champions,Germany,Frankfurt,europe,2705,Completed,2023-10-29,2023-11-05,TBC,TBC
+WTT Feeder Otocec 2023 presented by I Feel Slovenia,WTT Feeder,Slovenia,Otocec,europe,2733,Completed,2023-10-30,2023-11-05,TBC,TBC
+WTT Contender Taiyuan 2023,WTT Contender,China,Taiyuan,asia,2794,Completed,2023-11-07,2023-11-12,TBC,TBC
+WTT Feeder Vila Nova de Gaia 2023,WTT Feeder,Portugal,Vila Nova de Gaia,europe,2735,Completed,2023-11-22,2023-11-25,TBC,TBC
+WTT Feeder Düsseldorf III 2023,WTT Feeder,Germany,Düsseldorf,europe,2755,Completed,2023-11-27,2023-12-01,TBC,TBC
+ITTF Mixed Team World Cup 2023,World Mixed Team Championships,China,Chengdu,asia,2860,Completed,2023-12-04,2023-12-10,TBC,TBC
+2023 Pacific Cup,Continental Cups,New Zealand,Hamilton,oceania,2905,Completed,2023-12-09,2023-12-10,TBC,TBC
+2023 ITTF-Oceania Cup,Continental Cups,New Zealand,Hamilton,oceania,2714,Completed,2023-12-09,2023-12-10,TBC,TBC
+WTT Feeder Biella 2023,WTT Feeder,Italy,Biella,europe,2732,Completed,2023-12-12,2023-12-17,TBC,TBC
+WTT Finals Women Nagoya 2023,WTT Finals,Japan,Nagoya,asia,2776,Completed,2023-12-15,2023-12-17,TBC,TBC
+WTT Finals Men Doha 2023,WTT Finals,Qatar,Doha,asia,2866,Completed,2024-01-03,2024-01-05,TBC,TBC
+WTT Star Contender Doha 2024,WTT Star Contender,Qatar,Doha,asia,2862,Completed,2024-01-08,2024-01-13,TBC,TBC
+WTT Contender Doha 2024,WTT Contender,Qatar,Doha,asia,2861,Completed,2024-01-14,2024-01-20,TBC,TBC
+WTT Feeder Corpus Christi 2024,WTT Feeder,USA,Corpus Christi,americas,2878,Completed,2024-01-15,2024-01-18,TBC,TBC
+WTT Star Contender Goa 2024,WTT Star Contender,India,Goa,asia,2863,Completed,2024-01-23,2024-01-28,TBC,TBC
+WTT Feeder Manchester 2024,WTT Feeder,England,Manchester,europe,2879,Completed,2024-02-01,2024-02-04,TBC,TBC
+ITTF World Team Table Tennis Championships Finals Busan 2024 Presented by BNK Busan Bank,World Championship,Korea Republic,Busan,asia,2751,Completed,2024-02-16,2024-02-25,TBC,TBC
+Singapore Smash 2024,WTT Grand Smash,Singapore,Singapore,asia,2904,Completed,2024-03-07,2024-03-17,TBC,TBC
+WTT Feeder Beirut 2024,WTT Feeder,Lebanon,Beirut,asia,2893,Completed,2024-03-19,2024-03-21,TBC,TBC
+WTT Feeder Beirut II 2024,WTT Feeder,Lebanon,Beirut,asia,2894,Completed,2024-03-22,2024-03-24,TBC,TBC
+WTT Feeder Otocec 2024 Presented by I Feel Slovenia,WTT Feeder,Slovenia,Otocec,europe,2880,Completed,2024-03-26,2024-04-01,TBC,TBC
+WTT Champions Incheon 2024 Presented by Shinhan Bank,WTT Champions,Korea Republic,Incheon,asia,2899,Completed,2024-03-27,2024-03-31,TBC,TBC
+WTT Feeder Varazdin 2024,WTT Feeder,Croatia,Varaždin,europe,2882,Completed,2024-04-02,2024-04-07,TBC,TBC
+WTT Feeder Düsseldorf 2024,WTT Feeder,Germany,Düsseldorf,europe,2881,Completed,2024-04-08,2024-04-12,TBC,TBC
+WTT Feeder Havirov 2024,WTT Feeder,Czechia,Havirov,europe,2883,Completed,2024-04-14,2024-04-17,TBC,TBC
+ITTF MEN'S AND WOMEN'S WORLD CUP MACAO 2024 PRESENTED BY GALAXY ENTERTAINMENT GROUP,World Cup,"Macao, China",Macao,asia,2937,Completed,2024-04-15,2024-04-21,TBC,TBC
+Saudi Smash 2024,WTT Grand Smash,Saudi Arabia,Jeddah,asia,2932,Completed,2024-05-01,2024-05-11,TBC,TBC
+2024 ITTF-Oceania Olympic Singles Qualification,Olympic Qualification,New Caledonia,Noumea,oceania,2915,Completed,2024-05-10,2024-05-10,TBC,TBC
+2024 ITTF-Oceania Cup,Continental Cups,New Caledonia,Noumea,oceania,2916,Completed,2024-05-11,2024-05-12,TBC,TBC
+2024 Pacific Cup,Continental Cups,New Caledonia,NOUMEA Nouvelle Calédonie,oceania,2959,Completed,2024-05-11,2024-05-12,TBC,TBC
+WTT Feeder Cappadocia 2024,WTT Feeder,Türkiye,Cappadocia - Nevsehir,europe,2911,Completed,2024-05-13,2024-05-17,TBC,TBC
+WTT Contender Rio de Janeiro 2024,WTT Contender,Brazil,Rio De Janeiro,americas,2867,Completed,2024-05-20,2024-05-26,TBC,TBC
+WTT Contender Taiyuan 2024,WTT Contender,China,Taiyuan,asia,2865,Completed,2024-05-21,2024-05-26,TBC,TBC
+WTT Contender Mendoza 2024,WTT Contender,Argentina,Mendoza,americas,2934,Completed,2024-05-27,2024-06-02,TBC,TBC
+WTT Champions Chongqing 2024 Presented by Changan,WTT Champions,China,Chongqing,asia,2941,Completed,2024-05-30,2024-06-03,TBC,TBC
+WTT Contender Zagreb 2024,WTT Contender,Croatia,Zagreb,europe,2869,Completed,2024-06-03,2024-06-09,TBC,TBC
+WTT Star Contender Ljubljana 2024 Presented by I Feel Slovenia,WTT Star Contender,Slovenia,Ljubljana,europe,2870,Completed,2024-06-11,2024-06-16,TBC,TBC
+WTT Contender Lagos 2024,WTT Contender,Nigeria,Lagos,africa,2868,Completed,2024-06-19,2024-06-23,TBC,TBC
+WTT Contender Tunis 2024 Presented by KIA,WTT Contender,Tunisia,Tunis,africa,2871,Completed,2024-06-25,2024-06-30,TBC,TBC
+WTT Star Contender Bangkok 2024,WTT Star Contender,Thailand,Bangkok,asia,2900,Completed,2024-07-02,2024-07-07,TBC,TBC
+Paris 2024 Olympic Games,Olympic Games,France,Paris,europe,2603,Completed,2024-07-26,2024-08-11,TBC,TBC
+WTT Contender Lima 2024,WTT Contender,Peru,Lima,americas,2872,Completed,2024-08-21,2024-08-25,TBC,TBC
+WTT Feeder Olomouc 2024,WTT Feeder,Czechia,Olomouc,europe,2884,Completed,2024-08-21,2024-08-25,TBC,TBC
+WTT Feeder Muscat 2024,WTT Feeder,Oman,Muscat,asia,2965,Completed,2024-08-29,2024-09-01,TBC,TBC
+WTT Contender Almaty 2024,WTT Contender,Kazakhstan,Almaty,asia,2873,Completed,2024-09-03,2024-09-08,TBC,TBC
+WTT Champions Macao 2024 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,asia,2983,Completed,2024-09-09,2024-09-15,TBC,TBC
+WTT Feeder Panagyurishte 2024 Presented by Asarel,WTT Feeder,Bulgaria,Panagyurishte,europe,2885,Completed,2024-09-11,2024-09-15,TBC,TBC
+WTT Feeder Halmstad 2024,WTT Feeder,Sweden,Halmstad,europe,2886,Completed,2024-09-16,2024-09-21,TBC,TBC
+China Smash 2024 Presented by Zhonghui Life,WTT Grand Smash,China,Beijing,asia,2942,Completed,2024-09-26,2024-10-06,TBC,TBC
+WTT Feeder Doha 2024,WTT Feeder,Qatar,Doha,asia,2887,Completed,2024-10-03,2024-10-06,TBC,TBC
+ITTF-Oceania Senior Championships 2024,Continental Championships,New Zealand,"Auckland, 1023",oceania,2917,Completed,2024-10-15,2024-10-18,TBC,TBC
+WTT Feeder Cagliari 2024,WTT Feeder,Italy,Cagliari,europe,2889,Completed,2024-10-22,2024-10-27,TBC,TBC
+WTT Champions Montpellier 2024,WTT Champions,France,Montpellier,europe,2940,Completed,2024-10-22,2024-10-27,TBC,TBC
+WTT Contender Muscat 2024,WTT Contender,Oman,Muscat,asia,2997,Completed,2024-10-28,2024-11-02,TBC,TBC
+WTT Feeder Prishtina 2024,WTT Feeder,Kosovo,Pristina,europe,2964,Completed,2024-10-30,2024-11-01,TBC,TBC
+WTT Feeder Caracas 2024,WTT Feeder,Venezuela,Caracas,americas,2912,Completed,2024-10-31,2024-11-03,TBC,TBC
+WTT Champions Frankfurt 2024,WTT Champions,Germany,Frankfurt,europe,2877,Completed,2024-11-03,2024-11-10,TBC,TBC
+WTT Feeder Düsseldorf II 2024,WTT Feeder,Germany,Düsseldorf,europe,2890,Completed,2024-11-18,2024-11-22,TBC,TBC
+WTT Finals Fukuoka 2024,WTT Finals,Japan,Kitakyushu,asia,2947,Completed,2024-11-20,2024-11-24,TBC,TBC
+WTT Feeder Vila Nova de Gaia 2024,WTT Feeder,Portugal,Vila Nova de Gaia,europe,2891,Completed,2024-11-23,2024-11-27,TBC,TBC
+ITTF Mixed Team World Cup Chengdu 2024 presented by CHINA TELECOM,World Mixed Team Championships,China,Chengdu,asia,2979,Completed,2024-12-01,2024-12-08,TBC,TBC
+WTT Star Contender Doha 2025,WTT Star Contender,Qatar,Doha,asia,3083,Completed,2025-01-06,2025-01-11,TBC,TBC
+WTT Contender Muscat 2025,WTT Contender,Oman,Muscat,asia,3084,Completed,2025-01-11,2025-01-17,TBC,TBC
+Singapore Smash 2025,WTT Grand Smash,Singapore,Singapore,asia,3085,Completed,2025-01-30,2025-02-09,TBC,TBC
+WTT Feeder Doha 2025,WTT Feeder,Qatar,Doha,asia,3026,Completed,2025-02-04,2025-02-08,TBC,TBC
+WTT Feeder Düsseldorf 2025,WTT Feeder,Germany,Düsseldorf,europe,3020,Completed,2025-02-11,2025-02-14,TBC,TBC
+WTT Feeder Cappadocia 2025,WTT Feeder,Türkiye,Cappadocia - Nevsehir,europe,3030,Completed,2025-02-17,2025-02-21,TBC,TBC
+WTT Champions Chongqing 2025 Presented by AITO,WTT Champions,China,Chongqing,asia,3086,Completed,2025-03-11,2025-03-16,TBC,TBC
+WTT Star Contender Chennai 2025 Presented by IndianOil,WTT Star Contender,India,Chennai,asia,3133,Completed,2025-03-25,2025-03-30,TBC,TBC
+WTT Feeder Otocec 2025 Presented by I Feel Slovenia ,WTT Feeder,Slovenia,Otocec,europe,3024,Completed,2025-03-25,2025-03-29,TBC,TBC
+WTT Feeder Otocec II 2025 Presented by I Feel Slovenia ,WTT Feeder,Slovenia,Otocec,europe,3025,Completed,2025-03-30,2025-04-03,TBC,TBC
+WTT Champions Incheon 2025,WTT Champions,Korea Republic,Incheon,asia,3087,Completed,2025-04-01,2025-04-06,TBC,TBC
+WTT Feeder Havirov 2025,WTT Feeder,Czechia,Havirov,europe,3069,Completed,2025-04-05,2025-04-09,TBC,TBC
+WTT Contender Taiyuan 2025,WTT Contender,China,Taiyuan,asia,3088,Completed,2025-04-08,2025-04-13,TBC,TBC
+ITTF MEN'S AND WOMEN'S WORLD CUP MACAO 2025 PRESENTED BY GALAXY ENTERTAINMENT GROUP,World Cup,"Macao, China",,asia,3109,Completed,2025-04-14,2025-04-20,TBC,TBC
+WTT Contender Tunis 2025 Presented By Tunisie Telecom,WTT Contender,Tunisia,Tunis,africa,3089,Completed,2025-04-22,2025-04-27,TBC,TBC
+WTT Feeder Manchester 2025,WTT Feeder,England,Manchester,europe,3023,Completed,2025-04-24,2025-04-27,TBC,TBC
+ITTF World Table Tennis Championships Finals Doha 2025,World Championship,Qatar,Doha,asia,3108,Completed,2025-05-17,2025-05-25,TBC,TBC
+WTT Feeder Prishtina 2025,WTT Feeder,Kosovo,Prishtina,europe,3058,Completed,2025-06-03,2025-06-07,TBC,TBC
+WTT Contender Skopje 2025,WTT Contender,North Macedonia,Skopje,europe,3090,Completed,2025-06-09,2025-06-15,TBC,TBC
+WTT Star Contender Ljubljana 2025 Presented by I Feel Slovenia,WTT Star Contender,Slovenia,Ljubljana,europe,3091,Completed,2025-06-17,2025-06-22,TBC,TBC
+WTT Contender Zagreb 2025,WTT Contender,Croatia,Zagreb,europe,3092,Completed,2025-06-24,2025-06-29,TBC,TBC
+United States Smash 2025,WTT Grand Smash,USA,Las Vegas,americas,3082,Completed,2025-07-03,2025-07-13,TBC,TBC
+WTT Contender Lagos 2025,WTT Contender,Nigeria,Lagos,africa,3121,Completed,2025-07-22,2025-07-26,TBC,TBC
+WTT Contender Buenos Aires 2025,WTT Contender,Argentina,Buenos Aires,americas,3175,Completed,2025-07-22,2025-07-27,TBC,TBC
+WTT Star Contender Foz do Iguaçu 2025,WTT Star Contender,Brazil,Foz do Iguaçu,americas,3093,Completed,2025-07-30,2025-08-03,TBC,TBC
+WTT Feeder Spokane 2025,WTT Feeder,USA,Spokane ,americas,3177,Completed,2025-08-05,2025-08-08,TBC,TBC
+WTT Champions Yokohama 2025,WTT Champions,Japan,,asia,3094,Completed,2025-08-07,2025-08-11,TBC,TBC
+WTT Feeder Spokane II 2025,WTT Feeder,USA,Spokane ,americas,3178,Completed,2025-08-09,2025-08-12,TBC,TBC
+WTT Feeder Vientiane 2025 Presented by ICBC Bank,WTT Feeder,Laos,,asia,3131,Completed,2025-08-11,2025-08-15,TBC,TBC
+Europe Smash - Sweden 2025,WTT Grand Smash,Sweden,Malmö,europe,3128,Completed,2025-08-14,2025-08-24,TBC,TBC
+WTT Feeder Panagyurishte 2025 Presented by Asarel,WTT Feeder,Bulgaria,Panagyurishte,europe,3027,Completed,2025-08-21,2025-08-24,TBC,TBC
+WTT Feeder Olomouc 2025,WTT Feeder,Czechia,Olomouc,europe,3028,Completed,2025-08-28,2025-08-31,TBC,TBC
+WTT Contender Almaty 2025,WTT Contender,Kazakhstan,Almaty,asia,3096,Completed,2025-09-02,2025-09-07,TBC,TBC
+WTT Champions Macao 2025 Presented by Galaxy Entertainment Group,WTT Champions,"Macao, China",Macao,asia,3097,Completed,2025-09-09,2025-09-14,TBC,TBC
+WTT Feeder Istanbul 2025,WTT Feeder,Türkiye,Istanbul,europe,3199,Completed,2025-09-11,2025-09-15,TBC,TBC
+WTT Feeder Cappadocia II 2025,WTT Feeder,Türkiye,Cappadocia - Nevsehir,europe,3031,Completed,2025-09-16,2025-09-20,TBC,TBC
+China Smash 2025 Presented by Beijing Shijingshan Culture & Tourism Group,WTT Grand Smash,China,Beijing,asia,3098,Completed,2025-09-25,2025-10-05,TBC,TBC
+WTT Star Contender London 2025,WTT Star Contender,England,London,europe,3110,Completed,2025-10-21,2025-10-26,TBC,TBC
+WTT Champions Montpellier 2025,WTT Champions,France,Montpellier,europe,3099,Completed,2025-10-28,2025-11-02,TBC,TBC
+WTT Champions Frankfurt 2025,WTT Champions,Germany,Frankfurt,europe,3100,Ongoing,2025-11-04,2025-11-09,TBC,TBC
+WTT Feeder Vila Nova de Gaia 2025,WTT Feeder,Portugal,Vila Nova de Gaia,europe,3066,Ongoing,2025-11-05,2025-11-09,TBC,TBC
