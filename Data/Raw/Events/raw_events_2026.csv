@@ -1,0 +1,154 @@
+PageLink,EventName,EventType,EventTypeId,Country,City,ContinentCode,Subcontinent,StartDateTime,EndDateTime,Tags,EventCode,Comments,EventDateChangeId,EventId,FromStartDate,FromEndDate,ToStartDate,ToEndDate,ShowInCalendar,Type,Event_Tier_Name
+https://asia.ittf.com/pages/37/1st%20asian%20veteran%20table%20tennis%20championships_8675,ITTF-Americas Masters Championships Asuncion 2026 ,Veteran Championships,55,Paraguay,Asunción,americas,south america,2026-02-02T00:00:00,2026-02-07T00:00:00,,,,,3163,,,,,,,
+,ITTF World Team Table Tennis Championships Finals London 2026,WTTC,37,England,London,europe,northern europe,2026-04-28T00:00:00,2026-05-10T00:00:00,,,,,3216,,,,,,,
+,WTT Champions Doha 2026,WTT Champions,65,Qatar,Doha,asia,west asia,2026-01-07T00:00:00,2026-01-11T00:00:00,,,,,3231,,,,,,,WTT Series
+,WTT Star Contender Doha 2026,WTT Star Contender,35,Qatar,Doha,asia,west asia,2026-01-13T00:00:00,2026-01-18T00:00:00,,,,,3232,,,,,,,WTT Series
+,WTT Star Contender Chennai 2026,WTT Star Contender,35,India,Chennai,asia,south asia,2026-02-10T00:00:00,2026-02-15T00:00:00,,,,,3233,,,,,,,WTT Series
+,Singapore Smash 2026 Presented by Resorts World Sentosa ,WTT Grand Smash,64,Singapore,Singapore,asia,south east asia,2026-02-19T00:00:00,2026-03-01T00:00:00,,,,,3234,,,,,,,WTT Series
+,WTT Champions Chongqing 2026,WTT Champions,65,China,Chongqing,asia,east asia,2026-03-10T00:00:00,2026-03-15T00:00:00,,,,,3235,,,,,,,WTT Series
+,WTT Contender Tunisia 2026,WTT Contender,34,Tunisia,,africa,north africa,2026-03-23T00:00:00,2026-03-28T00:00:00,,,,,3236,,,,,,,WTT Series
+,WTT Contender Taiyuan 2026,WTT Contender,34,China,Taiyuan,asia,east asia,2026-04-07T00:00:00,2026-04-12T00:00:00,,,,,3237,,,,,,,WTT Series
+,WTT Contender Lagos 2026,WTT Contender,34,Nigeria,Lagos,africa,west africa,2026-05-19T00:00:00,2026-05-24T00:00:00,,,,,3238,,,,,,,WTT Series
+,WTT Contender Skopje 2026,WTT Contender,34,North Macedonia,Skopje,europe,southern europe,2026-06-01T00:00:00,2026-06-07T00:00:00,,,,,3239,,,,,,,WTT Series
+,WTT Contender Zagreb 2026,WTT Contender,34,Croatia,Zagreb,europe,southern europe,2026-06-09T00:00:00,2026-06-14T00:00:00,,,,,3240,,,,,,,WTT Series
+,WTT Star Contender Ljubljana 2026,WTT Star Contender,35,Slovenia,Ljubljana,europe,southern europe,2026-06-16T00:00:00,2026-06-21T00:00:00,,,,,3241,,,,,,,WTT Series
+,United States Smash 2026,WTT Grand Smash,64,USA,,americas,northern america,2026-06-25T00:00:00,2026-07-05T00:00:00,,,,,3242,,,,,,,WTT Series
+,WTT Contender Buenos Aires 2026,WTT Contender,34,Argentina,Buenos Aires,americas,south america,2026-07-14T00:00:00,2026-07-19T00:00:00,,,,,3243,,,,,,,WTT Series
+,WTT Star Contender Brazil 2026,WTT Star Contender,35,Brazil,TBC,americas,south america,2026-07-21T00:00:00,2026-07-26T00:00:00,,,,,3244,,,,,,,WTT Series
+,WTT Champions Yokohama 2026,WTT Champions,65,Japan,Yokohama,asia,east asia,2026-08-05T00:00:00,2026-08-09T00:00:00,,,,,3245,,,,,,,WTT Series
+,Europe Smash - Sweden 2026,WTT Grand Smash,64,Sweden,Malmö,europe,northern europe,2026-08-13T00:00:00,2026-08-23T00:00:00,,,,,3246,,,,,,,WTT Series
+,WTT Contender Almaty 2026,WTT Contender,34,Kazakhstan,Almaty,asia,middle asia,2026-09-01T00:00:00,2026-09-06T00:00:00,,,,,3247,,,,,,,WTT Series
+,WTT Champions Macao 2026,WTT Champions,65,"Macao, China",Macao,asia,east asia,2026-09-08T00:00:00,2026-09-13T00:00:00,,,,,3248,,,,,,,WTT Series
+,China Smash 2026,WTT Grand Smash,64,China,,asia,east asia,2026-10-01T00:00:00,2026-10-11T00:00:00,,,,,3249,,,,,,,WTT Series
+,WTT Champions Montpellier 2026,WTT Champions,65,France,Montpellier,europe,western europe,2026-10-27T00:00:00,2026-11-01T00:00:00,,,,,3250,,,,,,,WTT Series
+,WTT Contender Muscat 2026,WTT Contender,34,Oman,Muscat,asia,west asia,2026-01-19T00:00:00,2026-01-24T00:00:00,,,,,3251,,,,,,,WTT Series
+,WTT Champions Germany 2026,WTT Champions,65,Germany,,europe,western europe,2026-11-03T00:00:00,2026-11-08T00:00:00,,,,,3252,,,,,,,WTT Series
+,WTT Contender Panagyurishte 2026,WTT Contender,34,Bulgaria,Panagyurishte,europe,eastern europe,2026-09-08T00:00:00,2026-09-13T00:00:00,,,,,3253,,,,,,,WTT Series
+,WTT Star Contender London 2026,WTT Star Contender,35,England,London,europe,northern europe,2026-09-15T00:00:00,2026-09-20T00:00:00,,,,,3254,,,,,,,WTT Series
+,WTT Finals Hong Kong 2026,WTT Finals,75,"Hong Kong, China",,asia,east asia,2026-12-08T00:00:00,2026-12-13T00:00:00,,,,,3255,,,,,,,WTT Series
+,WTT Star Contender Muscat 2026,WTT Star Contender,35,Oman,Muscat,asia,west asia,2026-11-16T00:00:00,2026-11-21T00:00:00,,,,,3256,,,,,,,WTT Series
+,WTT Contender Istanbul 2026,WTT Contender,34,Türkiye,Istanbul,europe,southern europe,2026-11-10T00:00:00,2026-11-15T00:00:00,,,,,3257,,,,,,,WTT Series
+,WTT Feeder Cappadocia 2026,WTT Feeder,81,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2026-02-02T00:00:00,2026-02-06T00:00:00,,,,,3266,,,,,,,WTT Feeder Series
+,WTT Feeder Düsseldorf 2026,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2026-03-02T00:00:00,2026-03-06T00:00:00,,,,,3267,,,,,,,WTT Feeder Series
+,WTT Feeder Otocec 2026,WTT Feeder,81,Slovenia,Otocec,europe,southern europe,2026-03-07T00:00:00,2026-03-11T00:00:00,,,,,3268,,,,,,,WTT Feeder Series
+,WTT Feeder Gdansk 2026,WTT Feeder,81,Poland,Gdansk,europe,eastern europe,2026-11-28T00:00:00,2026-12-02T00:00:00,,,,,3269,,,,,,,WTT Feeder Series
+,WTT Feeder Havirov 2026,WTT Feeder,81,Czechia,Havirov,europe,eastern europe,2026-04-13T00:00:00,2026-04-17T00:00:00,,,,,3270,,,,,,,WTT Feeder Series
+,WTT Feeder Prishtina 2026,WTT Feeder,81,Kosovo,Prishtina,europe,southern europe,2026-05-27T00:00:00,2026-05-31T00:00:00,,,,,3271,,,,,,,WTT Feeder Series
+,WTT Feeder Vientiane 2026,WTT Feeder,81,Laos,,asia,south east asia,2026-08-04T00:00:00,2026-08-08T00:00:00,,,,,3272,,,,,,,WTT Feeder Series
+,WTT Youth Contender Vadodara 2026,WTT Youth Contender,69,India,Vadodara,asia,south asia,2026-01-02T00:00:00,2026-01-05T00:00:00,,0,,,3273,,,,,,,WTT Youth Series
+,WTT Youth Contender San Francisco 2026,WTT Youth Contender,69,USA,San Francisco,americas,northern america,2026-01-02T00:00:00,2026-01-05T00:00:00,,0,,,3274,,,,,,,WTT Youth Series
+,WTT Youth Contender Linz 2026,WTT Youth Contender,69,Austria,Linz,europe,western europe,2026-01-08T00:00:00,2026-01-11T00:00:00,,0,,,3275,,,,,,,WTT Youth Series
+,WTT Youth Contender Manama 2026,WTT Youth Contender,69,Bahrain,Manama,asia,west asia,2026-01-14T00:00:00,2026-01-17T00:00:00,,0,,,3276,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Doha 2026,WTT Youth Star Contender,68,Qatar,Doha,asia,west asia,2026-01-23T00:00:00,2026-01-25T00:00:00,,0,,,3277,,,,,,,WTT Youth Series
+,WTT Youth Contender Doha 2026,WTT Youth Contender,69,Qatar,Doha,asia,west asia,2026-01-19T00:00:00,2026-01-22T00:00:00,,0,,,3278,,,,,,,WTT Youth Series
+,WTT Youth Contender Cappadocia 2026,WTT Youth Contender,69,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2026-01-28T00:00:00,2026-01-31T00:00:00,,0,,,3279,,,,,,,WTT Youth Series
+,WTT Youth Contender Tunis 2026,WTT Youth Contender,69,Tunisia,Tunis,africa,north africa,2026-02-02T00:00:00,2026-02-05T00:00:00,,0,,,3280,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Tunis 2026,WTT Youth Star Contender,68,Tunisia,Tunis,africa,north africa,2026-02-06T00:00:00,2026-02-08T00:00:00,,0,,,3281,,,,,,,WTT Youth Series
+,WTT Feeder Olomouc 2026,WTT Feeder,81,Czechia,Olomouc,europe,eastern europe,2026-08-24T00:00:00,2026-08-28T00:00:00,,,,,3282,,,,,,,WTT Feeder Series
+,WTT Feeder Doha II 2026,WTT Feeder,81,Qatar,Doha,asia,west asia,2026-10-07T00:00:00,2026-10-11T00:00:00,,,,,3283,,,,,,,WTT Feeder Series
+,WTT Youth Contender Vila Real 2026,WTT Youth Contender,69,Portugal,Vila Real,europe,southern europe,2026-02-10T00:00:00,2026-02-13T00:00:00,,0,,,3284,,,,,,,WTT Youth Series
+,Singapore Youth Smash 2026,WTT Youth Smash,96,Singapore,Singapore,asia,south east asia,2026-02-26T00:00:00,2026-03-01T00:00:00,,0,,,3285,,,,,,,WTT Youth Series
+,WTT Youth Contender Buenos Aires 2026,WTT Youth Contender,69,Argentina,Buenos Aires,americas,south america,2026-03-04T00:00:00,2026-03-07T00:00:00,,0,,,3286,,,,,,,WTT Youth Series
+,WTT Youth Contender Wladyslawowo 2026,WTT Youth Contender,69,Poland,Wladyslawowo,europe,eastern europe,2026-03-04T00:00:00,2026-03-07T00:00:00,,0,,,3291,,,,,,,WTT Youth Series
+,WTT Youth Contender Asunción 2026,WTT Youth Contender,69,Paraguay,Asunción,americas,south america,2026-03-09T00:00:00,2026-03-12T00:00:00,,0,,,3292,,,,,,,WTT Youth Series
+,WTT Youth Contender Berlin 2026,WTT Youth Contender,69,Germany,Berlin,europe,western europe,2026-03-09T00:00:00,2026-03-15T00:00:00,,0,,,3293,,,,,,,WTT Youth Series
+,WTT Youth Contender Havirov 2026,WTT Youth Contender,69,Czechia,Havirov,europe,eastern europe,2026-03-09T00:00:00,2026-03-15T00:00:00,,0,,,3294,,,,,,,WTT Youth Series
+,WTT Youth Contender Riyadh 2026,WTT Youth Contender,69,Saudi Arabia,Riyhad,asia,west asia,2026-03-21T00:00:00,2026-03-24T00:00:00,,0,,,3295,,,,,,,WTT Youth Series
+,WTT Youth Contender Panagyurishte 2026,WTT Youth Contender,69,Bulgaria,Panagyurishte,europe,eastern europe,2026-03-26T00:00:00,2026-03-29T00:00:00,,0,,,3296,,,,,,,WTT Youth Series
+,WTT Youth Contender Novi Sad 2026,WTT Youth Contender,69,Serbia,Novi Sad,europe,southern europe,2026-03-31T00:00:00,2026-04-03T00:00:00,,0,,,3297,,,,,,,WTT Youth Series
+,WTT Youth Contender Luxembourg 2026,WTT Youth Contender,69,Luxembourg,Luxembourg,europe,western europe,2026-04-08T00:00:00,2026-04-11T00:00:00,,0,,,3298,,,,,,,WTT Youth Series
+,WTT Youth Contender Humacao 2026,WTT Youth Contender,69,Puerto Rico,Humacao,americas,caribbean,2026-03-26T00:00:00,2026-03-29T00:00:00,,0,,,3299,,,,,,,WTT Youth Series
+,ITTF-Oceania Cup Christchurch 2026,Continental Cups,82,New Zealand,Christchurch,oceania,australasia,2026-01-31T00:00:00,2026-02-01T00:00:00,,,,,3300,,,,,,,
+,WTT Youth Contender Metz 2026,WTT Youth Contender,69,France,Metz,europe,western europe,2026-04-13T00:00:00,2026-04-16T00:00:00,,0,,,3301,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Metz 2026,WTT Youth Star Contender,68,France,Metz,europe,western europe,2026-04-17T00:00:00,2026-04-19T00:00:00,,0,,,3302,,,,,,,WTT Youth Series
+,WTT Youth Contender Sulaymaniyah 2026,WTT Youth Contender,69,Iraq,Sulaymaniyah,asia,west asia,2026-04-22T00:00:00,2026-04-25T00:00:00,,0,,,3303,,,,,,,WTT Youth Series
+,WTT Youth Contender Sarajevo 2026,WTT Youth Contender,69,Bosnia-Herzegovina,Sarajevo,europe,southern europe,2026-04-27T00:00:00,2026-04-30T00:00:00,,0,,,3304,,,,,,,WTT Youth Series
+,WTT Youth Contender Platja D'Aro 2026,WTT Youth Contender,69,Spain,"Platja d'Aro, Girona",europe,southern europe,2026-05-06T00:00:00,2026-05-09T00:00:00,,0,,,3305,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Bangkok 2026,WTT Youth Star Contender,68,Thailand,Bangkok,asia,south east asia,2026-05-22T00:00:00,2026-05-24T00:00:00,,0,,,3306,,,,,,,WTT Youth Series
+,WTT Youth Contender Mississauga 2026,WTT Youth Contender,69,Canada,Mississauga,americas,northern america,2026-05-15T00:00:00,2026-05-18T00:00:00,,0,,,3307,,,,,,,WTT Youth Series
+,WTT Youth Contender Bangkok 2026,WTT Youth Contender,69,Thailand,Bangkok,asia,south east asia,2026-05-18T00:00:00,2026-05-21T00:00:00,,0,,,3308,,,,,,,WTT Youth Series
+,WTT Youth Contender Prishtina 2026,WTT Youth Contender,69,Kosovo,Pristina,europe,southern europe,2026-05-22T00:00:00,2026-05-25T00:00:00,,0,,,3309,,,,,,,WTT Youth Series
+,WTT Youth Contender Sandefjord 2026,WTT Youth Contender,69,Norway,Sandefjord,europe,northern europe,2026-05-30T00:00:00,2026-06-02T00:00:00,,0,,,3310,,,,,,,WTT Youth Series
+,WTT Youth Contender Helsingborg 2026,WTT Youth Contender,69,Sweden,Helsingborg,europe,northern europe,2026-06-04T00:00:00,2026-06-07T00:00:00,,0,,,3311,,,,,,,WTT Youth Series
+,WTT Youth Contender Rio de Janeiro 2026,WTT Youth Contender,69,Brazil,Rio de Janeiro,americas,south america,2026-06-08T00:00:00,2026-06-11T00:00:00,,0,,,3312,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Rio de Janeiro 2026,WTT Youth Star Contender,68,Brazil,Rio de Janeiro,americas,south america,2026-06-12T00:00:00,2026-06-14T00:00:00,,0,,,3313,,,,,,,WTT Youth Series
+,WTT Youth Contender Tunis II 2026 ,WTT Youth Contender,69,Tunisia,Tunis,africa,north africa,2026-09-03T00:00:00,2026-09-06T00:00:00,,0,,,3314,,,,,,,WTT Youth Series
+,WTT Youth Contender Caracas 2026,WTT Youth Contender,69,Venezuela,Caracas,americas,south america,2026-06-24T00:00:00,2026-06-27T00:00:00,,0,,,3315,,,,,,,WTT Youth Series
+,WTT Youth Contender Hong Kong 2026,WTT Youth Contender,69,"Hong Kong, China",,asia,east asia,2026-07-06T00:00:00,2026-07-12T00:00:00,,0,,,3318,,,,,,,WTT Youth Series
+,WTT Youth Contender Ulaanbaatar 2026,WTT Youth Contender,69,Mongolia,Ulaanbaatar,asia,east asia,2026-07-14T00:00:00,2026-07-17T00:00:00,,0,,,3319,,,,,,,WTT Youth Series
+,WTT Youth Contender Tashkent 2026,WTT Youth Contender,69,Uzbekistan,Tashkent,asia,middle asia,2026-05-13T00:00:00,2026-05-16T00:00:00,,0,,,3320,,,,,,,WTT Youth Series
+,WTT Youth Contender Almaty 2026,WTT Youth Contender,69,Kazakhstan,Almaty,asia,middle asia,2026-07-24T00:00:00,2026-07-27T00:00:00,,0,,,3321,,,,,,,WTT Youth Series
+,WTT Youth Contender Vientiane 2026,WTT Youth Contender,69,Laos,Vientiane,asia,south east asia,2026-07-30T00:00:00,2026-08-02T00:00:00,,0,,,3322,,,,,,,WTT Youth Series
+,WTT Youth Contender Amman 2026,WTT Youth Contender,69,Jordan,Amman,asia,west asia,2026-08-05T00:00:00,2026-08-08T00:00:00,,0,,,3323,,,,,,,WTT Youth Series
+,WTT Youth Contender Varazdin 2026,WTT Youth Contender,69,Croatia,Varaždin,europe,southern europe,2026-08-25T00:00:00,2026-08-31T00:00:00,,0,,,3326,,,,,,,WTT Youth Series
+,WTT Youth Contender Otocec 2026,WTT Youth Contender,69,Slovenia,Otocec,europe,southern europe,2026-08-25T00:00:00,2026-08-31T00:00:00,,0,,,3328,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Gangneung 2026,WTT Youth Star Contender,68,Korea Republic,Gangneung,asia,east asia,2026-09-18T00:00:00,2026-09-20T00:00:00,,0,,,3329,,,,,,,WTT Youth Series
+,WTT Youth Contender Gangneung 2026,WTT Youth Contender,69,Korea Republic,Gangneung,asia,east asia,2026-09-14T00:00:00,2026-09-17T00:00:00,,0,,,3330,,,,,,,WTT Youth Series
+,WTT Youth Contender Bangkok II 2026,WTT Youth Contender,69,Thailand,Bangkok,asia,south east asia,2026-09-09T00:00:00,2026-09-12T00:00:00,,0,,,3331,,,,,,,WTT Youth Series
+,WTT Youth Contender Cuenca 2026,WTT Youth Contender,69,Ecuador,Cuenca,americas,south america,2026-09-03T00:00:00,2026-09-06T00:00:00,,0,,,3332,,,,,,,WTT Youth Series
+,WTT Youth Contender Batumi 2026,WTT Youth Contender,69,Georgia,Batumi,europe,southern europe,2026-09-27T00:00:00,2026-09-30T00:00:00,,0,,,3333,,,,,,,WTT Youth Series
+,WTT Youth Contender Pepinster 2026,WTT Youth Contender,69,Belgium,,europe,western europe,2026-09-21T00:00:00,2026-09-24T00:00:00,,0,,,3334,,,,,,,WTT Youth Series
+,WTT Youth Contender Doha II 2026,WTT Youth Contender,69,Qatar,Doha,asia,west asia,2026-10-13T00:00:00,2026-10-16T00:00:00,,0,,,3336,,,,,,,WTT Youth Series
+,WTT Youth Contender Monteria 2026,WTT Youth Contender,69,Colombia,Monteria,americas,south america,2026-09-09T00:00:00,2026-09-12T00:00:00,,0,,,3337,,,,,,,WTT Youth Series
+,WTT Youth Contender Lignano 2026,WTT Youth Contender,69,Italy,Lignano Sabbiadoro,europe,southern europe,2026-10-21T00:00:00,2026-10-27T00:00:00,,0,,,3338,,,,,,,WTT Youth Series
+,WTT Youth Contender Senec 2026,WTT Youth Contender,69,Slovak Republic,Senec,europe,eastern europe,2026-10-21T00:00:00,2026-10-27T00:00:00,,0,,,3339,,,,,,,WTT Youth Series
+,WTT Youth Contender Dubai 2026,WTT Youth Contender,69,United Arab Emirates,Dubai,asia,west asia,2026-10-18T00:00:00,2026-10-21T00:00:00,,0,,,3340,,,,,,,WTT Youth Series
+,WTT Youth Contender Szombathely 2026,WTT Youth Contender,69,Hungary,Szombathely,europe,eastern europe,2026-10-29T00:00:00,2026-11-01T00:00:00,,0,,,3344,,,,,,,WTT Youth Series
+,WTT Youth Contender Podgorica 2026,WTT Youth Contender,69,Montenegro,Podgorica,europe,southern europe,2026-11-03T00:00:00,2026-11-06T00:00:00,,0,,,3345,,,,,,,WTT Youth Series
+,WTT Youth Star Contender Podgorica 2026 ,WTT Youth Star Contender,68,Montenegro,Podgorica,europe,southern europe,2026-11-07T00:00:00,2026-11-09T00:00:00,,0,,,3346,,,,,,,WTT Youth Series
+,WTT Youth Contender Cairo 2026,WTT Youth Contender,69,Egypt,Cairo,africa,north africa,2026-10-02T00:00:00,2026-10-05T00:00:00,,0,,,3347,,,,,,,WTT Youth Series
+,WTT Youth Contender Puerto Princesa 2026,WTT Youth Contender,69,Philippines,Puerto Princesa,asia,south east asia,2026-09-03T00:00:00,2026-09-06T00:00:00,,0,,,3350,,,,,,,WTT Youth Series
+,WTT Feeder Düsseldorf II 2026,WTT Feeder,81,Germany,Düsseldorf,europe,western europe,2026-11-23T00:00:00,2026-11-27T00:00:00,,,,,3352,,,,,,,WTT Feeder Series
+,WTT Feeder Vadodara 2026,WTT Feeder,81,India,Vadodara,asia,south asia,2026-01-07T00:00:00,2026-01-11T00:00:00,,,,,3353,,,,,,,WTT Feeder Series
+,WTT Feeder Doha 2026,WTT Feeder,81,Qatar,Doha,asia,west asia,2026-01-27T00:00:00,2026-01-31T00:00:00,,,,,3354,,,,,,,WTT Feeder Series
+,WTT Feeder Lille 2026,WTT Feeder,81,France,Lille,europe,western europe,2026-01-27T00:00:00,2026-01-31T00:00:00,,,,,3355,,,,,,,WTT Feeder Series
+,WTT Feeder Varazdin 2026,WTT Feeder,81,Croatia,Varaždin,europe,southern europe,2026-03-12T00:00:00,2026-03-16T00:00:00,,,,,3356,,,,,,,WTT Feeder Series
+,WTT Feeder Senec 2026,WTT Feeder,81,Slovak Republic,Senec,europe,eastern europe,2026-04-18T00:00:00,2026-04-22T00:00:00,,,,,3357,,,,,,,WTT Feeder Series
+,WTT Feeder Istanbul 2026,WTT Feeder,81,Türkiye,Istanbul,europe,southern europe,2026-05-10T00:00:00,2026-05-14T00:00:00,,,,,3358,,,,,,,WTT Feeder Series
+,WTT Feeder Istanbul II 2026,WTT Feeder,81,Türkiye,Istanbul,europe,southern europe,2026-07-01T00:00:00,2026-07-05T00:00:00,,,,,3359,,,,,,,WTT Feeder Series
+,WTT Feeder Albufeira 2026,WTT Feeder,81,Portugal,Albufeira,europe,southern europe,2026-05-15T00:00:00,2026-05-19T00:00:00,,,,,3360,,,,,,,WTT Feeder Series
+,WTT Feeder Hennebont 2026,WTT Feeder,81,France,Hennebont,europe,western europe,2026-05-20T00:00:00,2026-05-24T00:00:00,,,,,3361,,,,,,,WTT Feeder Series
+,WTT Feeder Asunción 2026,WTT Feeder,81,Paraguay,Asunción,americas,south america,2026-07-08T00:00:00,2026-07-12T00:00:00,,,,,3363,,,,,,,WTT Feeder Series
+,WTT Feeder Ulaanbaatar 2026,WTT Feeder,81,Mongolia,Ulaanbaatar,asia,east asia,2026-07-19T00:00:00,2026-07-23T00:00:00,,,,,3364,,,,,,,WTT Feeder Series
+,WTT Feeder Tashkent 2026,WTT Feeder,81,Uzbekistan,Tashkent,asia,middle asia,2026-07-24T00:00:00,2026-07-28T00:00:00,,,,,3365,,,,,,,WTT Feeder Series
+,WTT Youth Contender Tashkent II 2026,WTT Youth Contender,69,Uzbekistan,Tashkent,asia,middle asia,2026-07-19T00:00:00,2026-07-22T00:00:00,,0,,,3366,,,,,,,WTT Youth Series
+,WTT Youth Contender Asunción II 2026,WTT Youth Contender,69,Paraguay,Asunción,americas,south america,2026-09-27T00:00:00,2026-09-30T00:00:00,,0,,,3367,,,,,,,WTT Youth Series
+,WTT Youth Contender Buenos Aires II 2026,WTT Youth Contender,69,Argentina,Buenos Aires,americas,south america,2026-10-02T00:00:00,2026-10-05T00:00:00,,0,,,3368,,,,,,,WTT Youth Series
+,WTT Youth Contender Chennai 2026,WTT Youth Contender,69,India,Chennai,asia,south asia,2026-10-23T00:00:00,2026-10-26T00:00:00,,0,,,3369,,,,,,,WTT Youth Series
+,WTT Feeder Vila Nova de Gaia 2026,WTT Feeder,81,Portugal,Vila Nova de Gaia,europe,southern europe,2026-11-04T00:00:00,2026-11-08T00:00:00,,,,,3370,,,,,,,WTT Feeder Series
+,WTT Feeder Bangkok 2026,WTT Feeder,81,Thailand,Bangkok,asia,south east asia,2026-09-14T00:00:00,2026-09-18T00:00:00,,,,,3371,,,,,,,WTT Feeder Series
+,WTT Feeder Tunis 2026,WTT Feeder,81,Tunisia,Tunis,africa,north africa,2026-07-29T00:00:00,2026-08-02T00:00:00,,,,,3372,,,,,,,WTT Feeder Series
+,WTT Feeder Cappadocia II 2026,WTT Feeder,81,Türkiye,Cappadocia - Nevsehir,europe,southern europe,2026-04-07T00:00:00,2026-04-11T00:00:00,,,,,3373,,,,,,,WTT Feeder Series
+,WTT Feeder Berlin 2026,WTT Feeder,81,Germany,Berlin,europe,western europe,2026-08-19T00:00:00,2026-08-23T00:00:00,,,,,3374,,,,,,,WTT Feeder Series
+,WTT Feeder Linz 2026,WTT Feeder,81,Austria,Linz,europe,western europe,2026-09-23T00:00:00,2026-09-27T00:00:00,,,,,3375,,,,,,,WTT Feeder Series
+,WTT Feeder Chennai 2026,WTT Feeder,81,India,Chennai,asia,south asia,2026-10-28T00:00:00,2026-11-01T00:00:00,,,,,3376,,,,,,,WTT Feeder Series
+,ITTF World Youth Championships 2026,World Youth Championships,30,Bahrain,Manama,asia,west asia,2026-11-21T00:00:00,2026-11-28T00:00:00,,,,,3377,,,,,,,
+,ITTF Mixed Team World Cup Chengdu 2026,World Mixed Team Championships,93,China,Chengdu,asia,east asia,2026-11-29T00:00:00,2026-12-06T00:00:00,,,,,3378,,,,,,,
+,ITTF Men’s & Women’s World Cups Macao 2026,Singles World Cup,95,"Macao, China",,asia,east asia,2026-03-30T00:00:00,2026-04-05T00:00:00,,,,,3379,,,,,,,
+,European Youth Championships Gondomar 2026,Youth Continental Championships,87,Portugal,Ostrava,europe,southern europe,2026-07-10T00:00:00,2026-07-17T00:00:00,,5437,,,3392,,,,,,,
+, European Individual Championships Ljubljana 2026,Continental Championships,79,Slovenia,Otocec,europe,southern europe,2026-10-11T00:00:00,2026-10-18T00:00:00,,5440,,,3394,,,,,,,
+,European U13 Championships Nevsehir 2026,Youth Continental Championships,87,Türkiye,,europe,southern europe,2026-11-11T00:00:00,2026-11-15T00:00:00,,5437,,,3395,,,,,,,
+,ITTF-Americas Cup San Francisco 2026,Continental Cups,82,USA,San Francisco,americas,northern america,2026-01-28T00:00:00,2026-02-01T00:00:00,,5066,,,3398,,,,,,,
+,South America U11&U13 Championships Asuncion 2026,ITTF International Youth Open,84,Paraguay,Asunción,americas,south america,2026-03-14T00:00:00,2026-03-20T00:00:00,,,,,3399,,,,,,,
+,South America U11&U13 Championships Asuncion 2026,ITTF International Youth Open,84,Paraguay,Asunción,americas,south america,2026-03-14T00:00:00,2026-03-20T00:00:00,,,,,3399,,,,,,,
+https://asia.ittf.com/pages/37/1st%20asian%20veteran%20table%20tennis%20championships_8675,South America Masters Championships Lima 2026,Veteran Championships,55,Peru,Lima,americas,south america,2026-03-28T00:00:00,2026-04-04T00:00:00,,,,,3400,,,,,,,
+,Caribbean Youth Championships Santo Domingo 2026,ITTF International Youth Open,84,Dominican Republic,Bridgetown,americas,caribbean,2026-04-06T00:00:00,2026-04-12T00:00:00,,5524,,,3402,,,,,,,
+,Central America & Caribbean Championships Santo Domingo 2026,WTTC Finals Regional Qualifications,83,Dominican Republic,Kampala,americas,caribbean,2026-04-15T00:00:00,2026-04-21T00:00:00,,,,,3403,,,,,,,
+,South America Youth Championships Rio de Janeiro 2026,ITTF International Youth Open,84,Brazil,Monteria,americas,south america,2026-04-15T00:00:00,2026-04-21T00:00:00,,,,,3404,,,,,,,
+,South America Youth Championships Rio de Janeiro 2026,ITTF International Youth Open,84,Brazil,Monteria,americas,south america,2026-04-15T00:00:00,2026-04-21T00:00:00,,,,,3404,,,,,,,
+,IV South America Youth Games Panama 2026,ITTF International Youth Open,84,Panama,Monteria,americas,central america,2026-04-13T00:00:00,2026-04-18T00:00:00,,,,,3405,,,,,,,
+,IV South America Youth Games Panama 2026,ITTF International Youth Open,84,Panama,Monteria,americas,central america,2026-04-13T00:00:00,2026-04-18T00:00:00,,,,,3405,,,,,,,
+,Central America Youth Championships Panama 2026,ITTF International Youth Open,84,Panama,Guatemala City,americas,central america,2026-05-01T00:00:00,2026-05-01T00:00:00,,,,,3406,,,,,,,
+,South America Championships Santiago 2026,WTTC Finals Regional Qualifications,83,Chile,Santiago,americas,south america,2026-06-15T00:00:00,2026-06-21T00:00:00,,,,,3407,,,,,,,
+,Central America & Caribbean U11&U13 Championships 2026,ITTF International Youth Open,84,Mexico,,americas,central america,2026-07-01T00:00:00,2026-07-01T00:00:00,,,,,3408,,,,,,,
+,Central America & Caribbean U11&U13 Championships 2026,ITTF International Youth Open,84,Mexico,,americas,central america,2026-07-01T00:00:00,2026-07-01T00:00:00,,,,,3408,,,,,,,
+,XXV Central American and Caribbean Games Santo Domingo 2026,Multi-Sport Games,77,Dominican Republic,Santiago,americas,caribbean,2026-07-24T00:00:00,2026-08-08T00:00:00,,,,,3409,,,,,,,
+,XXV Central American and Caribbean Games Santo Domingo 2026,Continental Championships,79,Dominican Republic,Santiago,americas,caribbean,2026-07-24T00:00:00,2026-08-08T00:00:00,,,,,3409,,,,,,,
+,ITTF Americas Youth Championships Guatemala City 2026 ,Youth Continental Championships,87,Guatemala,Rosario,americas,central america,2026-08-23T00:00:00,2026-08-30T00:00:00,,,,,3410,,,,,,,
+,ITTF Americas U11&U13 Championships 2026,ITTF International Youth Open,84,USA,Antigua,americas,northern america,2026-09-07T00:00:00,2026-09-14T00:00:00,,,,,3411,,,,,,,
+,ITTF Americas U11&U13 Championships 2026,ITTF International Youth Open,84,USA,Antigua,americas,northern america,2026-09-07T00:00:00,2026-09-14T00:00:00,,,,,3411,,,,,,,
+,XIII South American Games Santa Fe 2026,Multi-Sport Games,77,Argentina,Rosario,americas,south america,2026-09-12T00:00:00,2026-09-26T00:00:00,,5449,,,3412,,,,,,,
+https://asia.ittf.com/pages/37/1st%20asian%20veteran%20table%20tennis%20championships_8675,Central America Masters Championships Tegucigalpa 2026,Veteran Championships,55,Honduras,Tegucigalpa,americas,central america,2026-09-12T00:00:00,2026-09-15T00:00:00,,,,,3413,,,,,,,
+, ITTF-Americas Championships Lima 2026,Continental Championships,79,Peru,Lima,americas,south america,2026-10-18T00:00:00,2026-10-25T00:00:00,,,,,3414,,,,,,,
+,WTT Feeder Puerto Princesa 2026,WTT Feeder,81,Philippines,Linz,asia,south east asia,2026-09-08T00:00:00,2026-09-12T00:00:00,,,,,3415,,,,,,,WTT Feeder Series
+,South Africa Championships Harare 2025,WTTC Finals Regional Qualifications,83,Zimbabwe,Harare,africa,southern africa,2026-07-10T00:00:00,2026-07-12T00:00:00,,,,,3449,,,,,,,
