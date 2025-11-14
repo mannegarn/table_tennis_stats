@@ -2,14 +2,9 @@ import pandas as pd
 import glicko2
 from tqdm import tqdm
 import numpy as np
-import math # Needed for the Glicko/Elo formula
+import math
 
-# --- CONFIGURATION ---
-# IMPORTANT: Check that this is the correct column name in your DataFrame
-# that holds the 'home', 'away', or 'tie' value.
-WINNER_COLUMN_NAME = 'Winner' 
-
-def calculate_glicko2_ratings(players_df, matches_df):
+def calculate_glicko2_ratings(players_df, matches_df, info_string: str = ""):
     
     """
     Calculates Glicko-2 ratings by iterating chronologically through all matches.
@@ -18,16 +13,16 @@ def calculate_glicko2_ratings(players_df, matches_df):
     Args:
         players_df (pd.DataFrame): DataFrame containing at least 'playerId'.
         matches_df (pd.DataFrame): DataFrame with 'matchDate', 'winnerId', 'loserId', 
-                                         'documentCode', 'dnf', and the WINNER_COLUMN_NAME,
-                                         'winnerName', 'loserName', 'winnerCountry', 'loserCountry',
-                                         'EventName'.
+                                     'documentCode', 'dnf', 'Winner', 'winnerName', 
+                                     'loserName', 'winnerCountry', 'loserCountry', 'EventName'.
+        info_string (str, optional): A string to append to all non-metadata (data) columns. 
+                                     Defaults to "".
 
     Returns:
-        pd.DataFrame: A new DataFrame with match ratings (pre and post and delta) for every match, 
-                      with final numeric output rounded to 2 decimal places.
+        pd.DataFrame: A new DataFrame with match ratings (pre and post and delta) for every match.
     """
 
-    print("--- 🟢 Commencing Glicko-2 Rating Calculation 🟢---")
+    print(f"--- 🟢 Commencing Glicko-2 Rating Calculation ({info_string or 'Default'}) 🟢---")
     
     # 1. Initialize the player "cache"
     print("Initializing player rating cache...")
@@ -55,6 +50,7 @@ def calculate_glicko2_ratings(players_df, matches_df):
 
     print(f"🏓 {num_matches_to_rate} matches to rate out of {num_original_matches} total matches. 🏓")
 
+    # --- 2. Initialize ratings_history (Original column names) ---
     ratings_history = {
         # --- METADATA COLUMNS (NOW STANDALONE) ---
         'eventId': np.empty(num_matches_to_rate, dtype=int),
@@ -67,7 +63,7 @@ def calculate_glicko2_ratings(players_df, matches_df):
         'loserId': np.empty(num_matches_to_rate, dtype=int),
         'loserName': np.empty(num_matches_to_rate, dtype=object),
         'loserCountry': np.empty(num_matches_to_rate, dtype=object),
-        'Winner': np.empty(num_matches_to_rate, dtype=object), # <-- NEW COLUMN
+        'Winner': np.empty(num_matches_to_rate, dtype=object),
         
         # --- PRE-MATCH RATINGS ---
         'winner_rating_pre': np.empty(num_matches_to_rate, dtype=float),
@@ -86,7 +82,7 @@ def calculate_glicko2_ratings(players_df, matches_df):
         # --- DELTA & ANALYSIS COLUMNS ---
         'winner_rating_delta': np.empty(num_matches_to_rate, dtype=float),
         'loser_rating_delta': np.empty(num_matches_to_rate, dtype=float),
-        'rating_difference_pre': np.empty(num_matches_to_rate, dtype=float), # <-- RENAMED
+        'rating_difference_pre': np.empty(num_matches_to_rate, dtype=float), 
         'expected_outcome': np.empty(num_matches_to_rate, dtype=float),
         
         # --- MATCH COUNT COLUMNS ---
@@ -94,6 +90,7 @@ def calculate_glicko2_ratings(players_df, matches_df):
         'loser_matches_played': np.empty(num_matches_to_rate, dtype=int),
     }
 
+    # --- 3. Main Loop (Unaltered, populates with original names) ---
     for i, row in enumerate(tqdm(matches_to_rate_df.itertuples(index=False), total=num_matches_to_rate)):
         try:
             winner_id = int(row.winnerId)
@@ -111,7 +108,7 @@ def calculate_glicko2_ratings(players_df, matches_df):
             rating_difference = loser_rating_pre - winner_rating_pre
             expected_win_chance = 1 / (1 + math.pow(10, rating_difference / 400))
             
-            match_outcome = getattr(row, WINNER_COLUMN_NAME, None) # Get 'home', 'away', 'tie'
+            match_outcome = getattr(row, "Winner", None) 
 
             # --- Store All Columns ---
             ratings_history['eventId'][i] = row.eventId
@@ -124,7 +121,7 @@ def calculate_glicko2_ratings(players_df, matches_df):
             ratings_history['loserId'][i] = loser_id 
             ratings_history['loserName'][i] = row.loserName
             ratings_history['loserCountry'][i] = row.loserCountry
-            ratings_history['Winner'][i] = match_outcome # <-- STORE THE WINNER/TIE STATUS
+            ratings_history['Winner'][i] = match_outcome
             
             ratings_history['winner_rating_pre'][i] = winner_rating_pre
             ratings_history['winner_rd_pre'][i] = winner_obj.rd
@@ -133,7 +130,7 @@ def calculate_glicko2_ratings(players_df, matches_df):
             ratings_history['loser_rd_pre'][i] = loser_obj.rd
             ratings_history['loser_vol_pre'][i] = loser_obj.vol
 
-            ratings_history['rating_difference_pre'][i] = winner_rating_pre - loser_rating_pre # <-- RENAMED
+            ratings_history['rating_difference_pre'][i] = winner_rating_pre - loser_rating_pre
             ratings_history['expected_outcome'][i] = expected_win_chance
 
             if match_outcome == 'tie':
@@ -158,11 +155,9 @@ def calculate_glicko2_ratings(players_df, matches_df):
 
         
         except KeyError as e:
-            # print(f"Warning: Player ID {e} not in cache. Skipping match {row.documentCode}.")
             ratings_history['documentCode'][i] = row.documentCode
             ratings_history['winner_rating_pre'][i] = np.nan
         except Exception as e:
-            # print(f"Error processing match {row.documentCode}: {e}")
             ratings_history['documentCode'][i] = row.documentCode
             ratings_history['winner_rating_pre'][i] = np.nan
 
@@ -171,12 +166,190 @@ def calculate_glicko2_ratings(players_df, matches_df):
     results_df = pd.DataFrame(ratings_history)
     results_df = results_df.dropna(subset=['winner_rating_pre'])
 
-    # Round all float columns at the end
     float_cols = [col for col in results_df.columns if results_df[col].dtype == np.float64]
     results_df[float_cols] = results_df[float_cols].round(2)
     
-    # Convert ID and new count columns to integer
     id_cols = ['winnerId', 'loserId', 'winner_matches_played', 'loser_matches_played']
     results_df[id_cols] = results_df[id_cols].astype(int)
 
+    # --- 4. NEW: DYNAMICALLY RENAME COLUMNS ---
+    if info_string:
+        suffix = f" ({info_string})"
+        
+        # Define metadata columns that should NOT be renamed
+        metadata_cols = {
+            'eventId', 'EventName', 'documentCode', 'matchDate', 
+            'winnerId', 'winnerName', 'winnerCountry', 
+            'loserId', 'loserName', 'loserCountry', 'Winner'
+        }
+        
+        # Find all data columns (those not in metadata_cols)
+        data_cols = [col for col in results_df.columns if col not in metadata_cols]
+        
+        # Create the rename dictionary
+        rename_dict = {col: f"{col}{suffix}" for col in data_cols}
+        
+        results_df = results_df.rename(columns=rename_dict)
+        print(f"✅ Renamed data columns with suffix: {suffix}")
+
     return results_df
+
+def get_final_player_stats(ratings_df: pd.DataFrame, info_string: str = "") -> pd.DataFrame:
+    """
+    Calculates final, max, and average Glicko-2 ratings for every player
+    from the historical match ratings DataFrame.
+    Final output columns are in camelCase.
+
+    Args:
+        ratings_df (pd.DataFrame): The DataFrame generated by calculate_glicko2_ratings.
+        info_string (str, optional): A string to append to all non-metadata (data) columns. 
+                                     Defaults to "".
+
+    Returns:
+        pd.DataFrame: A DataFrame indexed by playerId, showing aggregated career statistics.
+    """
+    print(f"--- 📊 Aggregating Final Player Statistics ({info_string or 'Default'}) ---")
+    
+    # --- 1. Define Suffix based on info_string ---
+    suffix = f" ({info_string})" if info_string else ""
+
+    # --- 2. Prepare data by stacking winner and loser columns ---
+    
+    # Define columns to select, now with the suffix
+    winner_cols = [
+        'winnerId', 'winnerName', 'winnerCountry', 'matchDate', 
+        f'winner_rating_post{suffix}', f'winner_rating_pre{suffix}', 
+        f'winner_rd_post{suffix}', f'winner_matches_played{suffix}'
+    ]
+    
+    df_winner_role = ratings_df[winner_cols].rename(columns={
+        'winnerId': 'playerId', 
+        'winnerName': 'playerName', 
+        'winnerCountry': 'playerCountry',
+        f'winner_rating_post{suffix}': 'final_rating',
+        f'winner_rating_pre{suffix}': 'pre_rating',
+        f'winner_rd_post{suffix}': 'final_rd',
+        f'winner_matches_played{suffix}': 'total_matches'
+    })
+    # --- ADDED: 'is_win' column ---
+    df_winner_role['is_win'] = 1
+    
+    loser_cols = [
+        'loserId', 'loserName', 'loserCountry', 'matchDate', 
+        f'loser_rating_post{suffix}', f'loser_rating_pre{suffix}', 
+        f'loser_rd_post{suffix}', f'loser_matches_played{suffix}'
+    ]
+
+    df_loser_role = ratings_df[loser_cols].rename(columns={
+        'loserId': 'playerId', 
+        'loserName': 'playerName', 
+        'loserCountry': 'playerCountry',
+        f'loser_rating_post{suffix}': 'final_rating',
+        f'loser_rating_pre{suffix}': 'pre_rating',
+        f'loser_rd_post{suffix}': 'final_rd',
+        f'loser_matches_played{suffix}': 'total_matches'
+    })
+    # --- ADDED: 'is_win' column ---
+    df_loser_role['is_win'] = 0
+    
+    df_stacked = pd.concat([df_winner_role, df_loser_role], ignore_index=True)
+
+    # --- 3. Group and aggregate the statistics ---
+    agg_funcs = {
+        'pre_rating': ['mean', 'max', 'idxmax'],
+        'final_rd': 'last',
+        'total_matches': 'max',
+        'is_win': 'sum',  # --- ADDED: Sum of wins ---
+        'playerName': 'last', 
+        'playerCountry': 'last',
+        'matchDate': 'last', 
+        'final_rating': 'last',
+    }
+    
+    player_stats = df_stacked.groupby('playerId').agg(agg_funcs)
+    
+    player_stats.columns = [
+        f'{col[0]}_{col[1]}' if col[1] != '' else col[0] 
+        for col in player_stats.columns
+    ]
+    
+    # --- 4. Extract the Date of Max Rating and Clean Dates ---
+    max_rating_indices = player_stats['pre_rating_idxmax']
+    player_stats['Rating_Max_Date'] = df_stacked.loc[max_rating_indices.values, 'matchDate'].values
+    player_stats.drop(columns='pre_rating_idxmax', inplace=True)
+    
+    # --- 5. Final Cleanup and Naming (PascalCase) ---
+    player_stats.rename(columns={
+        'pre_rating_mean': 'Rating_Avg',
+        'pre_rating_max': 'Rating_Max',
+        'final_rating_last': 'Rating_Final',
+        'final_rd_last': 'RD_Final',
+        'total_matches_max': 'TotalMatches',
+        'is_win_sum': 'TotalWins', # --- ADDED: Rename sum of wins ---
+        'playerName_last': 'PlayerName',
+        'playerCountry_last': 'PlayerCountry',
+        'matchDate_last': 'Rating_Final_Date', 
+    }, inplace=True)
+
+    # --- ADDED: Calculate WinRate ---
+    player_stats['WinRate'] = (
+        (player_stats['TotalWins'] / player_stats['TotalMatches']) * 100
+    ).fillna(0) # Handle potential 0/0 for players with 0 matches
+
+    player_stats['Rating_Final_Date'] = player_stats['Rating_Final_Date'].str.split('T').str[0]
+    player_stats['Rating_Max_Date'] = player_stats['Rating_Max_Date'].str.split('T').str[0]
+    
+    player_stats = player_stats.sort_values(by=['Rating_Final'], ascending=False)
+    
+    float_cols = [col for col in player_stats.columns if player_stats[col].dtype == np.float64]
+    player_stats[float_cols] = player_stats[float_cols].round(2)
+    
+    # --- 6. Apply info_string Suffix ---
+    if info_string:
+        metadata_cols = {
+            'playerId', 'PlayerName', 'PlayerCountry'
+        }
+        
+        data_cols = [col for col in player_stats.columns if col not in metadata_cols]
+        
+        rename_dict = {col: f"{col}{suffix}" for col in data_cols}
+        
+        player_stats = player_stats.rename(columns=rename_dict)
+        print(f"✅ Renamed aggregated columns with suffix: {suffix}")
+
+    # --- 7. Convert all columns to camelCase ---
+    camel_case_rename_dict = {
+        'PlayerName': 'playerName',
+        'PlayerCountry': 'playerCountry',
+        f'Rating_Final{suffix}': f'ratingFinal{suffix}',
+        f'TotalMatches{suffix}': f'totalMatches{suffix}',
+        f'TotalWins{suffix}': f'totalWins{suffix}',       # --- ADDED ---
+        f'WinRate{suffix}': f'winRate{suffix}',         # --- ADDED ---
+        f'Rating_Avg{suffix}': f'ratingAvg{suffix}',
+        f'Rating_Max{suffix}': f'ratingMax{suffix}',
+        f'Rating_Max_Date{suffix}': f'ratingMaxDate{suffix}',
+        f'RD_Final{suffix}': f'rdFinal{suffix}',
+        f'Rating_Final_Date{suffix}': f'ratingFinalDate{suffix}',
+    }
+    player_stats = player_stats.rename(columns=camel_case_rename_dict)
+    
+    # --- 8. Reorder Columns ---
+    final_cols_order = [
+        'playerId', 
+        'playerName', 
+        'playerCountry', 
+        f'ratingFinal{suffix}', 
+        f'totalMatches{suffix}', 
+        f'totalWins{suffix}',     # --- ADDED ---
+        f'winRate{suffix}',       # --- ADDED ---
+        f'ratingAvg{suffix}', 
+        f'ratingMax{suffix}', 
+        f'ratingMaxDate{suffix}',
+        f'rdFinal{suffix}',
+        f'ratingFinalDate{suffix}',
+    ]
+    
+    player_stats = player_stats.reset_index()[final_cols_order]
+    
+    print(f"✅ Aggregation complete. Found {len(player_stats)} unique players with match history.")
+    return player_stats
