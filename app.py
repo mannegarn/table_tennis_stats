@@ -4,6 +4,10 @@ import pandas as pd
 import os
 import re
 import glob
+from PIL import Image, ImageOps
+from streamlit_theme import st_theme
+
+
 
 
 try:
@@ -20,6 +24,14 @@ st.set_page_config(
     page_icon="🏓",
     layout="wide"
 )
+
+theme_dict = st_theme() # Call the component ONCE
+    
+# Extract the base string ("light" or "dark")
+if theme_dict and theme_dict.get("base"):
+    theme = theme_dict.get("base")
+else:
+    theme= "light" # Default fallback
 
 # load and cache data - 
 @st.cache_data
@@ -128,7 +140,6 @@ if not master_matches_df.empty and not master_players_df.empty and not master_ev
     st.header("🏆 Player Leaderboards (Top 5)")
 
     # --- Helper Function to prepare all data (cached for performance) ---
-    @st.cache_data
     def get_leaderboard_data(players_df, matches_df):
         """
         Runs all Glicko and WinRate calculations for Men and Women
@@ -170,18 +181,16 @@ if not master_matches_df.empty and not master_players_df.empty and not master_ev
         )
         
         # --- 6. *** NEW FIX: Merge Player Metadata *** ---
-        # This is the step we were missing.
-        # We get the name, flag, and photo from the master players file.
-        # (Assuming get_final_player_stats already returns 'playerName')
-        metadata_cols = ['playerId', 'HeadShot', 'flagUrl']
+        # ADD 'Gender' to this list
+        metadata_cols = ['playerId', 'HeadShot', 'flagUrl', 'Gender'] 
         
         men_stats = men_stats.merge(
-            players_df[metadata_cols],
+            players_df[metadata_cols], # Pass 'Gender' from the main players_df
             on='playerId',
             how='left'
         )
         women_stats = women_stats.merge(
-            players_df[metadata_cols],
+            players_df[metadata_cols], # Pass 'Gender' from the main players_df
             on='playerId',
             how='left'
         )
@@ -210,7 +219,7 @@ if not master_matches_df.empty and not master_players_df.empty and not master_ev
         st.markdown("##### Men")
         st.dataframe(
             top_men_matches[['playerName', 'totalMatches']], 
-            hide_index=True, use_container_width=True
+            hide_index=True, width="stretch"
         )
         
         # --- WOMEN ---
@@ -218,7 +227,7 @@ if not master_matches_df.empty and not master_players_df.empty and not master_ev
         st.markdown("##### Women")
         st.dataframe(
             top_women_matches[['playerName', 'totalMatches']], 
-            hide_index=True, use_container_width=True
+            hide_index=True, width="stretch"
         )
 
     # ----------------- COLUMN 2: BEST WIN RATE -----------------
@@ -233,7 +242,7 @@ if not master_matches_df.empty and not master_players_df.empty and not master_ev
             column_config={"WinRate": st.column_config.ProgressColumn(
                 "Win Rate", format="%.1f%%", min_value=0, max_value=100
             )},
-            hide_index=True, use_container_width=True
+            hide_index=True, width="stretch"
         )
         
         # --- WOMEN ---
@@ -244,7 +253,7 @@ if not master_matches_df.empty and not master_players_df.empty and not master_ev
             column_config={"WinRate": st.column_config.ProgressColumn(
                 "Win Rate", format="%.1f%%", min_value=0, max_value=100
             )},
-            hide_index=True, use_container_width=True
+            hide_index=True, width="stretch"
         )
 
     # ----------------- COLUMN 3: HIGHEST RATING -----------------
@@ -256,7 +265,7 @@ if not master_matches_df.empty and not master_players_df.empty and not master_ev
         st.markdown("##### Men")
         st.dataframe(
             top_men_rating[['playerName', 'ratingFinal']], 
-            hide_index=True, use_container_width=True
+            hide_index=True, width="stretch"
         )
         
         # --- WOMEN ---
@@ -264,109 +273,127 @@ if not master_matches_df.empty and not master_players_df.empty and not master_ev
         st.markdown("##### Women")
         st.dataframe(
             top_women_rating[['playerName', 'ratingFinal']], 
-            hide_index=True, use_container_width=True
+            hide_index=True, width="stretch"
             
-        )
+            )
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# --- 1. Add this NEW helper function to your app.py ---
-# This function replaces st.dataframe for your leaderboards
+    # --- 2. Correct the DEFAULT_HEADSHOTS dictionary ---
+    # Join the BASE_DIR with the relative path to create the absolute file path
+    DEFAULT_HEADSHOTS={
+    "light":{
+        "M": os.path.join(BASE_DIR, "imgs", "men_light.png"),
+        "F": os.path.join(BASE_DIR, "imgs", "women_light.png")},
+    "dark": {
+        "M": os.path.join(BASE_DIR, "imgs", "men_dark.png"),
+        "F": os.path.join(BASE_DIR, "imgs", "women_dark.png")}
+    }
+   
 
-def display_final_leaderboard(df: pd.DataFrame, metric_col: str, metric_label: str, image_width: int = 80) -> None:
-    """
-    Renders a top-N leaderboard using custom columns and st.image for full size control.
-    
-    Args:
-        df (pd.DataFrame): DataFrame sorted and ready for display (e.g., top 5).
-        metric_col (str): The column name for the primary metric to display (e.g., 'totalMatches').
-        metric_label (str): The display label for the metric (e.g., 'Total Matches').
-        image_width (int): The pixel width to use for the main player HeadShot.
-    """
-    
-    # Create the column headers first
-    st.markdown(f"**#** | **PLAYER** | **{metric_label.upper()}**", unsafe_allow_html=True)
-    st.markdown("---")
-
-    # Loop through the rows to display
-    for i, row in enumerate(df.itertuples()):
-        rank = i + 1
+    def display_final_leaderboard(df: pd.DataFrame, metric_col: str, metric_label: str, image_width: int = 80) -> None:
+        """
+        Renders a top-N leaderboard using custom columns and st.image for full size control.
+        """
         
-        # Define the layout for each row: [Rank (1) | Image (3) | Name (5) | Metric (3)]
-        col_rank, col_img, col_name, col_metric = st.columns([1, 2, 5, 3])
+        # --- 1. THE FIX: Get the theme ONCE at the start of the function ---
+        # Call the st_theme() function
+        
+        
+        # Create the column headers first
+        st.markdown(f"**#** | **PLAYER** | **{metric_label.upper()}**", unsafe_allow_html=True)
+        st.markdown("---")
 
-        # Column 1: Rank
-        with col_rank:
-            st.markdown(f"### {rank}")
+        # Loop through the rows to display
+        for i, row in enumerate(df.itertuples()):
+            rank = i + 1
+            
+            col_rank, col_img, col_name, col_metric = st.columns([1, 2, 5, 3])
 
-        # Column 2: Image
-        with col_img:
-            # Control the size directly with st.image
-            if pd.notna(row.HeadShot):
-                st.image(row.HeadShot, width=image_width) 
-            
-        # Column 3: Name and Flag (Use a small nested column for the flag)
-        with col_name:
-            flag_col, name_col = st.columns([1, 6])
-            
-            # Display Flag (using a much smaller width)
-            if pd.notna(row.flagUrl):
-                flag_col.image(row.flagUrl, width=30)
-            
-            name_col.markdown(f"**{row.playerName}**")
+            # Column 1: Rank
+            with col_rank:
+                st.markdown(f"### {rank}")
 
-        # Column 4: Metric
-        with col_metric:
-            if metric_col == "WinRate":
-                st.metric(metric_label, f"{row.WinRate:.1f}%")
-            else:
-                metric_val = getattr(row, metric_col)
-                st.metric(metric_label, f"{metric_val:,.0f}")
+            # Column 2: Image
+            with col_img:
+              
+            
+                if pd.notna(row.HeadShot):
+                    # Remote URL (works fine)
+                    st.image(row.HeadShot, width=image_width) 
+                else:
+                    
+                    try:
+                        # --- 3. THE FIX: Use the 'current_theme' variable ---
+                        default_headshot_path = DEFAULT_HEADSHOTS[theme][row.Gender]
+                        st.image(default_headshot_path, width=image_width)
+                    except KeyError:
+                        st.warning("Default key error.")
+                    except Exception as e:
+                        st.error("Image load error.")
                 
+            # Column 3: Name and Flag
+            with col_name:
+                flag_col, name_col = st.columns([1, 6])
+                
+                if pd.notna(row.flagUrl):
+                    flag_col.image(row.flagUrl, width=30)
+                
+                name_col.markdown(f"**{row.playerName}**")
+
+            # Column 4: Metric
+            with col_metric:
+                if metric_col == "WinRate":
+                    st.metric(metric_label, f"{row.WinRate:.1f}%")
+                else:
+                    metric_val = getattr(row, metric_col)
+                    st.metric(metric_label, f"{metric_val:,.0f}")
+                    
     st.markdown("---")
 
 
-# --- 2. REPLACE your "Display Leaderboards" section with this ---
-# (This code calls the new function)
+    # --- 2. REPLACE your "Display Leaderboards" section with this ---
+    # (This code calls the new function)
 
-col1, col2, col3 = st.columns(3)
+    col1, col2, col3 = st.columns(3)
 
-# ----------------- COLUMN 1: MOST MATCHES -----------------
-with col1:
-    st.subheader("Most Matches Played")
-    
-    # --- MEN ---
-    top_men_matches = men_stats_df.sort_values(by='totalMatches', ascending=False).head(5)
-    st.markdown("##### Men")
-    display_final_leaderboard(top_men_matches, "totalMatches", "Total Matches")
-    
-    # --- WOMEN ---
-    top_women_matches = women_stats_df.sort_values(by='totalMatches', ascending=False).head(5)
-    st.markdown("##### Women")
-    display_final_leaderboard(top_women_matches, "totalMatches", "Total Matches")
+    # ----------------- COLUMN 1: MOST MATCHES -----------------
+    with col1:
+        st.subheader("Most Matches Played")
+        
+        # --- MEN ---
+        top_men_matches = men_stats_df.sort_values(by='totalMatches', ascending=False).head(5)
+        st.markdown("##### Men")
+        display_final_leaderboard(top_men_matches, "totalMatches", "Total Matches")
+        
+        # --- WOMEN ---
+        top_women_matches = women_stats_df.sort_values(by='totalMatches', ascending=False).head(5)
+        st.markdown("##### Women")
+        display_final_leaderboard(top_women_matches, "totalMatches", "Total Matches")
 
-# ----------------- COLUMN 2: BEST WIN RATE -----------------
-with col2:
-    st.subheader("Best Win Rate (%)")
-    
-    # --- MEN ---
-    top_men_winrate = men_stats_df.sort_values(by='WinRate', ascending=False).head(5)
-    st.markdown("##### Men")
-    display_final_leaderboard(top_men_winrate, "WinRate", "Win Rate")
-    
-    # --- WOMEN ---
-    top_women_winrate = women_stats_df.sort_values(by='WinRate', ascending=False).head(5)
-    st.markdown("##### Women")
-    display_final_leaderboard(top_women_winrate, "WinRate", "Win Rate")
+    # ----------------- COLUMN 2: BEST WIN RATE -----------------
+    with col2:
+        st.subheader("Best Win Rate (%)")
+        
+        # --- MEN ---
+        top_men_winrate = men_stats_df.sort_values(by='WinRate', ascending=False).head(5)
+        st.markdown("##### Men")
+        display_final_leaderboard(top_men_winrate, "WinRate", "Win Rate")
+        
+        # --- WOMEN ---
+        top_women_winrate = women_stats_df.sort_values(by='WinRate', ascending=False).head(5)
+        st.markdown("##### Women")
+        display_final_leaderboard(top_women_winrate, "WinRate", "Win Rate")
 
-# ----------------- COLUMN 3: HIGHEST RATING -----------------
-with col3:
-    st.subheader("Highest Glicko-2 Rating")
-    
-    # --- MEN ---
-    top_men_rating = men_stats_df.sort_values(by='ratingFinal', ascending=False).head(5)
-    st.markdown("##### Men")
-    display_final_leaderboard(top_men_rating, "ratingFinal", "Glicko-2 Rating")
-    
-    # --- WOMEN ---
-    top_women_rating = women_stats_df.sort_values(by='ratingFinal', ascending=False).head(5)
-    st.markdown("##### Women")
-    display_final_leaderboard(top_women_rating, "ratingFinal", "Glicko-2 Rating")
+    # ----------------- COLUMN 3: HIGHEST RATING -----------------
+    with col3:
+        st.subheader("Highest Glicko-2 Rating")
+        
+        # --- MEN ---
+        top_men_rating = men_stats_df.sort_values(by='ratingFinal', ascending=False).head(5)
+        st.markdown("##### Men")
+        display_final_leaderboard(top_men_rating, "ratingFinal", "Glicko-2 Rating")
+        
+        # --- WOMEN ---
+        top_women_rating = women_stats_df.sort_values(by='ratingFinal', ascending=False).head(5)
+        st.markdown("##### Women")
+        display_final_leaderboard(top_women_rating, "ratingFinal", "Glicko-2 Rating")
