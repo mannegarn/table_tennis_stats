@@ -7,7 +7,7 @@ from datetime import datetime, timezone, timedelta
 import numpy as np
 
 # --- Path Definitions ---
-# This pattern ensures paths are relative to your project root (table_tennis_stats)
+# This pattern ensures paths are relative to this file
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR) # Goes up one level from /utils
 DEFAULT_RAW_EVENTS_DIR = os.path.join(PROJECT_ROOT, 'Data', 'Raw', 'Events') # Assuming raw data input
