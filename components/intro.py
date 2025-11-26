@@ -19,7 +19,7 @@ def render_intro(master_events_df,  master_matches_df, master_players_df):
   
     # --- 4. Main App ---
    
-    st.markdown("Author: **Marcus Annegarn** | Date: **2025/11/15**")
+  
 
     # --- 5. Introduction (Formatted Markdown) ---
     with st.expander("Show Project Introduction & Methodology", expanded=True):
@@ -64,7 +64,7 @@ def render_intro(master_events_df,  master_matches_df, master_players_df):
 
           
             col3.metric("Total Matches", f"{len(master_matches_df):,}")
-            col3.metric("Unique Players", f"{len(master_players_df):,}")
+            col3.metric("Total Players", f"{len(master_players_df):,}")
 
 
             total_womens_count = len(master_matches_df[master_matches_df["subEventName"].str.contains("women", case=False)])

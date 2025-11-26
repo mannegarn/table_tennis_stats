@@ -4,6 +4,8 @@ import re
 from unittest.mock import DEFAULT
 import pandas as pd
 from typing import Tuple, Optional 
+import streamlit as st
+
 
 # --- Path Fix: Make all paths absolute from this file's location ---
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -17,6 +19,7 @@ DEFAULT_WINRATES_DIR = os.path.join(PROJECT_ROOT, 'Data', 'Master', 'Winrates')
 DEFAULT_RATINGS_HISTORY_DIR = os.path.join(PROJECT_ROOT, 'Data', 'Master', 'Ratings_History')
 DEFAULT_RATINGS_SUMMARY_DIR = os.path.join(PROJECT_ROOT, 'Data', 'Master', 'Ratings_Summary')
 DEFAULT_CLEANED_DIR = os.path.join(PROJECT_ROOT, 'Data', 'Processed', 'Cleaned')
+DEFAULT_SPONSORS_DIR = os.path.join(PROJECT_ROOT, 'Data', 'Processed', 'Sponsors')
 
 # --- Minimal Columns (Must be lists) ---
 MINIMAL_MATCH_COLUMNS = ["documentCode"]
@@ -26,18 +29,12 @@ MINIMAL_COLUMNS = ["playerId"]
 
 
 
-def get_data():
-    
- 
-    master_players_df = get_latest_master_players()
-    master_events_df = get_latest_master_events()
-    master_matches_df = get_latest_master_matches()
 
-    return master_events_df, master_matches_df, master_players_df
-
-
+@st.cache_data
 def get_latest_master_matches(master_matches_dir:str = DEFAULT_MATCHES_DIR,
-                                master_matches_regex:str = r'^\d{8}_master_matches\.csv$') -> pd.DataFrame:
+                                master_matches_regex:str = r'^\d{8}_master_matches\.csv$')\
+     -> tuple[Optional[pd.DataFrame], Optional[pd.Timestamp]]:
+    
     """
     Parses specified directory for matches files in format yyyy_mm_dd. 
     Attempts to read latest file in this format. 
@@ -70,21 +67,25 @@ def get_latest_master_matches(master_matches_dir:str = DEFAULT_MATCHES_DIR,
 
     if not master_files:
         print(f"❌ No existing MASTER files in format: {master_matches_regex} in {master_matches_dir}")
-        return pd.DataFrame(columns=MINIMAL_MATCH_COLUMNS) 
+        return pd.DataFrame(columns=MINIMAL_MATCH_COLUMNS), None
  
     master_files.sort()     
     latest_master = master_files[-1]
 
-    try: 
+    try:
+        latest_date_string = os.path.basename(latest_master).split("_")[0] 
+        latest_date = pd.to_datetime(latest_date_string, format='%Y%m%d')
+        print(f"✅ Latest MASTER date found: {latest_date}")
+   
         latest_master_df = pd.read_csv(latest_master, low_memory=False)
         print(f"✅ {len(latest_master_df)} matches found in latest MASTER: {latest_master} ") 
-        return latest_master_df
+        return latest_master_df, latest_date
         
     except Exception as e:
         print(f"❌ Error reading lastest MASTER, {latest_master}: {e}")
-        return pd.DataFrame(columns=MINIMAL_MATCH_COLUMNS)
+        return pd.DataFrame(columns=MINIMAL_MATCH_COLUMNS), None
 
-
+@st.cache_data
 def get_latest_master_events(master_dir: str = DEFAULT_EVENTS_DIR, 
                              master_regex: str = r'^\d{8}_master_events\.csv$') -> pd.DataFrame:
     """
@@ -132,7 +133,7 @@ def get_latest_master_events(master_dir: str = DEFAULT_EVENTS_DIR,
         print (f"❌ Error reading lastest MASTER, {latest_master}: {e}")
         return pd.DataFrame(columns=MINIMAL_EVENT_COLUMNS)
 
-
+@st.cache_data
 def get_latest_master_players(master_dir: str = DEFAULT_PLAYERS_DIR, 
                               master_regex: str = r'^\d{8}_master_players\.csv$') ->pd.DataFrame:
     """
@@ -184,7 +185,7 @@ def get_latest_master_players(master_dir: str = DEFAULT_PLAYERS_DIR,
         print(f"❌ Error reading latest MASTER player file, {latest_master_players_file_path}: {e}")
         return pd.DataFrame(columns=MINIMAL_PLAYER_COLUMNS)
 
-
+@st.cache_data
 def get_latest_winrates( info_string:str,
                         master_dir: str = DEFAULT_WINRATES_DIR
                         ) -> pd.DataFrame:
@@ -225,14 +226,14 @@ def get_latest_winrates( info_string:str,
 
     try: 
         latest_winrates_df = pd.read_csv(latest_winrates, low_memory=False)
-        print(f"✅ {len(latest_winrates_df)} winrates found in latest MASTER: {latest_winrates} ")
+        print(f"✅ {len(latest_winrates_df)} \'{info_string}\' winrates found in latest MASTER: {latest_winrates} ")
         return latest_winrates_df
         
     except Exception as e:
         print (f"❌ Error reading lastest MASTER, {latest_winrates}: {e}")
         return pd.DataFrame(columns=MINIMAL_COLUMNS)
 
-
+@st.cache_data
 def get_latest_ratings_history( info_string:str,
                                  master_dir: str = DEFAULT_RATINGS_HISTORY_DIR
                                 ) -> pd.DataFrame:
@@ -268,7 +269,7 @@ def get_latest_ratings_history( info_string:str,
         print (f"❌ Error reading lastest MASTER, {latest_file}: {e}")
         return pd.DataFrame(columns=MINIMAL_COLUMNS)
     
-
+@st.cache_data
 def get_latest_ratings_summary( info_string:str,
                                 master_dir: str = DEFAULT_RATINGS_SUMMARY_DIR
                             ) -> pd.DataFrame:
@@ -346,3 +347,46 @@ def get_latest_cleaned_matches(cleaned_matches_dir:str = DEFAULT_CLEANED_DIR,
     except Exception as e:
         print (f"❌ Error reading lastest cleaned_matches, {latest_cleaned_matches}: {e}")
         return pd.DataFrame(columns=MINIMAL_MATCH_COLUMNS)
+    
+def get_latest_sponsors_data(sponsor_data_dir:str = DEFAULT_SPONSORS_DIR, 
+                             sponsor_data_regex:str = r'^\d{8}_event_sponsors\.csv$') ->pd.DataFrame:
+    """
+    Parses specified directory for sponsor_data_files in format yyyy_mm_dd. 
+    Attempts to read latest file in this format. 
+
+    Args:
+        sponsor_data_dir (str): The folder where the sponsor_data_files are stored.
+        sponsor_data_regex (str): The pattern to match.
+
+    Returns:
+        Optional[pd.DataFrame]: returns DF with data if available, or None if data unavailable or error.
+    """
+    if not os.path.isdir(sponsor_data_dir):
+        print(f"❌ {sponsor_data_dir} does not exist as a directory")
+        return None 
+            
+    files = glob.glob(f"{sponsor_data_dir}/*.csv")
+    sponsor_data_files = []
+
+    for file in files:
+        filename = os.path.basename(file)
+        
+        if re.match(sponsor_data_regex, filename):
+            sponsor_data_files.append(file)
+            # print(f"✅ Found sponsor_data file: {file}") # Suppressed verbose printing
+
+    if not sponsor_data_files:
+        print(f"❌ No existing sponsor_data files in format: {sponsor_data_regex} in {sponsor_data_dir}")
+        return pd.DataFrame(columns=MINIMAL_EVENT_COLUMNS)
+    
+    sponsor_data_files.sort()
+    latest_sponsor_data = sponsor_data_files[-1]
+
+    try: 
+        latest_sponsor_data_df = pd.read_csv(latest_sponsor_data, low_memory=False)
+        print(f"✅ {len(latest_sponsor_data_df)} sponsors found in latest sponsor_data: {latest_sponsor_data} ")
+        return latest_sponsor_data_df
+        
+    except Exception as e:
+        print (f"❌ Error reading lastest sponsor_data, {latest_sponsor_data}: {e}")
+        return pd.DataFrame(columns=MINIMAL_EVENT_COLUMNS)
